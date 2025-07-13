@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_serendipity_frontend_view=self.webpackChunk_serendipity_frontend_view||[]).push([[7644],{7644:e=>{e.exports={" ":""}}}]);
