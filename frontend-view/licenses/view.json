@@ -1,0 +1,183 @@
+{
+  "@fortawesome/fontawesome-svg-core@6.7.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/FortAwesome/Font-Awesome",
+    "publisher": "The Font Awesome Team",
+    "url": "https://github.com/orgs/FortAwesome/people",
+    "licenseFile": "npm/@fortawesome/fontawesome-svg-core@6.7.2/LICENSE.txt"
+  },
+  "@fortawesome/free-regular-svg-icons@6.7.2": {
+    "licenses": "(CC-BY-4.0 AND MIT)",
+    "repository": "https://github.com/FortAwesome/Font-Awesome",
+    "publisher": "The Font Awesome Team",
+    "url": "https://github.com/orgs/FortAwesome/people",
+    "licenseFile": "npm/@fortawesome/free-regular-svg-icons@6.7.2/LICENSE.txt"
+  },
+  "@fortawesome/free-solid-svg-icons@6.7.2": {
+    "licenses": "(CC-BY-4.0 AND MIT)",
+    "repository": "https://github.com/FortAwesome/Font-Awesome",
+    "publisher": "The Font Awesome Team",
+    "url": "https://github.com/orgs/FortAwesome/people",
+    "licenseFile": "npm/@fortawesome/free-solid-svg-icons@6.7.2/LICENSE.txt"
+  },
+  "@fortawesome/react-fontawesome@0.2.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/FortAwesome/react-fontawesome",
+    "licenseFile": "npm/@fortawesome/react-fontawesome@0.2.6/LICENSE.txt"
+  },
+  "@headlessui/react@2.2.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/tailwindlabs/headlessui",
+    "licenseFile": "npm/@headlessui/react@2.2.7/LICENSE"
+  },
+  "@inquirer/prompts@7.7.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/SBoudrias/Inquirer.js",
+    "publisher": "Simon Boudrias",
+    "email": "admin@simonboudrias.com",
+    "licenseFile": "npm/@inquirer/prompts@7.7.1/LICENSE"
+  },
+  "@openzeppelin/contracts-upgradeable@5.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable",
+    "publisher": "OpenZeppelin Community",
+    "email": "maintainers@openzeppelin.org",
+    "licenseFile": "npm/@openzeppelin/contracts-upgradeable@5.4.0/README.md"
+  },
+  "@openzeppelin/contracts@5.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "publisher": "OpenZeppelin Community",
+    "email": "maintainers@openzeppelin.org",
+    "licenseFile": "npm/@openzeppelin/contracts@5.4.0/README.md"
+  },
+  "@tanstack/react-query@5.85.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/TanStack/query",
+    "publisher": "tannerlinsley",
+    "licenseFile": "npm/@tanstack/react-query@5.85.6/LICENSE"
+  },
+  "@web3-onboard/core@2.24.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blocknative/web3-onboard",
+    "licenseFile": "npm/@web3-onboard/core@2.24.1/LICENSE"
+  },
+  "@web3-onboard/injected-wallets@2.11.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blocknative/web3-onboard",
+    "licenseFile": "npm/@web3-onboard/injected-wallets@2.11.3/LICENSE"
+  },
+  "@web3-onboard/react@2.11.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blocknative/web3-onboard",
+    "licenseFile": "npm/@web3-onboard/react@2.11.0/LICENSE"
+  },
+  "assert@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/browserify/commonjs-assert",
+    "licenseFile": "npm/assert@2.1.0/LICENSE"
+  },
+  "async-lock@1.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rogierschouten/async-lock",
+    "publisher": "Rogier Schouten",
+    "email": "github@workingcode.ninja",
+    "url": "https://github.com/rogierschouten/",
+    "licenseFile": "npm/async-lock@1.4.1/LICENSE"
+  },
+  "clsx@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lukeed/clsx",
+    "publisher": "Luke Edwards",
+    "email": "luke.edwards05@gmail.com",
+    "url": "https://lukeed.com",
+    "licenseFile": "npm/clsx@2.1.1/license"
+  },
+  "csv-stringify@6.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/adaltas/node-csv",
+    "publisher": "David Worms",
+    "email": "david@adaltas.com",
+    "url": "https://www.adaltas.com",
+    "licenseFile": "npm/csv-stringify@6.6.0/README.md"
+  },
+  "currency-codes@2.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/freeall/currency-codes",
+    "licenseFile": "npm/currency-codes@2.2.0/LICENSE"
+  },
+  "decimal.js@10.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/MikeMcl/decimal.js",
+    "publisher": "Michael Mclaughlin",
+    "email": "M8ch88l@gmail.com",
+    "licenseFile": "npm/decimal.js@10.6.0/LICENCE.md"
+  },
+  "ethers-decode-error@2.1.3": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/superical/ethers-decode-error",
+    "publisher": "superical",
+    "url": "https://github.com/superical",
+    "licenseFile": "npm/ethers-decode-error@2.1.3/LICENSE"
+  },
+  "ethers@6.15.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ethers-io/ethers.js",
+    "publisher": "Richard Moore",
+    "email": "me@ricmoo.com",
+    "licenseFile": "npm/ethers@6.15.0/LICENSE.md"
+  },
+  "i18next-browser-languagedetector@8.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/i18next/i18next-browser-languageDetector",
+    "publisher": "Jan Mühlemann",
+    "email": "jan.muehlemann@gmail.com",
+    "url": "https://github.com/jamuhl",
+    "licenseFile": "npm/i18next-browser-languagedetector@8.2.0/LICENSE"
+  },
+  "i18next-chained-backend@4.6.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/i18next/i18next-chained-backend",
+    "publisher": "Jan Mühlemann",
+    "email": "jan.muehlemann@gmail.com",
+    "url": "https://github.com/jamuhl",
+    "licenseFile": "npm/i18next-chained-backend@4.6.2/LICENSE"
+  },
+  "i18next-resources-to-backend@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/i18next/i18next-resources-to-backend",
+    "licenseFile": "npm/i18next-resources-to-backend@1.2.1/licence"
+  },
+  "i18next@23.16.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/i18next/i18next",
+    "publisher": "Jan Mühlemann",
+    "email": "jan.muehlemann@gmail.com",
+    "url": "https://github.com/jamuhl",
+    "licenseFile": "npm/i18next@23.16.8/LICENSE"
+  },
+  "react-dom@18.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "licenseFile": "npm/react-dom@18.3.1/LICENSE"
+  },
+  "react-i18next@15.7.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/i18next/react-i18next",
+    "publisher": "Jan Mühlemann",
+    "email": "jan.muehlemann@gmail.com",
+    "url": "https://github.com/jamuhl",
+    "licenseFile": "npm/react-i18next@15.7.3/LICENSE"
+  },
+  "react-select@5.10.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/JedWatson/react-select/tree/master/packages/react-select",
+    "publisher": "Jed Watson",
+    "licenseFile": "npm/react-select@5.10.2/LICENSE"
+  },
+  "react@18.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "licenseFile": "npm/react@18.3.1/LICENSE"
+  }
+}
