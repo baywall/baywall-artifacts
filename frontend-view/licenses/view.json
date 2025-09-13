@@ -30,27 +30,6 @@
     "repository": "https://github.com/tailwindlabs/headlessui",
     "licenseFile": "npm/@headlessui/react@2.2.7/LICENSE"
   },
-  "@inquirer/prompts@7.7.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/SBoudrias/Inquirer.js",
-    "publisher": "Simon Boudrias",
-    "email": "admin@simonboudrias.com",
-    "licenseFile": "npm/@inquirer/prompts@7.7.1/LICENSE"
-  },
-  "@openzeppelin/contracts-upgradeable@5.4.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable",
-    "publisher": "OpenZeppelin Community",
-    "email": "maintainers@openzeppelin.org",
-    "licenseFile": "npm/@openzeppelin/contracts-upgradeable@5.4.0/README.md"
-  },
-  "@openzeppelin/contracts@5.4.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/OpenZeppelin/openzeppelin-contracts",
-    "publisher": "OpenZeppelin Community",
-    "email": "maintainers@openzeppelin.org",
-    "licenseFile": "npm/@openzeppelin/contracts@5.4.0/README.md"
-  },
   "@tanstack/react-query@5.85.6": {
     "licenses": "MIT",
     "repository": "https://github.com/TanStack/query",
@@ -92,14 +71,6 @@
     "email": "luke.edwards05@gmail.com",
     "url": "https://lukeed.com",
     "licenseFile": "npm/clsx@2.1.1/license"
-  },
-  "csv-stringify@6.6.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/adaltas/node-csv",
-    "publisher": "David Worms",
-    "email": "david@adaltas.com",
-    "url": "https://www.adaltas.com",
-    "licenseFile": "npm/csv-stringify@6.6.0/README.md"
   },
   "currency-codes@2.2.0": {
     "licenses": "MIT",
