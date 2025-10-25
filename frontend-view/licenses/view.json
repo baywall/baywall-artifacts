@@ -140,6 +140,11 @@
     "url": "https://github.com/jamuhl",
     "licenseFile": "npm/react-i18next@15.7.4/LICENSE"
   },
+  "react-scroll@1.9.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/fisshy/react-scroll",
+    "licenseFile": "npm/react-scroll@1.9.3/README.md"
+  },
   "react-select@5.10.2": {
     "licenses": "MIT",
     "repository": "https://github.com/JedWatson/react-select/tree/master/packages/react-select",
