@@ -108,6 +108,12 @@
     "url": "https://github.com/jamuhl",
     "licenseFile": "npm/i18next@23.16.8/LICENSE"
   },
+  "jotai@2.15.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pmndrs/jotai",
+    "publisher": "Daishi Kato",
+    "licenseFile": "npm/jotai@2.15.0/LICENSE"
+  },
   "md5@2.3.0": {
     "licenses": "BSD-3-Clause",
     "repository": "https://github.com/pvorb/node-md5",
@@ -141,6 +147,13 @@
     "email": "jan.muehlemann@gmail.com",
     "url": "https://github.com/jamuhl",
     "licenseFile": "npm/react-i18next@15.7.4/LICENSE"
+  },
+  "react-markdown@10.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/remarkjs/react-markdown",
+    "publisher": "Espen Hovlandsdal",
+    "email": "espen@hovlandsdal.com",
+    "licenseFile": "npm/react-markdown@10.1.0/license"
   },
   "react-router-dom@7.9.3": {
     "licenses": "MIT",
