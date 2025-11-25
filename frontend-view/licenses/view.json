@@ -127,6 +127,12 @@
     "url": "https://github.com/jamuhl",
     "licenseFile": "npm/i18next@23.16.8/LICENSE"
   },
+  "jotai@2.15.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pmndrs/jotai",
+    "publisher": "Daishi Kato",
+    "licenseFile": "npm/jotai@2.15.0/LICENSE"
+  },
   "react-dom@18.3.1": {
     "licenses": "MIT",
     "repository": "https://github.com/facebook/react",
