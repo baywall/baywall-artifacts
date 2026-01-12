@@ -72,6 +72,13 @@
     "url": "https://lukeed.com",
     "licenseFile": "npm/clsx@2.1.1/license"
   },
+  "colord@2.9.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/omgovich/colord",
+    "publisher": "Vlad Shilov",
+    "email": "omgovich@ya.ru",
+    "licenseFile": "npm/colord@2.9.3/LICENSE.md"
+  },
   "currency-codes@2.2.0": {
     "licenses": "MIT",
     "repository": "https://github.com/freeall/currency-codes",
