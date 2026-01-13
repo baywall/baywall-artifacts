@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_serendipity_frontend_view=self.webpackChunk_serendipity_frontend_view||[]).push([[9720],{9720:e=>{e.exports=JSON.parse('{"payment.agree_terms_label":"<l>利用規約</l>に同意"}')}}]);
