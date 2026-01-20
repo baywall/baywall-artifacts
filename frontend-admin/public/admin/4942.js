@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_serendipity_frontend_admin=self.webpackChunk_serendipity_frontend_admin||[]).push([[4942],{14942:e=>{e.exports=JSON.parse('{"notifications.ethereum_rpc_url_not_registered_message":"EthereumメインネットのRPC URLが登録されていません。"}')}}]);
