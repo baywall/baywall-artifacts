@@ -1,35 +1,35 @@
 {
-  "@mui/icons-material@5.18.0": {
+  "@mui/icons-material@7.3.9": {
     "licenses": "MIT",
     "repository": "https://github.com/mui/material-ui",
     "publisher": "MUI Team",
-    "licenseFile": "npm/@mui/icons-material@5.18.0/LICENSE"
+    "licenseFile": "npm/@mui/icons-material@7.3.9/LICENSE"
   },
-  "@mui/material@5.18.0": {
+  "@mui/material@7.3.9": {
     "licenses": "MIT",
     "repository": "https://github.com/mui/material-ui",
     "publisher": "MUI Team",
-    "licenseFile": "npm/@mui/material@5.18.0/LICENSE"
+    "licenseFile": "npm/@mui/material@7.3.9/LICENSE"
   },
-  "@openzeppelin/contracts-upgradeable@5.4.0": {
+  "@openzeppelin/contracts-upgradeable@5.6.1": {
     "licenses": "MIT",
     "repository": "https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable",
     "publisher": "OpenZeppelin Community",
     "email": "maintainers@openzeppelin.org",
-    "licenseFile": "npm/@openzeppelin/contracts-upgradeable@5.4.0/README.md"
+    "licenseFile": "npm/@openzeppelin/contracts-upgradeable@5.6.1/README.md"
   },
-  "@openzeppelin/contracts@5.4.0": {
+  "@openzeppelin/contracts@5.6.1": {
     "licenses": "MIT",
     "repository": "https://github.com/OpenZeppelin/openzeppelin-contracts",
     "publisher": "OpenZeppelin Community",
     "email": "maintainers@openzeppelin.org",
-    "licenseFile": "npm/@openzeppelin/contracts@5.4.0/README.md"
+    "licenseFile": "npm/@openzeppelin/contracts@5.6.1/README.md"
   },
-  "@tanstack/react-query@5.90.2": {
+  "@tanstack/react-query@5.90.21": {
     "licenses": "MIT",
     "repository": "https://github.com/TanStack/query",
     "publisher": "tannerlinsley",
-    "licenseFile": "npm/@tanstack/react-query@5.90.2/LICENSE"
+    "licenseFile": "npm/@tanstack/react-query@5.90.21/LICENSE"
   },
   "@web3-onboard/core@2.24.1": {
     "licenses": "MIT",
@@ -94,28 +94,28 @@
     "email": "M8ch88l@gmail.com",
     "licenseFile": "npm/decimal.js@10.6.0/LICENCE.md"
   },
-  "ethers@6.15.0": {
+  "ethers@6.16.0": {
     "licenses": "MIT",
     "repository": "https://github.com/ethers-io/ethers.js",
     "publisher": "Richard Moore",
     "email": "me@ricmoo.com",
-    "licenseFile": "npm/ethers@6.15.0/LICENSE.md"
+    "licenseFile": "npm/ethers@6.16.0/LICENSE.md"
   },
-  "i18next-browser-languagedetector@8.2.0": {
+  "i18next-browser-languagedetector@8.2.1": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/i18next-browser-languageDetector",
     "publisher": "Jan Mühlemann",
     "email": "jan.muehlemann@gmail.com",
     "url": "https://github.com/jamuhl",
-    "licenseFile": "npm/i18next-browser-languagedetector@8.2.0/LICENSE"
+    "licenseFile": "npm/i18next-browser-languagedetector@8.2.1/LICENSE"
   },
-  "i18next-chained-backend@4.6.2": {
+  "i18next-chained-backend@4.6.3": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/i18next-chained-backend",
     "publisher": "Jan Mühlemann",
     "email": "jan.muehlemann@gmail.com",
     "url": "https://github.com/jamuhl",
-    "licenseFile": "npm/i18next-chained-backend@4.6.2/LICENSE"
+    "licenseFile": "npm/i18next-chained-backend@4.6.3/LICENSE"
   },
   "i18next-resources-to-backend@1.2.1": {
     "licenses": "MIT",
@@ -130,11 +130,11 @@
     "url": "https://github.com/jamuhl",
     "licenseFile": "npm/i18next@23.16.8/LICENSE"
   },
-  "jotai@2.15.0": {
+  "jotai@2.18.0": {
     "licenses": "MIT",
     "repository": "https://github.com/pmndrs/jotai",
     "publisher": "Daishi Kato",
-    "licenseFile": "npm/jotai@2.15.0/LICENSE"
+    "licenseFile": "npm/jotai@2.18.0/LICENSE"
   },
   "md5@2.3.0": {
     "licenses": "BSD-3-Clause",
@@ -144,23 +144,23 @@
     "url": "http://paul.vorba.ch",
     "licenseFile": "npm/md5@2.3.0/LICENSE"
   },
-  "react-admin@5.11.4": {
+  "react-admin@5.14.3": {
     "licenses": "MIT",
     "repository": "https://github.com/marmelab/react-admin",
-    "licenseFile": "npm/react-admin@5.11.4/LICENSE.md"
+    "licenseFile": "npm/react-admin@5.14.3/LICENSE.md"
   },
   "react-dom@18.3.1": {
     "licenses": "MIT",
     "repository": "https://github.com/facebook/react",
     "licenseFile": "npm/react-dom@18.3.1/LICENSE"
   },
-  "react-hook-form@7.64.0": {
+  "react-hook-form@7.71.2": {
     "licenses": "MIT",
     "repository": "https://github.com/react-hook-form/react-hook-form",
     "publisher": "Beier",
     "email": "bluebill1049@hotmail.com",
     "url": "Bill",
-    "licenseFile": "npm/react-hook-form@7.64.0/LICENSE"
+    "licenseFile": "npm/react-hook-form@7.71.2/LICENSE"
   },
   "react-i18next@15.7.4": {
     "licenses": "MIT",
@@ -177,12 +177,12 @@
     "email": "espen@hovlandsdal.com",
     "licenseFile": "npm/react-markdown@10.1.0/license"
   },
-  "react-router-dom@7.9.3": {
+  "react-router-dom@7.13.1": {
     "licenses": "MIT",
     "repository": "https://github.com/remix-run/react-router",
     "publisher": "Remix Software",
     "email": "hello@remix.run",
-    "licenseFile": "npm/react-router-dom@7.9.3/LICENSE.md"
+    "licenseFile": "npm/react-router-dom@7.13.1/LICENSE.md"
   },
   "react@18.3.1": {
     "licenses": "MIT",

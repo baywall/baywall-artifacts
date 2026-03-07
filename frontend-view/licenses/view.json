@@ -30,11 +30,11 @@
     "repository": "https://github.com/tailwindlabs/headlessui",
     "licenseFile": "npm/@headlessui/react@2.2.9/LICENSE"
   },
-  "@tanstack/react-query@5.90.2": {
+  "@tanstack/react-query@5.90.21": {
     "licenses": "MIT",
     "repository": "https://github.com/TanStack/query",
     "publisher": "tannerlinsley",
-    "licenseFile": "npm/@tanstack/react-query@5.90.2/LICENSE"
+    "licenseFile": "npm/@tanstack/react-query@5.90.21/LICENSE"
   },
   "@web3-onboard/core@2.24.1": {
     "licenses": "MIT",
@@ -98,28 +98,28 @@
     "url": "https://github.com/superical",
     "licenseFile": "npm/ethers-decode-error@2.1.3/LICENSE"
   },
-  "ethers@6.15.0": {
+  "ethers@6.16.0": {
     "licenses": "MIT",
     "repository": "https://github.com/ethers-io/ethers.js",
     "publisher": "Richard Moore",
     "email": "me@ricmoo.com",
-    "licenseFile": "npm/ethers@6.15.0/LICENSE.md"
+    "licenseFile": "npm/ethers@6.16.0/LICENSE.md"
   },
-  "i18next-browser-languagedetector@8.2.0": {
+  "i18next-browser-languagedetector@8.2.1": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/i18next-browser-languageDetector",
     "publisher": "Jan Mühlemann",
     "email": "jan.muehlemann@gmail.com",
     "url": "https://github.com/jamuhl",
-    "licenseFile": "npm/i18next-browser-languagedetector@8.2.0/LICENSE"
+    "licenseFile": "npm/i18next-browser-languagedetector@8.2.1/LICENSE"
   },
-  "i18next-chained-backend@4.6.2": {
+  "i18next-chained-backend@4.6.3": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/i18next-chained-backend",
     "publisher": "Jan Mühlemann",
     "email": "jan.muehlemann@gmail.com",
     "url": "https://github.com/jamuhl",
-    "licenseFile": "npm/i18next-chained-backend@4.6.2/LICENSE"
+    "licenseFile": "npm/i18next-chained-backend@4.6.3/LICENSE"
   },
   "i18next-resources-to-backend@1.2.1": {
     "licenses": "MIT",

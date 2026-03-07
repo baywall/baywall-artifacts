@@ -1,9 +1,9 @@
 {
-  "@tanstack/react-query@4.41.0": {
+  "@tanstack/react-query@4.43.0": {
     "licenses": "MIT",
     "repository": "https://github.com/TanStack/query",
     "publisher": "tannerlinsley",
-    "licenseFile": "npm/@tanstack/react-query@4.41.0/LICENSE"
+    "licenseFile": "npm/@tanstack/react-query@4.43.0/LICENSE"
   },
   "@wordpress/block-editor@13.4.0": {
     "licenses": "GPL-2.0-or-later",
@@ -23,23 +23,23 @@
     "publisher": "The WordPress Contributors",
     "licenseFile": "npm/@wordpress/components@29.12.0/LICENSE.md"
   },
-  "@wordpress/data@10.32.0": {
+  "@wordpress/data@10.41.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg",
     "publisher": "The WordPress Contributors",
-    "licenseFile": "npm/@wordpress/data@10.32.0/LICENSE.md"
+    "licenseFile": "npm/@wordpress/data@10.41.0/LICENSE.md"
   },
-  "@wordpress/editor@14.32.0": {
+  "@wordpress/editor@14.41.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg",
     "publisher": "The WordPress Contributors",
-    "licenseFile": "npm/@wordpress/editor@14.32.0/LICENSE.md"
+    "licenseFile": "npm/@wordpress/editor@14.41.0/LICENSE.md"
   },
-  "@wordpress/element@6.32.0": {
+  "@wordpress/element@6.41.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg",
     "publisher": "The WordPress Contributors",
-    "licenseFile": "npm/@wordpress/element@6.32.0/LICENSE.md"
+    "licenseFile": "npm/@wordpress/element@6.41.0/LICENSE.md"
   },
   "@wordpress/i18n@5.26.0": {
     "licenses": "GPL-2.0-or-later",
@@ -53,11 +53,11 @@
     "publisher": "The WordPress Contributors",
     "licenseFile": "npm/@wordpress/icons@10.32.0/LICENSE.md"
   },
-  "@wordpress/notices@5.32.0": {
+  "@wordpress/notices@5.41.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg",
     "publisher": "The WordPress Contributors",
-    "licenseFile": "npm/@wordpress/notices@5.32.0/LICENSE.md"
+    "licenseFile": "npm/@wordpress/notices@5.41.0/LICENSE.md"
   },
   "assert@2.1.0": {
     "licenses": "MIT",
@@ -90,10 +90,10 @@
     "publisher": "Evgeny Poberezkin",
     "licenseFile": "npm/fast-deep-equal@3.1.3/LICENSE"
   },
-  "graphql@16.11.0": {
+  "graphql@16.13.1": {
     "licenses": "MIT",
     "repository": "https://github.com/graphql/graphql-js",
-    "licenseFile": "npm/graphql@16.11.0/LICENSE"
+    "licenseFile": "npm/graphql@16.13.1/LICENSE"
   },
   "i18next-browser-languagedetector@8.2.0": {
     "licenses": "MIT",
@@ -111,11 +111,11 @@
     "url": "https://github.com/jamuhl",
     "licenseFile": "npm/i18next@23.16.8/LICENSE"
   },
-  "jotai@2.15.0": {
+  "jotai@2.18.0": {
     "licenses": "MIT",
     "repository": "https://github.com/pmndrs/jotai",
     "publisher": "Daishi Kato",
-    "licenseFile": "npm/jotai@2.15.0/LICENSE"
+    "licenseFile": "npm/jotai@2.18.0/LICENSE"
   },
   "react-dom@18.3.1": {
     "licenses": "MIT",
