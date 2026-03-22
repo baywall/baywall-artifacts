@@ -23,23 +23,23 @@
     "publisher": "The WordPress Contributors",
     "licenseFile": "npm/@wordpress/components@29.12.0/LICENSE.md"
   },
-  "@wordpress/data@10.41.0": {
+  "@wordpress/data@10.42.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg",
     "publisher": "The WordPress Contributors",
-    "licenseFile": "npm/@wordpress/data@10.41.0/LICENSE.md"
+    "licenseFile": "npm/@wordpress/data@10.42.0/LICENSE.md"
   },
-  "@wordpress/editor@14.41.0": {
+  "@wordpress/editor@14.42.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg",
     "publisher": "The WordPress Contributors",
-    "licenseFile": "npm/@wordpress/editor@14.41.0/LICENSE.md"
+    "licenseFile": "npm/@wordpress/editor@14.42.0/LICENSE.md"
   },
-  "@wordpress/element@6.41.0": {
+  "@wordpress/element@6.42.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg",
     "publisher": "The WordPress Contributors",
-    "licenseFile": "npm/@wordpress/element@6.41.0/LICENSE.md"
+    "licenseFile": "npm/@wordpress/element@6.42.0/LICENSE.md"
   },
   "@wordpress/icons@10.32.0": {
     "licenses": "GPL-2.0-or-later",
@@ -47,11 +47,11 @@
     "publisher": "The WordPress Contributors",
     "licenseFile": "npm/@wordpress/icons@10.32.0/LICENSE.md"
   },
-  "@wordpress/notices@5.41.0": {
+  "@wordpress/notices@5.42.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg",
     "publisher": "The WordPress Contributors",
-    "licenseFile": "npm/@wordpress/notices@5.41.0/LICENSE.md"
+    "licenseFile": "npm/@wordpress/notices@5.42.0/LICENSE.md"
   },
   "assert@2.1.0": {
     "licenses": "MIT",
@@ -97,13 +97,13 @@
     "url": "https://github.com/jamuhl",
     "licenseFile": "npm/i18next-browser-languagedetector@8.2.1/LICENSE"
   },
-  "i18next@25.10.3": {
+  "i18next@25.10.4": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/i18next",
     "publisher": "Jan Mühlemann",
     "email": "jan.muehlemann@gmail.com",
     "url": "https://github.com/jamuhl",
-    "licenseFile": "npm/i18next@25.10.3/LICENSE"
+    "licenseFile": "npm/i18next@25.10.4/LICENSE"
   },
   "jotai@2.18.1": {
     "licenses": "MIT",

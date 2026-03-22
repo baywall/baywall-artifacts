@@ -30,11 +30,11 @@
     "repository": "https://github.com/tailwindlabs/headlessui",
     "licenseFile": "npm/@headlessui/react@2.2.9/LICENSE"
   },
-  "@tanstack/react-query@5.90.21": {
+  "@tanstack/react-query@5.94.5": {
     "licenses": "MIT",
     "repository": "https://github.com/TanStack/query",
     "publisher": "tannerlinsley",
-    "licenseFile": "npm/@tanstack/react-query@5.90.21/LICENSE"
+    "licenseFile": "npm/@tanstack/react-query@5.94.5/LICENSE"
   },
   "@web3-onboard/core@2.24.1": {
     "licenses": "MIT",
@@ -126,13 +126,13 @@
     "repository": "https://github.com/i18next/i18next-resources-to-backend",
     "licenseFile": "npm/i18next-resources-to-backend@1.2.1/licence"
   },
-  "i18next@25.10.3": {
+  "i18next@25.10.4": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/i18next",
     "publisher": "Jan Mühlemann",
     "email": "jan.muehlemann@gmail.com",
     "url": "https://github.com/jamuhl",
-    "licenseFile": "npm/i18next@25.10.3/LICENSE"
+    "licenseFile": "npm/i18next@25.10.4/LICENSE"
   },
   "jotai@2.18.1": {
     "licenses": "MIT",
@@ -145,13 +145,13 @@
     "repository": "https://github.com/facebook/react",
     "licenseFile": "npm/react-dom@18.3.1/LICENSE"
   },
-  "react-i18next@16.6.0": {
+  "react-i18next@16.6.1": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/react-i18next",
     "publisher": "Jan Mühlemann",
     "email": "jan.muehlemann@gmail.com",
     "url": "https://github.com/jamuhl",
-    "licenseFile": "npm/react-i18next@16.6.0/LICENSE"
+    "licenseFile": "npm/react-i18next@16.6.1/LICENSE"
   },
   "react-scroll@1.9.3": {
     "licenses": "MIT",
