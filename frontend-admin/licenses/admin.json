@@ -74,14 +74,6 @@
     "email": "fredrik.nicol@gmail.com",
     "licenseFile": "npm/csstype@3.1.3/LICENSE"
   },
-  "csv-stringify@6.6.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/adaltas/node-csv",
-    "publisher": "David Worms",
-    "email": "david@adaltas.com",
-    "url": "https://www.adaltas.com",
-    "licenseFile": "npm/csv-stringify@6.6.0/README.md"
-  },
   "currency-codes@2.2.0": {
     "licenses": "MIT",
     "repository": "https://github.com/freeall/currency-codes",
@@ -122,19 +114,19 @@
     "repository": "https://github.com/i18next/i18next-resources-to-backend",
     "licenseFile": "npm/i18next-resources-to-backend@1.2.1/licence"
   },
-  "i18next@25.8.14": {
+  "i18next@25.10.3": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/i18next",
     "publisher": "Jan Mühlemann",
     "email": "jan.muehlemann@gmail.com",
     "url": "https://github.com/jamuhl",
-    "licenseFile": "npm/i18next@25.8.14/LICENSE"
+    "licenseFile": "npm/i18next@25.10.3/LICENSE"
   },
-  "jotai@2.18.0": {
+  "jotai@2.18.1": {
     "licenses": "MIT",
     "repository": "https://github.com/pmndrs/jotai",
     "publisher": "Daishi Kato",
-    "licenseFile": "npm/jotai@2.18.0/LICENSE"
+    "licenseFile": "npm/jotai@2.18.1/LICENSE"
   },
   "md5@2.3.0": {
     "licenses": "BSD-3-Clause",
@@ -162,13 +154,13 @@
     "url": "Bill",
     "licenseFile": "npm/react-hook-form@7.71.2/LICENSE"
   },
-  "react-i18next@15.7.4": {
+  "react-i18next@16.6.0": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/react-i18next",
     "publisher": "Jan Mühlemann",
     "email": "jan.muehlemann@gmail.com",
     "url": "https://github.com/jamuhl",
-    "licenseFile": "npm/react-i18next@15.7.4/LICENSE"
+    "licenseFile": "npm/react-i18next@16.6.0/LICENSE"
   },
   "react-markdown@10.1.0": {
     "licenses": "MIT",

@@ -41,12 +41,6 @@
     "publisher": "The WordPress Contributors",
     "licenseFile": "npm/@wordpress/element@6.41.0/LICENSE.md"
   },
-  "@wordpress/i18n@5.26.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg",
-    "publisher": "The WordPress Contributors",
-    "licenseFile": "npm/@wordpress/i18n@5.26.0/LICENSE.md"
-  },
   "@wordpress/icons@10.32.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg",
@@ -103,32 +97,32 @@
     "url": "https://github.com/jamuhl",
     "licenseFile": "npm/i18next-browser-languagedetector@8.2.1/LICENSE"
   },
-  "i18next@25.8.14": {
+  "i18next@25.10.3": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/i18next",
     "publisher": "Jan Mühlemann",
     "email": "jan.muehlemann@gmail.com",
     "url": "https://github.com/jamuhl",
-    "licenseFile": "npm/i18next@25.8.14/LICENSE"
+    "licenseFile": "npm/i18next@25.10.3/LICENSE"
   },
-  "jotai@2.18.0": {
+  "jotai@2.18.1": {
     "licenses": "MIT",
     "repository": "https://github.com/pmndrs/jotai",
     "publisher": "Daishi Kato",
-    "licenseFile": "npm/jotai@2.18.0/LICENSE"
+    "licenseFile": "npm/jotai@2.18.1/LICENSE"
   },
   "react-dom@18.3.1": {
     "licenses": "MIT",
     "repository": "https://github.com/facebook/react",
     "licenseFile": "npm/react-dom@18.3.1/LICENSE"
   },
-  "react-i18next@15.7.4": {
+  "react-i18next@16.6.0": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/react-i18next",
     "publisher": "Jan Mühlemann",
     "email": "jan.muehlemann@gmail.com",
     "url": "https://github.com/jamuhl",
-    "licenseFile": "npm/react-i18next@15.7.4/LICENSE"
+    "licenseFile": "npm/react-i18next@16.6.0/LICENSE"
   },
   "react@18.3.1": {
     "licenses": "MIT",
