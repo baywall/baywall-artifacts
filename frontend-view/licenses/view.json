@@ -91,6 +91,14 @@
     "email": "M8ch88l@gmail.com",
     "licenseFile": "npm/decimal.js@10.6.0/LICENCE.md"
   },
+  "dompurify@3.3.3": {
+    "licenses": "(MPL-2.0 OR Apache-2.0)",
+    "repository": "https://github.com/cure53/DOMPurify",
+    "publisher": "Dr.-Ing. Mario Heiderich, Cure53",
+    "email": "mario@cure53.de",
+    "url": "https://cure53.de/",
+    "licenseFile": "npm/dompurify@3.3.3/LICENSE"
+  },
   "ethers-decode-error@2.1.3": {
     "licenses": "Apache-2.0",
     "repository": "https://github.com/superical/ethers-decode-error",
