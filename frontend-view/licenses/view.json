@@ -25,16 +25,16 @@
     "repository": "https://github.com/FortAwesome/react-fontawesome",
     "licenseFile": "npm/@fortawesome/react-fontawesome@3.3.0/LICENSE.txt"
   },
-  "@headlessui/react@2.2.9": {
+  "@headlessui/react@2.2.10": {
     "licenses": "MIT",
     "repository": "https://github.com/tailwindlabs/headlessui",
-    "licenseFile": "npm/@headlessui/react@2.2.9/LICENSE"
+    "licenseFile": "npm/@headlessui/react@2.2.10/LICENSE"
   },
-  "@tanstack/react-query@5.94.5": {
+  "@tanstack/react-query@5.97.0": {
     "licenses": "MIT",
     "repository": "https://github.com/TanStack/query",
     "publisher": "tannerlinsley",
-    "licenseFile": "npm/@tanstack/react-query@5.94.5/LICENSE"
+    "licenseFile": "npm/@tanstack/react-query@5.97.0/LICENSE"
   },
   "@web3-onboard/core@2.24.1": {
     "licenses": "MIT",
@@ -121,45 +121,45 @@
     "url": "https://github.com/jamuhl",
     "licenseFile": "npm/i18next-browser-languagedetector@8.2.1/LICENSE"
   },
-  "i18next-chained-backend@5.0.2": {
+  "i18next-chained-backend@5.0.3": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/i18next-chained-backend",
     "publisher": "Jan Mühlemann",
     "email": "jan.muehlemann@gmail.com",
     "url": "https://github.com/jamuhl",
-    "licenseFile": "npm/i18next-chained-backend@5.0.2/LICENSE"
+    "licenseFile": "npm/i18next-chained-backend@5.0.3/LICENSE"
   },
   "i18next-resources-to-backend@1.2.1": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/i18next-resources-to-backend",
     "licenseFile": "npm/i18next-resources-to-backend@1.2.1/licence"
   },
-  "i18next@25.10.4": {
+  "i18next@25.10.10": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/i18next",
     "publisher": "Jan Mühlemann",
     "email": "jan.muehlemann@gmail.com",
     "url": "https://github.com/jamuhl",
-    "licenseFile": "npm/i18next@25.10.4/LICENSE"
+    "licenseFile": "npm/i18next@25.10.10/LICENSE"
   },
-  "jotai@2.18.1": {
+  "jotai@2.19.1": {
     "licenses": "MIT",
     "repository": "https://github.com/pmndrs/jotai",
     "publisher": "Daishi Kato",
-    "licenseFile": "npm/jotai@2.18.1/LICENSE"
+    "licenseFile": "npm/jotai@2.19.1/LICENSE"
   },
-  "react-dom@18.3.1": {
+  "react-dom@19.2.5": {
     "licenses": "MIT",
     "repository": "https://github.com/facebook/react",
-    "licenseFile": "npm/react-dom@18.3.1/LICENSE"
+    "licenseFile": "npm/react-dom@19.2.5/LICENSE"
   },
-  "react-i18next@16.6.1": {
+  "react-i18next@16.6.6": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/react-i18next",
     "publisher": "Jan Mühlemann",
     "email": "jan.muehlemann@gmail.com",
     "url": "https://github.com/jamuhl",
-    "licenseFile": "npm/react-i18next@16.6.1/LICENSE"
+    "licenseFile": "npm/react-i18next@16.6.6/LICENSE"
   },
   "react-scroll@1.9.3": {
     "licenses": "MIT",
@@ -172,9 +172,9 @@
     "publisher": "Jed Watson",
     "licenseFile": "npm/react-select@5.10.2/LICENSE"
   },
-  "react@18.3.1": {
+  "react@19.2.5": {
     "licenses": "MIT",
     "repository": "https://github.com/facebook/react",
-    "licenseFile": "npm/react@18.3.1/LICENSE"
+    "licenseFile": "npm/react@19.2.5/LICENSE"
   }
 }
