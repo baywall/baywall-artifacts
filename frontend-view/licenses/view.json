@@ -212,13 +212,13 @@
     "licenses": "MIT",
     "licenseFile": "npm/@scure/bip39@1.2.1/LICENSE"
   },
-  "@tanstack/query-core@5.97.0": {
+  "@tanstack/query-core@5.100.9": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/query-core@5.97.0/LICENSE"
+    "licenseFile": "npm/@tanstack/query-core@5.100.9/LICENSE"
   },
-  "@tanstack/react-query@5.97.0": {
+  "@tanstack/react-query@5.100.9": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/react-query@5.97.0/LICENSE"
+    "licenseFile": "npm/@tanstack/react-query@5.100.9/LICENSE"
   },
   "@tanstack/react-virtual@3.13.23": {
     "licenses": "MIT",
@@ -756,10 +756,10 @@
     "repository": "https://github.com/JedWatson/react-select/tree/master#readme",
     "licenseFile": "npm/react-select@5.10.2/LICENSE"
   },
-  "resolve@1.22.11": {
+  "resolve@1.22.12": {
     "licenses": "MIT",
     "repository": "https://github.com/browserify/resolve#readme",
-    "licenseFile": "npm/resolve@1.22.11/LICENSE"
+    "licenseFile": "npm/resolve@1.22.12/LICENSE"
   },
   "resolve-from@4.0.0": {
     "licenses": "MIT",
@@ -1046,10 +1046,10 @@
     "licenses": "ISC",
     "licenseFile": "npm/yaml@1.10.3/LICENSE"
   },
-  "dompurify@3.3.3": {
+  "dompurify@3.4.2": {
     "licenses": "(MPL-2.0 OR Apache-2.0)",
     "repository": "https://github.com/cure53/DOMPurify",
-    "licenseFile": "npm/dompurify@3.3.3/LICENSE"
+    "licenseFile": "npm/dompurify@3.4.2/LICENSE"
   },
   "tslib@1.14.1": {
     "licenses": "0BSD",

@@ -224,13 +224,13 @@
     "licenses": "MIT",
     "licenseFile": "npm/@scure/bip39@1.2.1/LICENSE"
   },
-  "@tanstack/query-core@5.97.0": {
+  "@tanstack/query-core@5.100.9": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/query-core@5.97.0/LICENSE"
+    "licenseFile": "npm/@tanstack/query-core@5.100.9/LICENSE"
   },
-  "@tanstack/react-query@5.97.0": {
+  "@tanstack/react-query@5.100.9": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/react-query@5.97.0/LICENSE"
+    "licenseFile": "npm/@tanstack/react-query@5.100.9/LICENSE"
   },
   "@types/debug@4.1.13": {
     "licenses": "MIT",
@@ -1185,10 +1185,10 @@
     "repository": "https://github.com/tyxla/remove-accents",
     "licenseFile": "npm/remove-accents@0.4.4/LICENSE"
   },
-  "resolve@1.22.11": {
+  "resolve@1.22.12": {
     "licenses": "MIT",
     "repository": "https://github.com/browserify/resolve#readme",
-    "licenseFile": "npm/resolve@1.22.11/LICENSE"
+    "licenseFile": "npm/resolve@1.22.12/LICENSE"
   },
   "resolve-from@4.0.0": {
     "licenses": "MIT",
@@ -1524,10 +1524,10 @@
     "repository": "https://github.com/ericf/css-mediaquery",
     "licenseFile": "npm/css-mediaquery@0.1.2/LICENSE"
   },
-  "dompurify@3.3.3": {
+  "dompurify@3.4.2": {
     "licenses": "(MPL-2.0 OR Apache-2.0)",
     "repository": "https://github.com/cure53/DOMPurify",
-    "licenseFile": "npm/dompurify@3.3.3/LICENSE"
+    "licenseFile": "npm/dompurify@3.4.2/LICENSE"
   },
   "jsonexport@3.2.0": {
     "licenses": "Apache-2.0",
