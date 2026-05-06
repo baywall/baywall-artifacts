@@ -35,9 +35,9 @@
     "repository": "https://github.com/babel/babel#readme",
     "licenseFile": "npm/@babel/helper-validator-identifier@7.28.5/LICENSE"
   },
-  "@babel/parser@7.29.2": {
+  "@babel/parser@7.29.3": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/parser@7.29.2/LICENSE"
+    "licenseFile": "npm/@babel/parser@7.29.3/LICENSE"
   },
   "@babel/runtime@7.29.2": {
     "licenses": "MIT",
@@ -277,10 +277,10 @@
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/prop-types",
     "licenseFile": "npm/@types/prop-types@15.7.15/LICENSE"
   },
-  "@types/react@18.3.28": {
+  "@types/react@19.2.14": {
     "licenses": "MIT",
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react",
-    "licenseFile": "npm/@types/react@18.3.28/LICENSE"
+    "licenseFile": "npm/@types/react@19.2.14/LICENSE"
   },
   "@types/react-transition-group@4.4.12": {
     "licenses": "MIT",
@@ -651,10 +651,10 @@
     "repository": "https://github.com/inspect-js/has-tostringtag#readme",
     "licenseFile": "npm/has-tostringtag@1.0.2/LICENSE"
   },
-  "hasown@2.0.2": {
+  "hasown@2.0.3": {
     "licenses": "MIT",
     "repository": "https://github.com/inspect-js/hasOwn#readme",
-    "licenseFile": "npm/hasown@2.0.2/LICENSE"
+    "licenseFile": "npm/hasown@2.0.3/LICENSE"
   },
   "hast-util-to-jsx-runtime@2.3.6": {
     "licenses": "MIT",
@@ -813,10 +813,6 @@
     "licenses": "MIT",
     "repository": "https://github.com/eventualbuddha/lines-and-columns#readme",
     "licenseFile": "npm/lines-and-columns@1.2.4/LICENSE"
-  },
-  "lodash@4.17.23": {
-    "licenses": "MIT",
-    "licenseFile": "npm/lodash@4.17.23/LICENSE"
   },
   "lodash@4.18.1": {
     "licenses": "MIT",
@@ -1013,10 +1009,10 @@
     "repository": "https://github.com/vercel/ms#readme",
     "licenseFile": "npm/ms@2.1.3/LICENSE"
   },
-  "nanoid@3.3.11": {
+  "nanoid@3.3.12": {
     "licenses": "MIT",
     "repository": "https://github.com/ai/nanoid#readme",
-    "licenseFile": "npm/nanoid@3.3.11/LICENSE"
+    "licenseFile": "npm/nanoid@3.3.12/LICENSE"
   },
   "nanoid@4.0.2": {
     "licenses": "MIT",
@@ -1092,34 +1088,34 @@
     "repository": "https://github.com/sindresorhus/query-string#readme",
     "licenseFile": "npm/query-string@7.1.3/LICENSE"
   },
-  "ra-core@5.14.5": {
+  "ra-core@5.14.6": {
     "licenses": "MIT",
     "repository": "https://github.com/marmelab/react-admin#readme",
-    "licenseFile": "npm/ra-core@5.14.5/LICENSE"
+    "licenseFile": "npm/ra-core@5.14.6/LICENSE"
   },
-  "ra-i18n-polyglot@5.14.5": {
+  "ra-i18n-polyglot@5.14.6": {
     "licenses": "MIT",
     "repository": "https://github.com/marmelab/react-admin#readme",
-    "licenseFile": "npm/ra-i18n-polyglot@5.14.5/LICENSE"
+    "licenseFile": "npm/ra-i18n-polyglot@5.14.6/LICENSE"
   },
-  "ra-language-english@5.14.5": {
+  "ra-language-english@5.14.6": {
     "licenses": "MIT",
     "repository": "https://github.com/marmelab/react-admin#readme",
-    "licenseFile": "npm/ra-language-english@5.14.5/LICENSE"
+    "licenseFile": "npm/ra-language-english@5.14.6/LICENSE"
   },
-  "ra-ui-materialui@5.14.5": {
+  "ra-ui-materialui@5.14.6": {
     "licenses": "MIT",
     "repository": "https://github.com/marmelab/react-admin#readme",
-    "licenseFile": "npm/ra-ui-materialui@5.14.5/LICENSE"
+    "licenseFile": "npm/ra-ui-materialui@5.14.6/LICENSE"
   },
   "react@19.2.5": {
     "licenses": "MIT",
     "licenseFile": "npm/react@19.2.5/LICENSE"
   },
-  "react-admin@5.14.5": {
+  "react-admin@5.14.6": {
     "licenses": "MIT",
     "repository": "https://github.com/marmelab/react-admin#readme",
-    "licenseFile": "npm/react-admin@5.14.5/LICENSE"
+    "licenseFile": "npm/react-admin@5.14.6/LICENSE"
   },
   "react-dom@19.2.5": {
     "licenses": "MIT",
@@ -1135,13 +1131,13 @@
     "repository": "https://github.com/bvaughn/react-error-boundary#readme",
     "licenseFile": "npm/react-error-boundary@4.1.2/LICENSE"
   },
-  "react-hook-form@7.72.1": {
+  "react-hook-form@7.75.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/react-hook-form@7.72.1/LICENSE"
+    "licenseFile": "npm/react-hook-form@7.75.0/LICENSE"
   },
-  "react-hotkeys-hook@5.2.4": {
+  "react-hotkeys-hook@5.3.1": {
     "licenses": "MIT",
-    "licenseFile": "npm/react-hotkeys-hook@5.2.4/LICENSE"
+    "licenseFile": "npm/react-hotkeys-hook@5.3.1/LICENSE"
   },
   "react-i18next@16.6.6": {
     "licenses": "MIT",
@@ -1161,15 +1157,15 @@
     "repository": "https://github.com/remarkjs/react-markdown#readme",
     "licenseFile": "npm/react-markdown@10.1.0/LICENSE"
   },
-  "react-router@7.14.0": {
+  "react-router@7.14.2": {
     "licenses": "MIT",
     "repository": "https://github.com/remix-run/react-router#readme",
-    "licenseFile": "npm/react-router@7.14.0/LICENSE"
+    "licenseFile": "npm/react-router@7.14.2/LICENSE"
   },
-  "react-router-dom@7.14.0": {
+  "react-router-dom@7.14.2": {
     "licenses": "MIT",
     "repository": "https://github.com/remix-run/react-router#readme",
-    "licenseFile": "npm/react-router-dom@7.14.0/LICENSE"
+    "licenseFile": "npm/react-router-dom@7.14.2/LICENSE"
   },
   "remark-parse@11.0.0": {
     "licenses": "MIT",

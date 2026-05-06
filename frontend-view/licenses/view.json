@@ -35,9 +35,9 @@
     "repository": "https://github.com/babel/babel#readme",
     "licenseFile": "npm/@babel/helper-validator-identifier@7.28.5/LICENSE"
   },
-  "@babel/parser@7.29.2": {
+  "@babel/parser@7.29.3": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/parser@7.29.2/LICENSE"
+    "licenseFile": "npm/@babel/parser@7.29.3/LICENSE"
   },
   "@babel/runtime@7.29.2": {
     "licenses": "MIT",
@@ -162,10 +162,10 @@
     "licenses": "MIT",
     "licenseFile": "npm/@fortawesome/fontawesome-svg-core@7.2.0/LICENSE"
   },
-  "@fortawesome/react-fontawesome@3.3.0": {
+  "@fortawesome/react-fontawesome@3.3.1": {
     "licenses": "MIT",
     "repository": "https://github.com/FortAwesome/react-fontawesome",
-    "licenseFile": "npm/@fortawesome/react-fontawesome@3.3.0/LICENSE"
+    "licenseFile": "npm/@fortawesome/react-fontawesome@3.3.1/LICENSE"
   },
   "@headlessui/react@2.2.10": {
     "licenses": "MIT",
@@ -220,13 +220,13 @@
     "licenses": "MIT",
     "licenseFile": "npm/@tanstack/react-query@5.100.9/LICENSE"
   },
-  "@tanstack/react-virtual@3.13.23": {
+  "@tanstack/react-virtual@3.13.24": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/react-virtual@3.13.23/LICENSE"
+    "licenseFile": "npm/@tanstack/react-virtual@3.13.24/LICENSE"
   },
-  "@tanstack/virtual-core@3.13.23": {
+  "@tanstack/virtual-core@3.14.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/virtual-core@3.13.23/LICENSE"
+    "licenseFile": "npm/@tanstack/virtual-core@3.14.0/LICENSE"
   },
   "@types/node@22.7.5": {
     "licenses": "MIT",
@@ -238,15 +238,10 @@
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/parse-json",
     "licenseFile": "npm/@types/parse-json@4.0.2/LICENSE"
   },
-  "@types/prop-types@15.7.15": {
-    "licenses": "MIT",
-    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/prop-types",
-    "licenseFile": "npm/@types/prop-types@15.7.15/LICENSE"
-  },
-  "@types/react@18.3.28": {
+  "@types/react@19.2.14": {
     "licenses": "MIT",
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react",
-    "licenseFile": "npm/@types/react@18.3.28/LICENSE"
+    "licenseFile": "npm/@types/react@19.2.14/LICENSE"
   },
   "@types/react-transition-group@4.4.12": {
     "licenses": "MIT",
@@ -282,6 +277,11 @@
     "licenses": "MIT",
     "repository": "https://github.com/ricmoo/aes-js#readme",
     "licenseFile": "npm/aes-js@4.0.0-beta.5/LICENSE"
+  },
+  "aria-hidden@1.2.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/theKashey/aria-hidden#readme",
+    "licenseFile": "npm/aria-hidden@1.2.6/LICENSE"
   },
   "assert@2.1.0": {
     "licenses": "MIT",
@@ -512,10 +512,10 @@
     "repository": "https://github.com/inspect-js/has-tostringtag#readme",
     "licenseFile": "npm/has-tostringtag@1.0.2/LICENSE"
   },
-  "hasown@2.0.2": {
+  "hasown@2.0.3": {
     "licenses": "MIT",
     "repository": "https://github.com/inspect-js/hasOwn#readme",
-    "licenseFile": "npm/hasown@2.0.2/LICENSE"
+    "licenseFile": "npm/hasown@2.0.3/LICENSE"
   },
   "html-parse-stringify@3.0.1": {
     "licenses": "MIT",
@@ -670,10 +670,10 @@
     "repository": "https://github.com/vercel/ms#readme",
     "licenseFile": "npm/ms@2.1.3/LICENSE"
   },
-  "nanoid@3.3.11": {
+  "nanoid@3.3.12": {
     "licenses": "MIT",
     "repository": "https://github.com/ai/nanoid#readme",
-    "licenseFile": "npm/nanoid@3.3.11/LICENSE"
+    "licenseFile": "npm/nanoid@3.3.12/LICENSE"
   },
   "nanoid@4.0.2": {
     "licenses": "MIT",
@@ -925,40 +925,35 @@
     "repository": "https://github.com/mozilla/source-map",
     "licenseFile": "npm/source-map@0.5.7/LICENSE"
   },
-  "@react-aria/focus@3.21.5": {
+  "@internationalized/date@3.12.1": {
     "licenses": "Apache-2.0",
-    "repository": "https://github.com/adobe/react-spectrum#readme",
-    "licenseFile": "npm/@react-aria/focus@3.21.5/LICENSE"
+    "repository": "https://github.com/adobe/react-spectrum/tree/main#readme",
+    "licenseFile": "npm/@internationalized/date@3.12.1/LICENSE"
   },
-  "@react-aria/interactions@3.27.1": {
+  "@internationalized/number@3.6.6": {
     "licenses": "Apache-2.0",
     "repository": "https://github.com/adobe/react-spectrum#readme",
-    "licenseFile": "npm/@react-aria/interactions@3.27.1/LICENSE"
+    "licenseFile": "npm/@internationalized/number@3.6.6/LICENSE"
   },
-  "@react-aria/ssr@3.9.10": {
+  "@internationalized/string@3.2.8": {
     "licenses": "Apache-2.0",
     "repository": "https://github.com/adobe/react-spectrum#readme",
-    "licenseFile": "npm/@react-aria/ssr@3.9.10/LICENSE"
+    "licenseFile": "npm/@internationalized/string@3.2.8/LICENSE"
   },
-  "@react-aria/utils@3.33.1": {
+  "@react-aria/focus@3.22.0": {
     "licenses": "Apache-2.0",
     "repository": "https://github.com/adobe/react-spectrum#readme",
-    "licenseFile": "npm/@react-aria/utils@3.33.1/LICENSE"
+    "licenseFile": "npm/@react-aria/focus@3.22.0/LICENSE"
   },
-  "@react-stately/flags@3.1.2": {
+  "@react-aria/interactions@3.28.0": {
     "licenses": "Apache-2.0",
     "repository": "https://github.com/adobe/react-spectrum#readme",
-    "licenseFile": "npm/@react-stately/flags@3.1.2/LICENSE"
+    "licenseFile": "npm/@react-aria/interactions@3.28.0/LICENSE"
   },
-  "@react-stately/utils@3.11.0": {
+  "@react-types/shared@3.34.0": {
     "licenses": "Apache-2.0",
     "repository": "https://github.com/adobe/react-spectrum#readme",
-    "licenseFile": "npm/@react-stately/utils@3.11.0/LICENSE"
-  },
-  "@react-types/shared@3.33.1": {
-    "licenses": "Apache-2.0",
-    "repository": "https://github.com/adobe/react-spectrum#readme",
-    "licenseFile": "npm/@react-types/shared@3.33.1/LICENSE"
+    "licenseFile": "npm/@react-types/shared@3.34.0/LICENSE"
   },
   "@swc/helpers@0.5.21": {
     "licenses": "Apache-2.0",
@@ -968,6 +963,16 @@
     "licenses": "Apache-2.0",
     "repository": "https://github.com/superical/ethers-decode-error#readme",
     "licenseFile": "npm/ethers-decode-error@2.1.3/LICENSE"
+  },
+  "react-aria@3.48.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/adobe/react-spectrum#readme",
+    "licenseFile": "npm/react-aria@3.48.0/LICENSE"
+  },
+  "react-stately@3.46.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/adobe/react-spectrum#readme",
+    "licenseFile": "npm/react-stately@3.46.0/LICENSE"
   },
   "rxjs@6.6.7": {
     "licenses": "Apache-2.0",
