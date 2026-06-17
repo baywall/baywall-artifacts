@@ -1037,6 +1037,11 @@
     "repository": "https://github.com/alexeyraspopov/picocolors#readme",
     "licenseFile": "npm/picocolors@1.1.1/LICENSE"
   },
+  "semver@7.7.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/node-semver#readme",
+    "licenseFile": "npm/semver@7.7.4/LICENSE"
+  },
   "timers-ext@0.1.8": {
     "licenses": "ISC",
     "repository": "https://github.com/medikoo/timers-ext#readme",
