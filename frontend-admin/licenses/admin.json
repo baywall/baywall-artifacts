@@ -4,56 +4,56 @@
     "repository": "https://github.com/adraffy/ens-normalize.js#readme",
     "licenseFile": "npm/@adraffy/ens-normalize@1.10.0/LICENSE"
   },
-  "@adraffy/ens-normalize@1.10.1": {
+  "@adraffy/ens-normalize@1.11.1": {
     "licenses": "MIT",
     "repository": "https://github.com/adraffy/ens-normalize.js#readme",
-    "licenseFile": "npm/@adraffy/ens-normalize@1.10.1/LICENSE"
+    "licenseFile": "npm/@adraffy/ens-normalize@1.11.1/LICENSE"
   },
-  "@babel/code-frame@7.29.0": {
+  "@babel/code-frame@7.29.7": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/code-frame@7.29.0/LICENSE"
+    "licenseFile": "npm/@babel/code-frame@7.29.7/LICENSE"
   },
-  "@babel/generator@7.29.1": {
+  "@babel/generator@7.29.7": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/generator@7.29.1/LICENSE"
+    "licenseFile": "npm/@babel/generator@7.29.7/LICENSE"
   },
-  "@babel/helper-globals@7.28.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/babel/babel#readme",
-    "licenseFile": "npm/@babel/helper-globals@7.28.0/LICENSE"
-  },
-  "@babel/helper-module-imports@7.28.6": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@babel/helper-module-imports@7.28.6/LICENSE"
-  },
-  "@babel/helper-string-parser@7.27.1": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@babel/helper-string-parser@7.27.1/LICENSE"
-  },
-  "@babel/helper-validator-identifier@7.28.5": {
+  "@babel/helper-globals@7.29.7": {
     "licenses": "MIT",
     "repository": "https://github.com/babel/babel#readme",
-    "licenseFile": "npm/@babel/helper-validator-identifier@7.28.5/LICENSE"
+    "licenseFile": "npm/@babel/helper-globals@7.29.7/LICENSE"
   },
-  "@babel/parser@7.29.3": {
+  "@babel/helper-module-imports@7.29.7": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/parser@7.29.3/LICENSE"
+    "licenseFile": "npm/@babel/helper-module-imports@7.29.7/LICENSE"
   },
-  "@babel/runtime@7.29.2": {
+  "@babel/helper-string-parser@7.29.7": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/runtime@7.29.2/LICENSE"
+    "licenseFile": "npm/@babel/helper-string-parser@7.29.7/LICENSE"
   },
-  "@babel/template@7.28.6": {
+  "@babel/helper-validator-identifier@7.29.7": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/template@7.28.6/LICENSE"
+    "repository": "https://github.com/babel/babel#readme",
+    "licenseFile": "npm/@babel/helper-validator-identifier@7.29.7/LICENSE"
   },
-  "@babel/traverse@7.29.0": {
+  "@babel/parser@7.29.7": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/traverse@7.29.0/LICENSE"
+    "licenseFile": "npm/@babel/parser@7.29.7/LICENSE"
   },
-  "@babel/types@7.29.0": {
+  "@babel/runtime@7.29.7": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/types@7.29.0/LICENSE"
+    "licenseFile": "npm/@babel/runtime@7.29.7/LICENSE"
+  },
+  "@babel/template@7.29.7": {
+    "licenses": "MIT",
+    "licenseFile": "npm/@babel/template@7.29.7/LICENSE"
+  },
+  "@babel/traverse@7.29.7": {
+    "licenses": "MIT",
+    "licenseFile": "npm/@babel/traverse@7.29.7/LICENSE"
+  },
+  "@babel/types@7.29.7": {
+    "licenses": "MIT",
+    "licenseFile": "npm/@babel/types@7.29.7/LICENSE"
   },
   "@emotion/babel-plugin@11.13.5": {
     "licenses": "MIT",
@@ -164,40 +164,40 @@
     "repository": "https://github.com/jridgewell/sourcemaps/tree/main/packages/trace-mapping",
     "licenseFile": "npm/@jridgewell/trace-mapping@0.3.31/LICENSE"
   },
-  "@mui/core-downloads-tracker@7.3.10": {
+  "@mui/core-downloads-tracker@7.3.11": {
     "licenses": "MIT",
-    "licenseFile": "npm/@mui/core-downloads-tracker@7.3.10/LICENSE"
+    "licenseFile": "npm/@mui/core-downloads-tracker@7.3.11/LICENSE"
   },
-  "@mui/icons-material@7.3.10": {
+  "@mui/icons-material@7.3.11": {
     "licenses": "MIT",
-    "licenseFile": "npm/@mui/icons-material@7.3.10/LICENSE"
+    "licenseFile": "npm/@mui/icons-material@7.3.11/LICENSE"
   },
-  "@mui/material@7.3.10": {
+  "@mui/material@7.3.11": {
     "licenses": "MIT",
-    "licenseFile": "npm/@mui/material@7.3.10/LICENSE"
+    "licenseFile": "npm/@mui/material@7.3.11/LICENSE"
   },
-  "@mui/private-theming@7.3.10": {
+  "@mui/private-theming@7.3.11": {
     "licenses": "MIT",
     "repository": "https://github.com/mui/material-ui/tree/master/packages/mui-private-theming",
-    "licenseFile": "npm/@mui/private-theming@7.3.10/LICENSE"
+    "licenseFile": "npm/@mui/private-theming@7.3.11/LICENSE"
   },
   "@mui/styled-engine@7.3.10": {
     "licenses": "MIT",
     "licenseFile": "npm/@mui/styled-engine@7.3.10/LICENSE"
   },
-  "@mui/system@7.3.10": {
+  "@mui/system@7.3.11": {
     "licenses": "MIT",
-    "licenseFile": "npm/@mui/system@7.3.10/LICENSE"
+    "licenseFile": "npm/@mui/system@7.3.11/LICENSE"
   },
   "@mui/types@7.4.12": {
     "licenses": "MIT",
     "repository": "https://github.com/mui/material-ui/tree/master/packages/mui-types",
     "licenseFile": "npm/@mui/types@7.4.12/LICENSE"
   },
-  "@mui/utils@7.3.10": {
+  "@mui/utils@7.3.11": {
     "licenses": "MIT",
     "repository": "https://github.com/mui/material-ui/tree/master/packages/mui-utils",
-    "licenseFile": "npm/@mui/utils@7.3.10/LICENSE"
+    "licenseFile": "npm/@mui/utils@7.3.11/LICENSE"
   },
   "@noble/curves@1.2.0": {
     "licenses": "MIT",
@@ -224,23 +224,23 @@
     "licenses": "MIT",
     "licenseFile": "npm/@scure/bip39@1.2.1/LICENSE"
   },
-  "@tanstack/query-core@5.100.9": {
+  "@tanstack/query-core@5.101.1": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/query-core@5.100.9/LICENSE"
+    "licenseFile": "npm/@tanstack/query-core@5.101.1/LICENSE"
   },
-  "@tanstack/react-query@5.100.9": {
+  "@tanstack/react-query@5.101.1": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/react-query@5.100.9/LICENSE"
+    "licenseFile": "npm/@tanstack/react-query@5.101.1/LICENSE"
   },
   "@types/debug@4.1.13": {
     "licenses": "MIT",
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/debug",
     "licenseFile": "npm/@types/debug@4.1.13/LICENSE"
   },
-  "@types/estree@1.0.8": {
+  "@types/estree@1.0.9": {
     "licenses": "MIT",
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/estree",
-    "licenseFile": "npm/@types/estree@1.0.8/LICENSE"
+    "licenseFile": "npm/@types/estree@1.0.9/LICENSE"
   },
   "@types/estree-jsx@1.0.5": {
     "licenses": "MIT",
@@ -277,10 +277,10 @@
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/prop-types",
     "licenseFile": "npm/@types/prop-types@15.7.15/LICENSE"
   },
-  "@types/react@19.2.14": {
+  "@types/react@19.2.17": {
     "licenses": "MIT",
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react",
-    "licenseFile": "npm/@types/react@19.2.14/LICENSE"
+    "licenseFile": "npm/@types/react@19.2.17/LICENSE"
   },
   "@types/react-transition-group@4.4.12": {
     "licenses": "MIT",
@@ -527,10 +527,10 @@
     "repository": "https://github.com/ljharb/es-errors#readme",
     "licenseFile": "npm/es-errors@1.3.0/LICENSE"
   },
-  "es-object-atoms@1.1.1": {
+  "es-object-atoms@1.1.2": {
     "licenses": "MIT",
     "repository": "https://github.com/ljharb/es-object-atoms#readme",
-    "licenseFile": "npm/es-object-atoms@1.1.1/LICENSE"
+    "licenseFile": "npm/es-object-atoms@1.1.2/LICENSE"
   },
   "es6-iterator@2.0.3": {
     "licenses": "MIT",
@@ -557,9 +557,9 @@
     "repository": "https://github.com/Rich-Harris/estree-walker#readme",
     "licenseFile": "npm/estree-walker@2.0.2/LICENSE"
   },
-  "ethers@6.16.0": {
+  "ethers@6.17.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/ethers@6.16.0/LICENSE"
+    "licenseFile": "npm/ethers@6.17.0/LICENSE"
   },
   "event-emitter@0.3.5": {
     "licenses": "MIT",
@@ -651,10 +651,10 @@
     "repository": "https://github.com/inspect-js/has-tostringtag#readme",
     "licenseFile": "npm/has-tostringtag@1.0.2/LICENSE"
   },
-  "hasown@2.0.3": {
+  "hasown@2.0.4": {
     "licenses": "MIT",
     "repository": "https://github.com/inspect-js/hasOwn#readme",
-    "licenseFile": "npm/hasown@2.0.3/LICENSE"
+    "licenseFile": "npm/hasown@2.0.4/LICENSE"
   },
   "hast-util-to-jsx-runtime@2.3.6": {
     "licenses": "MIT",
@@ -685,10 +685,10 @@
     "repository": "https://github.com/i18next/i18next-browser-languageDetector",
     "licenseFile": "npm/i18next-browser-languagedetector@8.2.1/LICENSE"
   },
-  "i18next-chained-backend@5.0.3": {
+  "i18next-chained-backend@5.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/i18next-chained-backend",
-    "licenseFile": "npm/i18next-chained-backend@5.0.3/LICENSE"
+    "licenseFile": "npm/i18next-chained-backend@5.0.5/LICENSE"
   },
   "i18next-resources-to-backend@1.2.1": {
     "licenses": "MIT",
@@ -740,10 +740,10 @@
     "repository": "https://github.com/inspect-js/is-callable#readme",
     "licenseFile": "npm/is-callable@1.2.7/LICENSE"
   },
-  "is-core-module@2.16.1": {
+  "is-core-module@2.16.2": {
     "licenses": "MIT",
     "repository": "https://github.com/inspect-js/is-core-module",
-    "licenseFile": "npm/is-core-module@2.16.1/LICENSE"
+    "licenseFile": "npm/is-core-module@2.16.2/LICENSE"
   },
   "is-decimal@2.0.1": {
     "licenses": "MIT",
@@ -790,10 +790,10 @@
     "repository": "https://github.com/wagmi-dev/isows#readme",
     "licenseFile": "npm/isows@1.0.4/LICENSE"
   },
-  "jotai@2.19.1": {
+  "jotai@2.20.1": {
     "licenses": "MIT",
     "repository": "https://github.com/pmndrs/jotai",
-    "licenseFile": "npm/jotai@2.19.1/LICENSE"
+    "licenseFile": "npm/jotai@2.20.1/LICENSE"
   },
   "js-tokens@4.0.0": {
     "licenses": "MIT",
@@ -1009,10 +1009,10 @@
     "repository": "https://github.com/vercel/ms#readme",
     "licenseFile": "npm/ms@2.1.3/LICENSE"
   },
-  "nanoid@3.3.12": {
+  "nanoid@3.3.15": {
     "licenses": "MIT",
     "repository": "https://github.com/ai/nanoid#readme",
-    "licenseFile": "npm/nanoid@3.3.12/LICENSE"
+    "licenseFile": "npm/nanoid@3.3.15/LICENSE"
   },
   "nanoid@4.0.2": {
     "licenses": "MIT",
@@ -1078,48 +1078,48 @@
     "licenses": "MIT",
     "licenseFile": "npm/prop-types@15.8.1/LICENSE"
   },
-  "property-information@7.1.0": {
+  "property-information@7.2.0": {
     "licenses": "MIT",
     "repository": "https://github.com/wooorm/property-information#readme",
-    "licenseFile": "npm/property-information@7.1.0/LICENSE"
+    "licenseFile": "npm/property-information@7.2.0/LICENSE"
   },
   "query-string@7.1.3": {
     "licenses": "MIT",
     "repository": "https://github.com/sindresorhus/query-string#readme",
     "licenseFile": "npm/query-string@7.1.3/LICENSE"
   },
-  "ra-core@5.14.6": {
+  "ra-core@5.14.7": {
     "licenses": "MIT",
     "repository": "https://github.com/marmelab/react-admin#readme",
-    "licenseFile": "npm/ra-core@5.14.6/LICENSE"
+    "licenseFile": "npm/ra-core@5.14.7/LICENSE"
   },
-  "ra-i18n-polyglot@5.14.6": {
+  "ra-i18n-polyglot@5.14.7": {
     "licenses": "MIT",
     "repository": "https://github.com/marmelab/react-admin#readme",
-    "licenseFile": "npm/ra-i18n-polyglot@5.14.6/LICENSE"
+    "licenseFile": "npm/ra-i18n-polyglot@5.14.7/LICENSE"
   },
-  "ra-language-english@5.14.6": {
+  "ra-language-english@5.14.7": {
     "licenses": "MIT",
     "repository": "https://github.com/marmelab/react-admin#readme",
-    "licenseFile": "npm/ra-language-english@5.14.6/LICENSE"
+    "licenseFile": "npm/ra-language-english@5.14.7/LICENSE"
   },
-  "ra-ui-materialui@5.14.6": {
+  "ra-ui-materialui@5.14.7": {
     "licenses": "MIT",
     "repository": "https://github.com/marmelab/react-admin#readme",
-    "licenseFile": "npm/ra-ui-materialui@5.14.6/LICENSE"
+    "licenseFile": "npm/ra-ui-materialui@5.14.7/LICENSE"
   },
-  "react@19.2.5": {
+  "react@19.2.7": {
     "licenses": "MIT",
-    "licenseFile": "npm/react@19.2.5/LICENSE"
+    "licenseFile": "npm/react@19.2.7/LICENSE"
   },
-  "react-admin@5.14.6": {
+  "react-admin@5.14.7": {
     "licenses": "MIT",
     "repository": "https://github.com/marmelab/react-admin#readme",
-    "licenseFile": "npm/react-admin@5.14.6/LICENSE"
+    "licenseFile": "npm/react-admin@5.14.7/LICENSE"
   },
-  "react-dom@19.2.5": {
+  "react-dom@19.2.7": {
     "licenses": "MIT",
-    "licenseFile": "npm/react-dom@19.2.5/LICENSE"
+    "licenseFile": "npm/react-dom@19.2.7/LICENSE"
   },
   "react-dropzone@14.4.1": {
     "licenses": "MIT",
@@ -1131,13 +1131,13 @@
     "repository": "https://github.com/bvaughn/react-error-boundary#readme",
     "licenseFile": "npm/react-error-boundary@4.1.2/LICENSE"
   },
-  "react-hook-form@7.75.0": {
+  "react-hook-form@7.80.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/react-hook-form@7.75.0/LICENSE"
+    "licenseFile": "npm/react-hook-form@7.80.0/LICENSE"
   },
-  "react-hotkeys-hook@5.3.1": {
+  "react-hotkeys-hook@5.3.2": {
     "licenses": "MIT",
-    "licenseFile": "npm/react-hotkeys-hook@5.3.1/LICENSE"
+    "licenseFile": "npm/react-hotkeys-hook@5.3.2/LICENSE"
   },
   "react-i18next@16.6.6": {
     "licenses": "MIT",
@@ -1148,24 +1148,24 @@
     "licenses": "MIT",
     "licenseFile": "npm/react-is@16.13.1/LICENSE"
   },
-  "react-is@19.2.5": {
+  "react-is@19.2.7": {
     "licenses": "MIT",
-    "licenseFile": "npm/react-is@19.2.5/LICENSE"
+    "licenseFile": "npm/react-is@19.2.7/LICENSE"
   },
   "react-markdown@10.1.0": {
     "licenses": "MIT",
     "repository": "https://github.com/remarkjs/react-markdown#readme",
     "licenseFile": "npm/react-markdown@10.1.0/LICENSE"
   },
-  "react-router@7.14.2": {
+  "react-router@7.18.0": {
     "licenses": "MIT",
     "repository": "https://github.com/remix-run/react-router#readme",
-    "licenseFile": "npm/react-router@7.14.2/LICENSE"
+    "licenseFile": "npm/react-router@7.18.0/LICENSE"
   },
-  "react-router-dom@7.14.2": {
+  "react-router-dom@7.18.0": {
     "licenses": "MIT",
     "repository": "https://github.com/remix-run/react-router#readme",
-    "licenseFile": "npm/react-router-dom@7.14.2/LICENSE"
+    "licenseFile": "npm/react-router-dom@7.18.0/LICENSE"
   },
   "remark-parse@11.0.0": {
     "licenses": "MIT",
@@ -1356,20 +1356,20 @@
     "repository": "https://github.com/BerkeleyTrue/warning",
     "licenseFile": "npm/warning@4.0.3/LICENSE"
   },
-  "which-typed-array@1.1.20": {
+  "which-typed-array@1.1.22": {
     "licenses": "MIT",
     "repository": "https://github.com/inspect-js/which-typed-array#readme",
-    "licenseFile": "npm/which-typed-array@1.1.20/LICENSE"
+    "licenseFile": "npm/which-typed-array@1.1.22/LICENSE"
   },
   "ws@8.13.0": {
     "licenses": "MIT",
     "repository": "https://github.com/websockets/ws",
     "licenseFile": "npm/ws@8.13.0/LICENSE"
   },
-  "ws@8.17.1": {
+  "ws@8.21.0": {
     "licenses": "MIT",
     "repository": "https://github.com/websockets/ws",
-    "licenseFile": "npm/ws@8.17.1/LICENSE"
+    "licenseFile": "npm/ws@8.21.0/LICENSE"
   },
   "zwitch@2.0.4": {
     "licenses": "MIT",
@@ -1441,10 +1441,10 @@
     "repository": "https://github.com/mozilla/source-map",
     "licenseFile": "npm/source-map@0.5.7/LICENSE"
   },
-  "@ungap/structured-clone@1.3.0": {
+  "@ungap/structured-clone@1.3.2": {
     "licenses": "ISC",
     "repository": "https://github.com/ungap/structured-clone#readme",
-    "licenseFile": "npm/@ungap/structured-clone@1.3.0/LICENSE"
+    "licenseFile": "npm/@ungap/structured-clone@1.3.2/LICENSE"
   },
   "cli-color@2.0.4": {
     "licenses": "ISC",
@@ -1520,10 +1520,10 @@
     "repository": "https://github.com/ericf/css-mediaquery",
     "licenseFile": "npm/css-mediaquery@0.1.2/LICENSE"
   },
-  "dompurify@3.4.2": {
+  "dompurify@3.4.11": {
     "licenses": "(MPL-2.0 OR Apache-2.0)",
     "repository": "https://github.com/cure53/DOMPurify",
-    "licenseFile": "npm/dompurify@3.4.2/LICENSE"
+    "licenseFile": "npm/dompurify@3.4.11/LICENSE"
   },
   "jsonexport@3.2.0": {
     "licenses": "Apache-2.0",
