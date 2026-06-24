@@ -772,9 +772,9 @@
     "repository": "https://github.com/henrikjoreteg/html-parse-stringify",
     "licenseFile": "npm/html-parse-stringify@3.0.1/LICENSE"
   },
-  "i18next@25.10.10": {
+  "i18next@26.3.1": {
     "licenses": "MIT",
-    "licenseFile": "npm/i18next@25.10.10/LICENSE"
+    "licenseFile": "npm/i18next@26.3.1/LICENSE"
   },
   "i18next-browser-languagedetector@8.2.1": {
     "licenses": "MIT",
@@ -1089,10 +1089,10 @@
     "licenses": "MIT",
     "licenseFile": "npm/react-easy-crop@5.5.7/LICENSE"
   },
-  "react-i18next@16.6.6": {
+  "react-i18next@17.0.8": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/react-i18next",
-    "licenseFile": "npm/react-i18next@16.6.6/LICENSE"
+    "licenseFile": "npm/react-i18next@17.0.8/LICENSE"
   },
   "react-is@16.13.1": {
     "licenses": "MIT",
