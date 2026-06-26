@@ -676,9 +676,9 @@
     "repository": "https://github.com/rehypejs/rehype-minify/tree/main#readme",
     "licenseFile": "npm/html-url-attributes@3.0.1/LICENSE"
   },
-  "i18next@26.3.1": {
+  "i18next@26.3.3": {
     "licenses": "MIT",
-    "licenseFile": "npm/i18next@26.3.1/LICENSE"
+    "licenseFile": "npm/i18next@26.3.3/LICENSE"
   },
   "i18next-browser-languagedetector@8.2.1": {
     "licenses": "MIT",
@@ -1088,34 +1088,34 @@
     "repository": "https://github.com/sindresorhus/query-string#readme",
     "licenseFile": "npm/query-string@7.1.3/LICENSE"
   },
-  "ra-core@5.14.7": {
+  "ra-core@5.15.0": {
     "licenses": "MIT",
     "repository": "https://github.com/marmelab/react-admin#readme",
-    "licenseFile": "npm/ra-core@5.14.7/LICENSE"
+    "licenseFile": "npm/ra-core@5.15.0/LICENSE"
   },
-  "ra-i18n-polyglot@5.14.7": {
+  "ra-i18n-polyglot@5.15.0": {
     "licenses": "MIT",
     "repository": "https://github.com/marmelab/react-admin#readme",
-    "licenseFile": "npm/ra-i18n-polyglot@5.14.7/LICENSE"
+    "licenseFile": "npm/ra-i18n-polyglot@5.15.0/LICENSE"
   },
-  "ra-language-english@5.14.7": {
+  "ra-language-english@5.15.0": {
     "licenses": "MIT",
     "repository": "https://github.com/marmelab/react-admin#readme",
-    "licenseFile": "npm/ra-language-english@5.14.7/LICENSE"
+    "licenseFile": "npm/ra-language-english@5.15.0/LICENSE"
   },
-  "ra-ui-materialui@5.14.7": {
+  "ra-ui-materialui@5.15.1": {
     "licenses": "MIT",
     "repository": "https://github.com/marmelab/react-admin#readme",
-    "licenseFile": "npm/ra-ui-materialui@5.14.7/LICENSE"
+    "licenseFile": "npm/ra-ui-materialui@5.15.1/LICENSE"
   },
   "react@19.2.7": {
     "licenses": "MIT",
     "licenseFile": "npm/react@19.2.7/LICENSE"
   },
-  "react-admin@5.14.7": {
+  "react-admin@5.15.1": {
     "licenses": "MIT",
     "repository": "https://github.com/marmelab/react-admin#readme",
-    "licenseFile": "npm/react-admin@5.14.7/LICENSE"
+    "licenseFile": "npm/react-admin@5.15.1/LICENSE"
   },
   "react-dom@19.2.7": {
     "licenses": "MIT",

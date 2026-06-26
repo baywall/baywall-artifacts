@@ -154,13 +154,13 @@
     "repository": "https://github.com/formatjs/formatjs#readme",
     "licenseFile": "npm/@formatjs/intl-localematcher@0.6.2/LICENSE"
   },
-  "@fortawesome/fontawesome-common-types@7.2.0": {
+  "@fortawesome/fontawesome-common-types@7.3.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/@fortawesome/fontawesome-common-types@7.2.0/LICENSE"
+    "licenseFile": "npm/@fortawesome/fontawesome-common-types@7.3.0/LICENSE"
   },
-  "@fortawesome/fontawesome-svg-core@7.2.0": {
+  "@fortawesome/fontawesome-svg-core@7.3.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/@fortawesome/fontawesome-svg-core@7.2.0/LICENSE"
+    "licenseFile": "npm/@fortawesome/fontawesome-svg-core@7.3.0/LICENSE"
   },
   "@fortawesome/react-fontawesome@3.3.1": {
     "licenses": "MIT",
@@ -220,13 +220,13 @@
     "licenses": "MIT",
     "licenseFile": "npm/@tanstack/react-query@5.101.1/LICENSE"
   },
-  "@tanstack/react-virtual@3.14.3": {
+  "@tanstack/react-virtual@3.14.4": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/react-virtual@3.14.3/LICENSE"
+    "licenseFile": "npm/@tanstack/react-virtual@3.14.4/LICENSE"
   },
-  "@tanstack/virtual-core@3.17.1": {
+  "@tanstack/virtual-core@3.17.2": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/virtual-core@3.17.1/LICENSE"
+    "licenseFile": "npm/@tanstack/virtual-core@3.17.2/LICENSE"
   },
   "@types/node@22.7.5": {
     "licenses": "MIT",
@@ -522,9 +522,9 @@
     "repository": "https://github.com/henrikjoreteg/html-parse-stringify",
     "licenseFile": "npm/html-parse-stringify@3.0.1/LICENSE"
   },
-  "i18next@26.3.1": {
+  "i18next@26.3.3": {
     "licenses": "MIT",
-    "licenseFile": "npm/i18next@26.3.1/LICENSE"
+    "licenseFile": "npm/i18next@26.3.3/LICENSE"
   },
   "i18next-browser-languagedetector@8.2.1": {
     "licenses": "MIT",
@@ -867,13 +867,13 @@
     "repository": "https://github.com/websockets/ws",
     "licenseFile": "npm/ws@8.21.0/LICENSE"
   },
-  "@fortawesome/free-regular-svg-icons@7.2.0": {
+  "@fortawesome/free-regular-svg-icons@7.3.0": {
     "licenses": "(CC-BY-4.0 AND MIT)",
-    "licenseFile": "npm/@fortawesome/free-regular-svg-icons@7.2.0/LICENSE"
+    "licenseFile": "npm/@fortawesome/free-regular-svg-icons@7.3.0/LICENSE"
   },
-  "@fortawesome/free-solid-svg-icons@7.2.0": {
+  "@fortawesome/free-solid-svg-icons@7.3.0": {
     "licenses": "(CC-BY-4.0 AND MIT)",
-    "licenseFile": "npm/@fortawesome/free-solid-svg-icons@7.2.0/LICENSE"
+    "licenseFile": "npm/@fortawesome/free-solid-svg-icons@7.3.0/LICENSE"
   },
   "@hapi/hoek@9.3.0": {
     "licenses": "BSD-3-Clause",
