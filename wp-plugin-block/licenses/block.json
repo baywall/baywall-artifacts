@@ -1279,11 +1279,6 @@
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/commands/README.md",
     "licenseFile": "npm/@wordpress/commands@1.49.0/LICENSE"
   },
-  "@wordpress/components@35.0.1": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/components/README.md",
-    "licenseFile": "npm/@wordpress/components@35.0.1/LICENSE"
-  },
   "@wordpress/components@36.0.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/components/README.md",
@@ -1373,11 +1368,6 @@
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/i18n/README.md",
     "licenseFile": "npm/@wordpress/i18n@6.22.0/LICENSE"
-  },
-  "@wordpress/icons@14.0.1": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/icons/README.md",
-    "licenseFile": "npm/@wordpress/icons@14.0.1/LICENSE"
   },
   "@wordpress/icons@15.0.0": {
     "licenses": "GPL-2.0-or-later",
@@ -1504,11 +1494,6 @@
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/style-engine/README.md",
     "licenseFile": "npm/@wordpress/style-engine@2.49.0/LICENSE"
   },
-  "@wordpress/style-runtime@0.4.1": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/style-runtime/README.md",
-    "licenseFile": "npm/@wordpress/style-runtime@0.4.1/LICENSE"
-  },
   "@wordpress/style-runtime@0.5.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/style-runtime/README.md",
@@ -1519,11 +1504,6 @@
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/sync/README.md",
     "licenseFile": "npm/@wordpress/sync@1.49.0/LICENSE"
   },
-  "@wordpress/theme@0.15.1": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/theme/README.md",
-    "licenseFile": "npm/@wordpress/theme@0.15.1/LICENSE"
-  },
   "@wordpress/theme@0.16.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/theme/README.md",
@@ -1533,11 +1513,6 @@
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/token-list/README.md",
     "licenseFile": "npm/@wordpress/token-list@3.49.0/LICENSE"
-  },
-  "@wordpress/ui@0.15.1": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/ui/README.md",
-    "licenseFile": "npm/@wordpress/ui@0.15.1/LICENSE"
   },
   "@wordpress/ui@0.16.0": {
     "licenses": "GPL-2.0-or-later",
