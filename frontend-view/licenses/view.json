@@ -162,10 +162,10 @@
     "licenses": "MIT",
     "licenseFile": "npm/@fortawesome/fontawesome-svg-core@7.3.0/LICENSE"
   },
-  "@fortawesome/react-fontawesome@3.3.1": {
+  "@fortawesome/react-fontawesome@3.4.0": {
     "licenses": "MIT",
     "repository": "https://github.com/FortAwesome/react-fontawesome",
-    "licenseFile": "npm/@fortawesome/react-fontawesome@3.3.1/LICENSE"
+    "licenseFile": "npm/@fortawesome/react-fontawesome@3.4.0/LICENSE"
   },
   "@headlessui/react@2.2.10": {
     "licenses": "MIT",
@@ -212,13 +212,13 @@
     "licenses": "MIT",
     "licenseFile": "npm/@scure/bip39@1.2.1/LICENSE"
   },
-  "@tanstack/query-core@5.101.1": {
+  "@tanstack/query-core@5.101.2": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/query-core@5.101.1/LICENSE"
+    "licenseFile": "npm/@tanstack/query-core@5.101.2/LICENSE"
   },
-  "@tanstack/react-query@5.101.1": {
+  "@tanstack/react-query@5.101.2": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/react-query@5.101.1/LICENSE"
+    "licenseFile": "npm/@tanstack/react-query@5.101.2/LICENSE"
   },
   "@tanstack/react-virtual@3.14.4": {
     "licenses": "MIT",
@@ -522,9 +522,9 @@
     "repository": "https://github.com/henrikjoreteg/html-parse-stringify",
     "licenseFile": "npm/html-parse-stringify@3.0.1/LICENSE"
   },
-  "i18next@26.3.3": {
+  "i18next@26.3.6": {
     "licenses": "MIT",
-    "licenseFile": "npm/i18next@26.3.3/LICENSE"
+    "licenseFile": "npm/i18next@26.3.6/LICENSE"
   },
   "i18next-browser-languagedetector@8.2.1": {
     "licenses": "MIT",
@@ -737,10 +737,10 @@
     "licenses": "MIT",
     "licenseFile": "npm/react-dom@19.2.7/LICENSE"
   },
-  "react-i18next@17.0.8": {
+  "react-i18next@17.0.9": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/react-i18next",
-    "licenseFile": "npm/react-i18next@17.0.8/LICENSE"
+    "licenseFile": "npm/react-i18next@17.0.9/LICENSE"
   },
   "react-is@16.13.1": {
     "licenses": "MIT",
@@ -1056,10 +1056,10 @@
     "licenses": "ISC",
     "licenseFile": "npm/yaml@1.10.3/LICENSE"
   },
-  "dompurify@3.4.11": {
+  "dompurify@3.4.12": {
     "licenses": "(MPL-2.0 OR Apache-2.0)",
     "repository": "https://github.com/cure53/DOMPurify",
-    "licenseFile": "npm/dompurify@3.4.11/LICENSE"
+    "licenseFile": "npm/dompurify@3.4.12/LICENSE"
   },
   "tslib@1.14.1": {
     "licenses": "0BSD",
