@@ -1162,11 +1162,6 @@
     "repository": "https://github.com/remarkjs/react-markdown#readme",
     "licenseFile": "npm/react-markdown@10.1.0/LICENSE"
   },
-  "react-router@7.18.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/remix-run/react-router#readme",
-    "licenseFile": "npm/react-router@7.18.0/LICENSE"
-  },
   "react-router@7.18.1": {
     "licenses": "MIT",
     "repository": "https://github.com/remix-run/react-router#readme",

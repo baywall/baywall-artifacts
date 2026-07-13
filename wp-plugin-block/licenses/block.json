@@ -1,55 +1,27 @@
 {
-  "@ariakit/components@0.1.3": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@ariakit/components@0.1.3/LICENSE"
-  },
   "@ariakit/components@0.1.5": {
     "licenses": "MIT",
     "licenseFile": "npm/@ariakit/components@0.1.5/LICENSE"
-  },
-  "@ariakit/react@0.4.30": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@ariakit/react@0.4.30/LICENSE"
   },
   "@ariakit/react@0.4.32": {
     "licenses": "MIT",
     "licenseFile": "npm/@ariakit/react@0.4.32/LICENSE"
   },
-  "@ariakit/react-components@0.2.0": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@ariakit/react-components@0.2.0/LICENSE"
-  },
   "@ariakit/react-components@0.3.1": {
     "licenses": "MIT",
     "licenseFile": "npm/@ariakit/react-components@0.3.1/LICENSE"
-  },
-  "@ariakit/react-store@0.1.3": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@ariakit/react-store@0.1.3/LICENSE"
   },
   "@ariakit/react-store@0.1.5": {
     "licenses": "MIT",
     "licenseFile": "npm/@ariakit/react-store@0.1.5/LICENSE"
   },
-  "@ariakit/react-utils@0.1.3": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@ariakit/react-utils@0.1.3/LICENSE"
-  },
   "@ariakit/react-utils@0.2.0": {
     "licenses": "MIT",
     "licenseFile": "npm/@ariakit/react-utils@0.2.0/LICENSE"
   },
-  "@ariakit/store@0.1.3": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@ariakit/store@0.1.3/LICENSE"
-  },
   "@ariakit/store@0.1.4": {
     "licenses": "MIT",
     "licenseFile": "npm/@ariakit/store@0.1.4/LICENSE"
-  },
-  "@ariakit/utils@0.1.3": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@ariakit/utils@0.1.3/LICENSE"
   },
   "@ariakit/utils@0.1.4": {
     "licenses": "MIT",
@@ -188,33 +160,17 @@
     "repository": "https://github.com/emotion-js/emotion/tree/main#readme",
     "licenseFile": "npm/@emotion/weak-memoize@0.4.0/LICENSE"
   },
-  "@floating-ui/core@1.7.5": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@floating-ui/core@1.7.5/LICENSE"
-  },
   "@floating-ui/core@1.8.0": {
     "licenses": "MIT",
     "licenseFile": "npm/@floating-ui/core@1.8.0/LICENSE"
-  },
-  "@floating-ui/dom@1.7.6": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@floating-ui/dom@1.7.6/LICENSE"
   },
   "@floating-ui/dom@1.8.0": {
     "licenses": "MIT",
     "licenseFile": "npm/@floating-ui/dom@1.8.0/LICENSE"
   },
-  "@floating-ui/react-dom@2.1.8": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@floating-ui/react-dom@2.1.8/LICENSE"
-  },
   "@floating-ui/react-dom@2.1.9": {
     "licenses": "MIT",
     "licenseFile": "npm/@floating-ui/react-dom@2.1.9/LICENSE"
-  },
-  "@floating-ui/utils@0.2.11": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@floating-ui/utils@0.2.11/LICENSE"
   },
   "@floating-ui/utils@0.2.12": {
     "licenses": "MIT",

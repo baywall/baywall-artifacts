@@ -109,25 +109,25 @@
     "repository": "https://github.com/emotion-js/emotion/tree/main#readme",
     "licenseFile": "npm/@emotion/weak-memoize@0.4.0/LICENSE"
   },
-  "@floating-ui/core@1.7.5": {
+  "@floating-ui/core@1.8.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/@floating-ui/core@1.7.5/LICENSE"
+    "licenseFile": "npm/@floating-ui/core@1.8.0/LICENSE"
   },
-  "@floating-ui/dom@1.7.6": {
+  "@floating-ui/dom@1.8.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/@floating-ui/dom@1.7.6/LICENSE"
+    "licenseFile": "npm/@floating-ui/dom@1.8.0/LICENSE"
   },
   "@floating-ui/react@0.26.28": {
     "licenses": "MIT",
     "licenseFile": "npm/@floating-ui/react@0.26.28/LICENSE"
   },
-  "@floating-ui/react-dom@2.1.8": {
+  "@floating-ui/react-dom@2.1.9": {
     "licenses": "MIT",
-    "licenseFile": "npm/@floating-ui/react-dom@2.1.8/LICENSE"
+    "licenseFile": "npm/@floating-ui/react-dom@2.1.9/LICENSE"
   },
-  "@floating-ui/utils@0.2.11": {
+  "@floating-ui/utils@0.2.12": {
     "licenses": "MIT",
-    "licenseFile": "npm/@floating-ui/utils@0.2.11/LICENSE"
+    "licenseFile": "npm/@floating-ui/utils@0.2.12/LICENSE"
   },
   "@formatjs/ecma402-abstract@2.3.6": {
     "licenses": "MIT",
