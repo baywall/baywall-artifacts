@@ -1,9 +1,4 @@
 {
-  "@adraffy/ens-normalize@1.10.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/adraffy/ens-normalize.js#readme",
-    "licenseFile": "npm/@adraffy/ens-normalize@1.10.0/LICENSE"
-  },
   "@adraffy/ens-normalize@1.11.1": {
     "licenses": "MIT",
     "repository": "https://github.com/adraffy/ens-normalize.js#readme",
@@ -204,30 +199,46 @@
     "repository": "https://github.com/mui/material-ui/tree/master/packages/mui-utils",
     "licenseFile": "npm/@mui/utils@7.3.11/LICENSE"
   },
+  "@noble/ciphers@1.3.0": {
+    "licenses": "MIT",
+    "licenseFile": "npm/@noble/ciphers@1.3.0/LICENSE"
+  },
   "@noble/curves@1.2.0": {
     "licenses": "MIT",
     "licenseFile": "npm/@noble/curves@1.2.0/LICENSE"
   },
+  "@noble/curves@1.9.1": {
+    "licenses": "MIT",
+    "licenseFile": "npm/@noble/curves@1.9.1/LICENSE"
+  },
+  "@noble/curves@1.9.7": {
+    "licenses": "MIT",
+    "licenseFile": "npm/@noble/curves@1.9.7/LICENSE"
+  },
   "@noble/hashes@1.3.2": {
     "licenses": "MIT",
     "licenseFile": "npm/@noble/hashes@1.3.2/LICENSE"
+  },
+  "@noble/hashes@1.8.0": {
+    "licenses": "MIT",
+    "licenseFile": "npm/@noble/hashes@1.8.0/LICENSE"
   },
   "@popperjs/core@2.11.8": {
     "licenses": "MIT",
     "repository": "https://github.com/popperjs/popper-core#readme",
     "licenseFile": "npm/@popperjs/core@2.11.8/LICENSE"
   },
-  "@scure/base@1.1.9": {
+  "@scure/base@1.2.6": {
     "licenses": "MIT",
-    "licenseFile": "npm/@scure/base@1.1.9/LICENSE"
+    "licenseFile": "npm/@scure/base@1.2.6/LICENSE"
   },
-  "@scure/bip32@1.3.2": {
+  "@scure/bip32@1.7.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/@scure/bip32@1.3.2/LICENSE"
+    "licenseFile": "npm/@scure/bip32@1.7.0/LICENSE"
   },
-  "@scure/bip39@1.2.1": {
+  "@scure/bip39@1.6.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/@scure/bip39@1.2.1/LICENSE"
+    "licenseFile": "npm/@scure/bip39@1.6.0/LICENSE"
   },
   "@tanstack/query-core@5.101.2": {
     "licenses": "MIT",
@@ -322,10 +333,10 @@
     "licenses": "MIT",
     "licenseFile": "npm/@web3-onboard/react@2.11.0/LICENSE"
   },
-  "abitype@1.0.0": {
+  "abitype@1.2.3": {
     "licenses": "MIT",
     "repository": "https://github.com/wevm/abitype#readme",
-    "licenseFile": "npm/abitype@1.0.0/LICENSE"
+    "licenseFile": "npm/abitype@1.2.3/LICENSE"
   },
   "aes-js@4.0.0-beta.5": {
     "licenses": "MIT",
@@ -576,6 +587,11 @@
     "repository": "https://github.com/primus/eventemitter3#readme",
     "licenseFile": "npm/eventemitter3@4.0.7/LICENSE"
   },
+  "eventemitter3@5.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/primus/eventemitter3#readme",
+    "licenseFile": "npm/eventemitter3@5.0.1/LICENSE"
+  },
   "eventemitter3@5.0.4": {
     "licenses": "MIT",
     "repository": "https://github.com/primus/eventemitter3#readme",
@@ -790,10 +806,10 @@
     "repository": "https://github.com/inspect-js/is-typed-array#readme",
     "licenseFile": "npm/is-typed-array@1.1.15/LICENSE"
   },
-  "isows@1.0.4": {
+  "isows@1.0.7": {
     "licenses": "MIT",
-    "repository": "https://github.com/wagmi-dev/isows#readme",
-    "licenseFile": "npm/isows@1.0.4/LICENSE"
+    "repository": "https://github.com/wevm/isows#readme",
+    "licenseFile": "npm/isows@1.0.7/LICENSE"
   },
   "jotai@2.20.1": {
     "licenses": "MIT",
@@ -1048,6 +1064,10 @@
     "licenses": "MIT",
     "repository": "https://github.com/es-shims/Object.entries#readme",
     "licenseFile": "npm/object.entries@1.1.9/LICENSE"
+  },
+  "ox@0.14.29": {
+    "licenses": "MIT",
+    "licenseFile": "npm/ox@0.14.29/LICENSE"
   },
   "parent-module@1.0.1": {
     "licenses": "MIT",
@@ -1347,9 +1367,9 @@
     "repository": "https://github.com/vfile/vfile-message#readme",
     "licenseFile": "npm/vfile-message@4.0.3/LICENSE"
   },
-  "viem@2.12.0": {
+  "viem@2.54.2": {
     "licenses": "MIT",
-    "licenseFile": "npm/viem@2.12.0/LICENSE"
+    "licenseFile": "npm/viem@2.54.2/LICENSE"
   },
   "void-elements@3.1.0": {
     "licenses": "MIT",
@@ -1365,11 +1385,6 @@
     "licenses": "MIT",
     "repository": "https://github.com/inspect-js/which-typed-array#readme",
     "licenseFile": "npm/which-typed-array@1.1.22/LICENSE"
-  },
-  "ws@8.13.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/websockets/ws",
-    "licenseFile": "npm/ws@8.13.0/LICENSE"
   },
   "ws@8.21.0": {
     "licenses": "MIT",
