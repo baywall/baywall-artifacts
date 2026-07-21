@@ -154,18 +154,18 @@
     "repository": "https://github.com/formatjs/formatjs#readme",
     "licenseFile": "npm/@formatjs/intl-localematcher@0.6.2/LICENSE"
   },
-  "@fortawesome/fontawesome-common-types@7.3.0": {
+  "@fortawesome/fontawesome-common-types@7.3.1": {
     "licenses": "MIT",
-    "licenseFile": "npm/@fortawesome/fontawesome-common-types@7.3.0/LICENSE"
+    "licenseFile": "npm/@fortawesome/fontawesome-common-types@7.3.1/LICENSE"
   },
-  "@fortawesome/fontawesome-svg-core@7.3.0": {
+  "@fortawesome/fontawesome-svg-core@7.3.1": {
     "licenses": "MIT",
-    "licenseFile": "npm/@fortawesome/fontawesome-svg-core@7.3.0/LICENSE"
+    "licenseFile": "npm/@fortawesome/fontawesome-svg-core@7.3.1/LICENSE"
   },
-  "@fortawesome/react-fontawesome@3.4.0": {
+  "@fortawesome/react-fontawesome@3.5.0": {
     "licenses": "MIT",
     "repository": "https://github.com/FortAwesome/react-fontawesome",
-    "licenseFile": "npm/@fortawesome/react-fontawesome@3.4.0/LICENSE"
+    "licenseFile": "npm/@fortawesome/react-fontawesome@3.5.0/LICENSE"
   },
   "@headlessui/react@2.2.10": {
     "licenses": "MIT",
@@ -212,13 +212,13 @@
     "licenses": "MIT",
     "licenseFile": "npm/@scure/bip39@1.2.1/LICENSE"
   },
-  "@tanstack/query-core@5.101.2": {
+  "@tanstack/query-core@5.101.3": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/query-core@5.101.2/LICENSE"
+    "licenseFile": "npm/@tanstack/query-core@5.101.3/LICENSE"
   },
-  "@tanstack/react-query@5.101.2": {
+  "@tanstack/react-query@5.101.3": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/react-query@5.101.2/LICENSE"
+    "licenseFile": "npm/@tanstack/react-query@5.101.3/LICENSE"
   },
   "@tanstack/react-virtual@3.14.6": {
     "licenses": "MIT",
@@ -596,10 +596,10 @@
     "repository": "https://github.com/wagmi-dev/isows#readme",
     "licenseFile": "npm/isows@1.0.4/LICENSE"
   },
-  "jotai@2.20.1": {
+  "jotai@2.20.2": {
     "licenses": "MIT",
     "repository": "https://github.com/pmndrs/jotai",
-    "licenseFile": "npm/jotai@2.20.1/LICENSE"
+    "licenseFile": "npm/jotai@2.20.2/LICENSE"
   },
   "js-tokens@4.0.0": {
     "licenses": "MIT",
@@ -737,10 +737,10 @@
     "licenses": "MIT",
     "licenseFile": "npm/react-dom@19.2.7/LICENSE"
   },
-  "react-i18next@17.0.9": {
+  "react-i18next@17.0.10": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/react-i18next",
-    "licenseFile": "npm/react-i18next@17.0.9/LICENSE"
+    "licenseFile": "npm/react-i18next@17.0.10/LICENSE"
   },
   "react-is@16.13.1": {
     "licenses": "MIT",
@@ -867,13 +867,13 @@
     "repository": "https://github.com/websockets/ws",
     "licenseFile": "npm/ws@8.21.0/LICENSE"
   },
-  "@fortawesome/free-regular-svg-icons@7.3.0": {
+  "@fortawesome/free-regular-svg-icons@7.3.1": {
     "licenses": "(CC-BY-4.0 AND MIT)",
-    "licenseFile": "npm/@fortawesome/free-regular-svg-icons@7.3.0/LICENSE"
+    "licenseFile": "npm/@fortawesome/free-regular-svg-icons@7.3.1/LICENSE"
   },
-  "@fortawesome/free-solid-svg-icons@7.3.0": {
+  "@fortawesome/free-solid-svg-icons@7.3.1": {
     "licenses": "(CC-BY-4.0 AND MIT)",
-    "licenseFile": "npm/@fortawesome/free-solid-svg-icons@7.3.0/LICENSE"
+    "licenseFile": "npm/@fortawesome/free-solid-svg-icons@7.3.1/LICENSE"
   },
   "@hapi/hoek@9.3.0": {
     "licenses": "BSD-3-Clause",
