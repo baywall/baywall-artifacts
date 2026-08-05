@@ -1,47 +1,23 @@
 {
-  "@ariakit/components@0.1.5": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@ariakit/components@0.1.5/LICENSE"
-  },
   "@ariakit/components@0.1.7": {
     "licenses": "MIT",
     "licenseFile": "npm/@ariakit/components@0.1.7/LICENSE"
-  },
-  "@ariakit/react@0.4.32": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@ariakit/react@0.4.32/LICENSE"
   },
   "@ariakit/react@0.4.34": {
     "licenses": "MIT",
     "licenseFile": "npm/@ariakit/react@0.4.34/LICENSE"
   },
-  "@ariakit/react-components@0.3.1": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@ariakit/react-components@0.3.1/LICENSE"
-  },
   "@ariakit/react-components@0.3.3": {
     "licenses": "MIT",
     "licenseFile": "npm/@ariakit/react-components@0.3.3/LICENSE"
-  },
-  "@ariakit/react-store@0.1.5": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@ariakit/react-store@0.1.5/LICENSE"
   },
   "@ariakit/react-store@0.1.7": {
     "licenses": "MIT",
     "licenseFile": "npm/@ariakit/react-store@0.1.7/LICENSE"
   },
-  "@ariakit/react-utils@0.2.0": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@ariakit/react-utils@0.2.0/LICENSE"
-  },
   "@ariakit/react-utils@0.2.2": {
     "licenses": "MIT",
     "licenseFile": "npm/@ariakit/react-utils@0.2.2/LICENSE"
-  },
-  "@ariakit/store@0.1.4": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@ariakit/store@0.1.4/LICENSE"
   },
   "@ariakit/store@0.1.6": {
     "licenses": "MIT",
@@ -355,13 +331,13 @@
     "licenses": "MIT",
     "licenseFile": "npm/@tanstack/history@1.162.0/LICENSE"
   },
-  "@tanstack/query-core@5.101.3": {
+  "@tanstack/query-core@5.101.4": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/query-core@5.101.3/LICENSE"
+    "licenseFile": "npm/@tanstack/query-core@5.101.4/LICENSE"
   },
-  "@tanstack/react-query@5.101.3": {
+  "@tanstack/react-query@5.101.4": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/react-query@5.101.3/LICENSE"
+    "licenseFile": "npm/@tanstack/react-query@5.101.4/LICENSE"
   },
   "@tanstack/react-router@1.170.17": {
     "licenses": "MIT",
@@ -743,10 +719,10 @@
     "repository": "https://github.com/aduth/hpq",
     "licenseFile": "npm/hpq@1.4.0/LICENSE"
   },
-  "html-parse-stringify@3.0.1": {
+  "html-parse-stringify@4.0.1": {
     "licenses": "MIT",
-    "repository": "https://github.com/henrikjoreteg/html-parse-stringify",
-    "licenseFile": "npm/html-parse-stringify@3.0.1/LICENSE"
+    "repository": "https://github.com/i18next/html-parse-stringify",
+    "licenseFile": "npm/html-parse-stringify@4.0.1/LICENSE"
   },
   "i18next@26.3.6": {
     "licenses": "MIT",
@@ -1023,10 +999,6 @@
     "repository": "https://github.com/buildo/react-autosize-textarea",
     "licenseFile": "npm/react-autosize-textarea@7.1.0/LICENSE"
   },
-  "react-colorful@5.7.0": {
-    "licenses": "MIT",
-    "licenseFile": "npm/react-colorful@5.7.0/LICENSE"
-  },
   "react-colorful@5.8.0": {
     "licenses": "MIT",
     "licenseFile": "npm/react-colorful@5.8.0/LICENSE"
@@ -1043,10 +1015,10 @@
     "licenses": "MIT",
     "licenseFile": "npm/react-easy-crop@5.5.7/LICENSE"
   },
-  "react-i18next@17.0.10": {
+  "react-i18next@17.0.11": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/react-i18next",
-    "licenseFile": "npm/react-i18next@17.0.10/LICENSE"
+    "licenseFile": "npm/react-i18next@17.0.11/LICENSE"
   },
   "react-is@16.13.1": {
     "licenses": "MIT",
@@ -1224,11 +1196,6 @@
     "repository": "https://github.com/uuidjs/uuid#readme",
     "licenseFile": "npm/uuid@14.0.1/LICENSE"
   },
-  "void-elements@3.1.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/jadejs/void-elements",
-    "licenseFile": "npm/void-elements@3.1.0/LICENSE"
-  },
   "wasm-vips@0.0.18": {
     "licenses": "MIT",
     "repository": "https://github.com/kleisauke/wasm-vips",
@@ -1247,11 +1214,6 @@
   "yjs@13.6.31": {
     "licenses": "MIT",
     "licenseFile": "npm/yjs@13.6.31/LICENSE"
-  },
-  "@wordpress/a11y@4.50.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/a11y/README.md",
-    "licenseFile": "npm/@wordpress/a11y@4.50.0/LICENSE"
   },
   "@wordpress/a11y@4.51.0": {
     "licenses": "GPL-2.0-or-later",
@@ -1283,11 +1245,6 @@
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/base-styles/README.md",
     "licenseFile": "npm/@wordpress/base-styles@11.0.0/LICENSE"
   },
-  "@wordpress/blob@4.50.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/blob/README.md",
-    "licenseFile": "npm/@wordpress/blob@4.50.0/LICENSE"
-  },
   "@wordpress/blob@4.51.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/blob/README.md",
@@ -1297,11 +1254,6 @@
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/block-editor/README.md",
     "licenseFile": "npm/@wordpress/block-editor@15.23.0/LICENSE"
-  },
-  "@wordpress/block-serialization-default-parser@5.50.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/block-serialization-default-parser/README.md",
-    "licenseFile": "npm/@wordpress/block-serialization-default-parser@5.50.0/LICENSE"
   },
   "@wordpress/block-serialization-default-parser@5.51.0": {
     "licenses": "GPL-2.0-or-later",
@@ -1328,11 +1280,6 @@
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/components/README.md",
     "licenseFile": "npm/@wordpress/components@37.0.0/LICENSE"
   },
-  "@wordpress/compose@8.3.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/compose/README.md",
-    "licenseFile": "npm/@wordpress/compose@8.3.0/LICENSE"
-  },
   "@wordpress/compose@8.4.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/compose/README.md",
@@ -1353,40 +1300,20 @@
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/dataviews/README.md",
     "licenseFile": "npm/@wordpress/dataviews@17.1.0/LICENSE"
   },
-  "@wordpress/date@5.50.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/date/README.md",
-    "licenseFile": "npm/@wordpress/date@5.50.0/LICENSE"
-  },
   "@wordpress/date@5.51.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/date/README.md",
     "licenseFile": "npm/@wordpress/date@5.51.0/LICENSE"
-  },
-  "@wordpress/deprecated@4.50.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/deprecated/README.md",
-    "licenseFile": "npm/@wordpress/deprecated@4.50.0/LICENSE"
   },
   "@wordpress/deprecated@4.51.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/deprecated/README.md",
     "licenseFile": "npm/@wordpress/deprecated@4.51.0/LICENSE"
   },
-  "@wordpress/dom@4.50.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/dom/README.md",
-    "licenseFile": "npm/@wordpress/dom@4.50.0/LICENSE"
-  },
   "@wordpress/dom@4.51.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/dom/README.md",
     "licenseFile": "npm/@wordpress/dom@4.51.0/LICENSE"
-  },
-  "@wordpress/dom-ready@4.50.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/dom-ready/README.md",
-    "licenseFile": "npm/@wordpress/dom-ready@4.50.0/LICENSE"
   },
   "@wordpress/dom-ready@4.51.0": {
     "licenses": "GPL-2.0-or-later",
@@ -1402,11 +1329,6 @@
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/element/README.md",
     "licenseFile": "npm/@wordpress/element@8.3.0/LICENSE"
-  },
-  "@wordpress/escape-html@3.50.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/escape-html/README.md",
-    "licenseFile": "npm/@wordpress/escape-html@3.50.0/LICENSE"
   },
   "@wordpress/escape-html@3.51.0": {
     "licenses": "GPL-2.0-or-later",
@@ -1428,30 +1350,15 @@
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/global-styles-ui/README.md",
     "licenseFile": "npm/@wordpress/global-styles-ui@1.17.0/LICENSE"
   },
-  "@wordpress/hooks@4.50.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/hooks/README.md",
-    "licenseFile": "npm/@wordpress/hooks@4.50.0/LICENSE"
-  },
   "@wordpress/hooks@4.51.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/hooks/README.md",
     "licenseFile": "npm/@wordpress/hooks@4.51.0/LICENSE"
   },
-  "@wordpress/html-entities@4.50.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/html-entities/README.md",
-    "licenseFile": "npm/@wordpress/html-entities@4.50.0/LICENSE"
-  },
   "@wordpress/html-entities@4.51.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/html-entities/README.md",
     "licenseFile": "npm/@wordpress/html-entities@4.51.0/LICENSE"
-  },
-  "@wordpress/i18n@6.23.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/i18n/README.md",
-    "licenseFile": "npm/@wordpress/i18n@6.23.0/LICENSE"
   },
   "@wordpress/i18n@6.24.0": {
     "licenses": "GPL-2.0-or-later",
@@ -1478,11 +1385,6 @@
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/interface/README.md",
     "licenseFile": "npm/@wordpress/interface@9.35.0/LICENSE"
   },
-  "@wordpress/is-shallow-equal@5.50.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/is-shallow-equal/README.md",
-    "licenseFile": "npm/@wordpress/is-shallow-equal@5.50.0/LICENSE"
-  },
   "@wordpress/is-shallow-equal@5.51.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/is-shallow-equal/README.md",
@@ -1492,11 +1394,6 @@
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/keyboard-shortcuts/README.md",
     "licenseFile": "npm/@wordpress/keyboard-shortcuts@5.50.0/LICENSE"
-  },
-  "@wordpress/keycodes@4.50.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/keycodes/README.md",
-    "licenseFile": "npm/@wordpress/keycodes@4.50.0/LICENSE"
   },
   "@wordpress/keycodes@4.51.0": {
     "licenses": "GPL-2.0-or-later",
@@ -1538,30 +1435,15 @@
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/preferences/README.md",
     "licenseFile": "npm/@wordpress/preferences@4.50.0/LICENSE"
   },
-  "@wordpress/primitives@4.50.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/primitives/README.md",
-    "licenseFile": "npm/@wordpress/primitives@4.50.0/LICENSE"
-  },
   "@wordpress/primitives@4.51.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/primitives/README.md",
     "licenseFile": "npm/@wordpress/primitives@4.51.0/LICENSE"
   },
-  "@wordpress/priority-queue@3.50.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/priority-queue/README.md",
-    "licenseFile": "npm/@wordpress/priority-queue@3.50.0/LICENSE"
-  },
   "@wordpress/priority-queue@3.51.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/priority-queue/README.md",
     "licenseFile": "npm/@wordpress/priority-queue@3.51.0/LICENSE"
-  },
-  "@wordpress/private-apis@1.50.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/private-apis/README.md",
-    "licenseFile": "npm/@wordpress/private-apis@1.50.0/LICENSE"
   },
   "@wordpress/private-apis@1.51.0": {
     "licenses": "GPL-2.0-or-later",
@@ -1577,11 +1459,6 @@
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/reusable-blocks/README.md",
     "licenseFile": "npm/@wordpress/reusable-blocks@5.50.0/LICENSE"
-  },
-  "@wordpress/rich-text@7.50.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/rich-text/README.md",
-    "licenseFile": "npm/@wordpress/rich-text@7.50.0/LICENSE"
   },
   "@wordpress/rich-text@7.51.0": {
     "licenses": "GPL-2.0-or-later",
@@ -1658,11 +1535,6 @@
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/ui/README.md",
     "licenseFile": "npm/@wordpress/ui@0.18.0/LICENSE"
   },
-  "@wordpress/undo-manager@1.50.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/undo-manager/README.md",
-    "licenseFile": "npm/@wordpress/undo-manager@1.50.0/LICENSE"
-  },
   "@wordpress/undo-manager@1.51.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/undo-manager/README.md",
@@ -1692,11 +1564,6 @@
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/vips/README.md",
     "licenseFile": "npm/@wordpress/vips@2.3.0/LICENSE"
-  },
-  "@wordpress/warning@3.50.0": {
-    "licenses": "GPL-2.0-or-later",
-    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/warning/README.md",
-    "licenseFile": "npm/@wordpress/warning@3.50.0/LICENSE"
   },
   "@wordpress/warning@3.51.0": {
     "licenses": "GPL-2.0-or-later",
