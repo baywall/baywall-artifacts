@@ -866,9 +866,9 @@
     "repository": "https://github.com/blakeembrey/change-case/tree/master/packages/lower-case#readme",
     "licenseFile": "npm/lower-case@2.0.2/LICENSE"
   },
-  "marked@18.0.7": {
+  "marked@18.0.9": {
     "licenses": "MIT",
-    "licenseFile": "npm/marked@18.0.7/LICENSE"
+    "licenseFile": "npm/marked@18.0.9/LICENSE"
   },
   "math-intrinsics@1.1.0": {
     "licenses": "MIT",
@@ -982,9 +982,9 @@
     "repository": "https://github.com/ljharb/possible-typed-array-names#readme",
     "licenseFile": "npm/possible-typed-array-names@1.1.0/LICENSE"
   },
-  "postcss@8.5.20": {
+  "postcss@8.5.25": {
     "licenses": "MIT",
-    "licenseFile": "npm/postcss@8.5.20/LICENSE"
+    "licenseFile": "npm/postcss@8.5.25/LICENSE"
   },
   "postcss-prefix-selector@1.16.1": {
     "licenses": "MIT",
