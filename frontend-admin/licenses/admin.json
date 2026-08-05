@@ -1136,9 +1136,9 @@
     "repository": "https://github.com/bvaughn/react-error-boundary#readme",
     "licenseFile": "npm/react-error-boundary@4.1.2/LICENSE"
   },
-  "react-hook-form@7.82.0": {
+  "react-hook-form@7.84.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/react-hook-form@7.82.0/LICENSE"
+    "licenseFile": "npm/react-hook-form@7.84.0/LICENSE"
   },
   "react-hotkeys-hook@5.3.3": {
     "licenses": "MIT",
