@@ -1,9 +1,4 @@
 {
-  "@adraffy/ens-normalize@1.10.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/adraffy/ens-normalize.js#readme",
-    "licenseFile": "npm/@adraffy/ens-normalize@1.10.0/LICENSE"
-  },
   "@adraffy/ens-normalize@1.11.1": {
     "licenses": "MIT",
     "repository": "https://github.com/adraffy/ens-normalize.js#readme",
@@ -124,31 +119,6 @@
     "repository": "https://github.com/emotion-js/emotion/tree/main#readme",
     "licenseFile": "npm/@emotion/weak-memoize@0.4.0/LICENSE"
   },
-  "@formatjs/ecma402-abstract@2.3.6": {
-    "licenses": "MIT",
-    "repository": "https://github.com/formatjs/formatjs",
-    "licenseFile": "npm/@formatjs/ecma402-abstract@2.3.6/LICENSE"
-  },
-  "@formatjs/fast-memoize@2.2.7": {
-    "licenses": "MIT",
-    "repository": "https://github.com/formatjs/formatjs#readme",
-    "licenseFile": "npm/@formatjs/fast-memoize@2.2.7/LICENSE"
-  },
-  "@formatjs/icu-messageformat-parser@2.11.4": {
-    "licenses": "MIT",
-    "repository": "https://github.com/formatjs/formatjs#readme",
-    "licenseFile": "npm/@formatjs/icu-messageformat-parser@2.11.4/LICENSE"
-  },
-  "@formatjs/icu-skeleton-parser@1.8.16": {
-    "licenses": "MIT",
-    "repository": "https://github.com/formatjs/formatjs#readme",
-    "licenseFile": "npm/@formatjs/icu-skeleton-parser@1.8.16/LICENSE"
-  },
-  "@formatjs/intl-localematcher@0.6.2": {
-    "licenses": "MIT",
-    "repository": "https://github.com/formatjs/formatjs#readme",
-    "licenseFile": "npm/@formatjs/intl-localematcher@0.6.2/LICENSE"
-  },
   "@jridgewell/gen-mapping@0.3.13": {
     "licenses": "MIT",
     "repository": "https://github.com/jridgewell/sourcemaps/tree/main/packages/gen-mapping",
@@ -204,30 +174,46 @@
     "repository": "https://github.com/mui/material-ui/tree/master/packages/mui-utils",
     "licenseFile": "npm/@mui/utils@7.3.11/LICENSE"
   },
+  "@noble/ciphers@1.3.0": {
+    "licenses": "MIT",
+    "licenseFile": "npm/@noble/ciphers@1.3.0/LICENSE"
+  },
   "@noble/curves@1.2.0": {
     "licenses": "MIT",
     "licenseFile": "npm/@noble/curves@1.2.0/LICENSE"
   },
+  "@noble/curves@1.9.1": {
+    "licenses": "MIT",
+    "licenseFile": "npm/@noble/curves@1.9.1/LICENSE"
+  },
+  "@noble/curves@1.9.7": {
+    "licenses": "MIT",
+    "licenseFile": "npm/@noble/curves@1.9.7/LICENSE"
+  },
   "@noble/hashes@1.3.2": {
     "licenses": "MIT",
     "licenseFile": "npm/@noble/hashes@1.3.2/LICENSE"
+  },
+  "@noble/hashes@1.8.0": {
+    "licenses": "MIT",
+    "licenseFile": "npm/@noble/hashes@1.8.0/LICENSE"
   },
   "@popperjs/core@2.11.8": {
     "licenses": "MIT",
     "repository": "https://github.com/popperjs/popper-core#readme",
     "licenseFile": "npm/@popperjs/core@2.11.8/LICENSE"
   },
-  "@scure/base@1.1.9": {
+  "@scure/base@1.2.6": {
     "licenses": "MIT",
-    "licenseFile": "npm/@scure/base@1.1.9/LICENSE"
+    "licenseFile": "npm/@scure/base@1.2.6/LICENSE"
   },
-  "@scure/bip32@1.3.2": {
+  "@scure/bip32@1.7.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/@scure/bip32@1.3.2/LICENSE"
+    "licenseFile": "npm/@scure/bip32@1.7.0/LICENSE"
   },
-  "@scure/bip39@1.2.1": {
+  "@scure/bip39@1.6.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/@scure/bip39@1.2.1/LICENSE"
+    "licenseFile": "npm/@scure/bip39@1.6.0/LICENSE"
   },
   "@tanstack/query-core@5.101.4": {
     "licenses": "MIT",
@@ -302,30 +288,20 @@
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/unist",
     "licenseFile": "npm/@types/unist@3.0.3/LICENSE"
   },
-  "@web3-onboard/common@2.4.2": {
+  "@wagmi/connectors@8.1.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/@web3-onboard/common@2.4.2/LICENSE"
+    "repository": "https://github.com/wevm/wagmi#readme",
+    "licenseFile": "npm/@wagmi/connectors@8.1.0/LICENSE"
   },
-  "@web3-onboard/core@2.24.0": {
+  "@wagmi/core@3.6.4": {
     "licenses": "MIT",
-    "licenseFile": "npm/@web3-onboard/core@2.24.0/LICENSE"
+    "repository": "https://github.com/wevm/wagmi#readme",
+    "licenseFile": "npm/@wagmi/core@3.6.4/LICENSE"
   },
-  "@web3-onboard/core@2.24.1": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@web3-onboard/core@2.24.1/LICENSE"
-  },
-  "@web3-onboard/injected-wallets@2.11.3": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@web3-onboard/injected-wallets@2.11.3/LICENSE"
-  },
-  "@web3-onboard/react@2.11.0": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@web3-onboard/react@2.11.0/LICENSE"
-  },
-  "abitype@1.0.0": {
+  "abitype@1.2.3": {
     "licenses": "MIT",
     "repository": "https://github.com/wevm/abitype#readme",
-    "licenseFile": "npm/abitype@1.0.0/LICENSE"
+    "licenseFile": "npm/abitype@1.2.3/LICENSE"
   },
   "aes-js@4.0.0-beta.5": {
     "licenses": "MIT",
@@ -361,16 +337,6 @@
     "licenses": "MIT",
     "repository": "https://github.com/wooorm/bail#readme",
     "licenseFile": "npm/bail@2.0.2/LICENSE"
-  },
-  "bnc-sdk@4.6.9": {
-    "licenses": "MIT",
-    "repository": "https://github.com/blocknative/sdk#readme",
-    "licenseFile": "npm/bnc-sdk@4.6.9/LICENSE"
-  },
-  "bowser@2.14.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/bowser-js/bowser",
-    "licenseFile": "npm/bowser@2.14.1/LICENSE"
   },
   "call-bind@1.0.9": {
     "licenses": "MIT",
@@ -442,11 +408,6 @@
     "repository": "https://github.com/davidtheclark/cosmiconfig#readme",
     "licenseFile": "npm/cosmiconfig@7.1.0/LICENSE"
   },
-  "crypto-es@1.2.7": {
-    "licenses": "MIT",
-    "repository": "https://github.com/entronad/crypto-es#readme",
-    "licenseFile": "npm/crypto-es@1.2.7/LICENSE"
-  },
   "csstype@3.2.3": {
     "licenses": "MIT",
     "repository": "https://github.com/frenic/csstype#readme",
@@ -476,11 +437,6 @@
     "licenses": "MIT",
     "repository": "https://github.com/SamVerschueren/decode-uri-component#readme",
     "licenseFile": "npm/decode-uri-component@0.2.2/LICENSE"
-  },
-  "deepmerge@4.3.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/TehShrike/deepmerge",
-    "licenseFile": "npm/deepmerge@4.3.1/LICENSE"
   },
   "define-data-property@1.1.4": {
     "licenses": "MIT",
@@ -537,16 +493,6 @@
     "repository": "https://github.com/ljharb/es-object-atoms#readme",
     "licenseFile": "npm/es-object-atoms@1.1.2/LICENSE"
   },
-  "es6-iterator@2.0.3": {
-    "licenses": "MIT",
-    "repository": "https://github.com/medikoo/es6-iterator#readme",
-    "licenseFile": "npm/es6-iterator@2.0.3/LICENSE"
-  },
-  "esbuild@0.19.12": {
-    "licenses": "MIT",
-    "repository": "https://github.com/evanw/esbuild#readme",
-    "licenseFile": "npm/esbuild@0.19.12/LICENSE"
-  },
   "escape-string-regexp@4.0.0": {
     "licenses": "MIT",
     "repository": "https://github.com/sindresorhus/escape-string-regexp#readme",
@@ -557,24 +503,14 @@
     "repository": "https://github.com/syntax-tree/estree-util-is-identifier-name#readme",
     "licenseFile": "npm/estree-util-is-identifier-name@3.0.0/LICENSE"
   },
-  "estree-walker@2.0.2": {
-    "licenses": "MIT",
-    "repository": "https://github.com/Rich-Harris/estree-walker#readme",
-    "licenseFile": "npm/estree-walker@2.0.2/LICENSE"
-  },
   "ethers@6.17.0": {
     "licenses": "MIT",
     "licenseFile": "npm/ethers@6.17.0/LICENSE"
   },
-  "event-emitter@0.3.5": {
-    "licenses": "MIT",
-    "repository": "https://github.com/medikoo/event-emitter#readme",
-    "licenseFile": "npm/event-emitter@0.3.5/LICENSE"
-  },
-  "eventemitter3@4.0.7": {
+  "eventemitter3@5.0.1": {
     "licenses": "MIT",
     "repository": "https://github.com/primus/eventemitter3#readme",
-    "licenseFile": "npm/eventemitter3@4.0.7/LICENSE"
+    "licenseFile": "npm/eventemitter3@5.0.1/LICENSE"
   },
   "eventemitter3@5.0.4": {
     "licenses": "MIT",
@@ -625,16 +561,6 @@
     "licenses": "MIT",
     "repository": "https://github.com/ljharb/get-proto#readme",
     "licenseFile": "npm/get-proto@1.0.1/LICENSE"
-  },
-  "globalyzer@0.1.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/terkelg/globalyzer#readme",
-    "licenseFile": "npm/globalyzer@0.1.0/LICENSE"
-  },
-  "globrex@0.1.2": {
-    "licenses": "MIT",
-    "repository": "https://github.com/terkelg/globrex#readme",
-    "licenseFile": "npm/globrex@0.1.2/LICENSE"
   },
   "gopd@1.2.0": {
     "licenses": "MIT",
@@ -775,11 +701,6 @@
     "repository": "https://github.com/sindresorhus/is-plain-obj#readme",
     "licenseFile": "npm/is-plain-obj@4.1.0/LICENSE"
   },
-  "is-promise@2.2.2": {
-    "licenses": "MIT",
-    "repository": "https://github.com/then/is-promise#readme",
-    "licenseFile": "npm/is-promise@2.2.2/LICENSE"
-  },
   "is-regex@1.2.1": {
     "licenses": "MIT",
     "repository": "https://github.com/inspect-js/is-regex",
@@ -790,10 +711,10 @@
     "repository": "https://github.com/inspect-js/is-typed-array#readme",
     "licenseFile": "npm/is-typed-array@1.1.15/LICENSE"
   },
-  "isows@1.0.4": {
+  "isows@1.0.7": {
     "licenses": "MIT",
-    "repository": "https://github.com/wagmi-dev/isows#readme",
-    "licenseFile": "npm/isows@1.0.4/LICENSE"
+    "repository": "https://github.com/wevm/isows#readme",
+    "licenseFile": "npm/isows@1.0.7/LICENSE"
   },
   "jotai@2.20.2": {
     "licenses": "MIT",
@@ -823,22 +744,6 @@
     "licenses": "MIT",
     "licenseFile": "npm/lodash@4.18.1/LICENSE"
   },
-  "lodash.defaults@4.2.0": {
-    "licenses": "MIT",
-    "licenseFile": "npm/lodash.defaults@4.2.0/LICENSE"
-  },
-  "lodash.merge@4.6.2": {
-    "licenses": "MIT",
-    "licenseFile": "npm/lodash.merge@4.6.2/LICENSE"
-  },
-  "lodash.partition@4.6.0": {
-    "licenses": "MIT",
-    "licenseFile": "npm/lodash.partition@4.6.0/LICENSE"
-  },
-  "lodash.uniqby@4.7.0": {
-    "licenses": "MIT",
-    "licenseFile": "npm/lodash.uniqby@4.7.0/LICENSE"
-  },
   "longest-streak@3.1.0": {
     "licenses": "MIT",
     "repository": "https://github.com/wooorm/longest-streak#readme",
@@ -848,11 +753,6 @@
     "licenses": "MIT",
     "repository": "https://github.com/zertosh/loose-envify",
     "licenseFile": "npm/loose-envify@1.4.0/LICENSE"
-  },
-  "lru-queue@0.1.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/medikoo/lru-queue#readme",
-    "licenseFile": "npm/lru-queue@0.1.0/LICENSE"
   },
   "math-intrinsics@1.1.0": {
     "licenses": "MIT",
@@ -1004,25 +904,15 @@
     "repository": "https://github.com/micromark/micromark/tree/main#readme",
     "licenseFile": "npm/micromark-util-types@2.0.2/LICENSE"
   },
-  "mri@1.2.0": {
+  "mipd@0.0.7": {
     "licenses": "MIT",
-    "repository": "https://github.com/lukeed/mri#readme",
-    "licenseFile": "npm/mri@1.2.0/LICENSE"
+    "repository": "https://github.com/wagmi-dev/mipd#readme",
+    "licenseFile": "npm/mipd@0.0.7/LICENSE"
   },
   "ms@2.1.3": {
     "licenses": "MIT",
     "repository": "https://github.com/vercel/ms#readme",
     "licenseFile": "npm/ms@2.1.3/LICENSE"
-  },
-  "nanoid@3.3.16": {
-    "licenses": "MIT",
-    "repository": "https://github.com/ai/nanoid#readme",
-    "licenseFile": "npm/nanoid@3.3.16/LICENSE"
-  },
-  "nanoid@4.0.2": {
-    "licenses": "MIT",
-    "repository": "https://github.com/ai/nanoid#readme",
-    "licenseFile": "npm/nanoid@4.0.2/LICENSE"
   },
   "object-assign@4.1.1": {
     "licenses": "MIT",
@@ -1048,6 +938,10 @@
     "licenses": "MIT",
     "repository": "https://github.com/es-shims/Object.entries#readme",
     "licenseFile": "npm/object.entries@1.1.9/LICENSE"
+  },
+  "ox@0.14.33": {
+    "licenses": "MIT",
+    "licenseFile": "npm/ox@0.14.33/LICENSE"
   },
   "parent-module@1.0.1": {
     "licenses": "MIT",
@@ -1196,11 +1090,6 @@
     "repository": "https://github.com/sindresorhus/resolve-from#readme",
     "licenseFile": "npm/resolve-from@4.0.0/LICENSE"
   },
-  "sade@1.8.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/lukeed/sade#readme",
-    "licenseFile": "npm/sade@1.8.1/LICENSE"
-  },
   "safe-regex-test@1.1.0": {
     "licenses": "MIT",
     "repository": "https://github.com/ljharb/safe-regex-test#readme",
@@ -1240,11 +1129,6 @@
     "repository": "https://github.com/wooorm/stringify-entities#readme",
     "licenseFile": "npm/stringify-entities@4.0.4/LICENSE"
   },
-  "sturdy-websocket@0.1.12": {
-    "licenses": "MIT",
-    "repository": "https://github.com/dphilipson/sturdy-websocket",
-    "licenseFile": "npm/sturdy-websocket@0.1.12/LICENSE"
-  },
   "style-to-js@1.1.21": {
     "licenses": "MIT",
     "repository": "https://github.com/remarkablemark/style-to-js#readme",
@@ -1264,20 +1148,6 @@
     "licenses": "MIT",
     "repository": "https://github.com/inspect-js/node-supports-preserve-symlinks-flag#readme",
     "licenseFile": "npm/supports-preserve-symlinks-flag@1.0.0/LICENSE"
-  },
-  "svelte@3.59.2": {
-    "licenses": "MIT",
-    "licenseFile": "npm/svelte@3.59.2/LICENSE"
-  },
-  "svelte-i18n@4.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/kaisermann/svelte-i18n#readme",
-    "licenseFile": "npm/svelte-i18n@4.0.1/LICENSE"
-  },
-  "tiny-glob@0.2.9": {
-    "licenses": "MIT",
-    "repository": "https://github.com/terkelg/tiny-glob#readme",
-    "licenseFile": "npm/tiny-glob@0.2.9/LICENSE"
   },
   "trim-lines@3.0.1": {
     "licenses": "MIT",
@@ -1322,10 +1192,10 @@
     "repository": "https://github.com/syntax-tree/unist-util-visit-parents#readme",
     "licenseFile": "npm/unist-util-visit-parents@6.0.2/LICENSE"
   },
-  "use-sync-external-store@1.0.0": {
+  "use-sync-external-store@1.4.0": {
     "licenses": "MIT",
     "repository": "https://github.com/facebook/react#readme",
-    "licenseFile": "npm/use-sync-external-store@1.0.0/LICENSE"
+    "licenseFile": "npm/use-sync-external-store@1.4.0/LICENSE"
   },
   "use-sync-external-store@1.6.0": {
     "licenses": "MIT",
@@ -1347,9 +1217,14 @@
     "repository": "https://github.com/vfile/vfile-message#readme",
     "licenseFile": "npm/vfile-message@4.0.3/LICENSE"
   },
-  "viem@2.12.0": {
+  "viem@2.55.11": {
     "licenses": "MIT",
-    "licenseFile": "npm/viem@2.12.0/LICENSE"
+    "licenseFile": "npm/viem@2.55.11/LICENSE"
+  },
+  "wagmi@3.7.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wevm/wagmi#readme",
+    "licenseFile": "npm/wagmi@3.7.6/LICENSE"
   },
   "warning@4.0.3": {
     "licenses": "MIT",
@@ -1361,45 +1236,39 @@
     "repository": "https://github.com/inspect-js/which-typed-array#readme",
     "licenseFile": "npm/which-typed-array@1.1.22/LICENSE"
   },
-  "ws@8.13.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/websockets/ws",
-    "licenseFile": "npm/ws@8.13.0/LICENSE"
-  },
   "ws@8.21.0": {
     "licenses": "MIT",
     "repository": "https://github.com/websockets/ws",
     "licenseFile": "npm/ws@8.21.0/LICENSE"
+  },
+  "zustand@5.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pmndrs/zustand",
+    "licenseFile": "npm/zustand@5.0.0/LICENSE"
   },
   "zwitch@2.0.4": {
     "licenses": "MIT",
     "repository": "https://github.com/wooorm/zwitch#readme",
     "licenseFile": "npm/zwitch@2.0.4/LICENSE"
   },
-  "@hapi/hoek@9.3.0": {
-    "licenses": "BSD-3-Clause",
-    "repository": "https://github.com/hapijs/hoek#readme",
-    "licenseFile": "npm/@hapi/hoek@9.3.0/LICENSE"
+  "@ungap/structured-clone@1.3.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/ungap/structured-clone#readme",
+    "licenseFile": "npm/@ungap/structured-clone@1.3.3/LICENSE"
   },
-  "@hapi/topo@5.1.0": {
-    "licenses": "BSD-3-Clause",
-    "repository": "https://github.com/hapijs/topo#readme",
-    "licenseFile": "npm/@hapi/topo@5.1.0/LICENSE"
+  "inherits@2.0.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/inherits#readme",
+    "licenseFile": "npm/inherits@2.0.4/LICENSE"
   },
-  "@sideway/address@4.1.5": {
-    "licenses": "BSD-3-Clause",
-    "repository": "https://github.com/sideway/address#readme",
-    "licenseFile": "npm/@sideway/address@4.1.5/LICENSE"
+  "picocolors@1.1.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/alexeyraspopov/picocolors#readme",
+    "licenseFile": "npm/picocolors@1.1.1/LICENSE"
   },
-  "@sideway/formula@3.0.1": {
-    "licenses": "BSD-3-Clause",
-    "repository": "https://github.com/sideway/formula#readme",
-    "licenseFile": "npm/@sideway/formula@3.0.1/LICENSE"
-  },
-  "@sideway/pinpoint@2.0.0": {
-    "licenses": "BSD-3-Clause",
-    "repository": "https://github.com/sideway/pinpoint#readme",
-    "licenseFile": "npm/@sideway/pinpoint@2.0.0/LICENSE"
+  "yaml@1.10.3": {
+    "licenses": "ISC",
+    "licenseFile": "npm/yaml@1.10.3/LICENSE"
   },
   "charenc@0.0.2": {
     "licenses": "BSD-3-Clause",
@@ -1416,16 +1285,6 @@
     "repository": "https://github.com/mridgway/hoist-non-react-statics#readme",
     "licenseFile": "npm/hoist-non-react-statics@3.3.2/LICENSE"
   },
-  "intl-messageformat@10.7.18": {
-    "licenses": "BSD-3-Clause",
-    "repository": "https://github.com/formatjs/formatjs",
-    "licenseFile": "npm/intl-messageformat@10.7.18/LICENSE"
-  },
-  "joi@17.9.1": {
-    "licenses": "BSD-3-Clause",
-    "repository": "https://github.com/hapijs/joi#readme",
-    "licenseFile": "npm/joi@17.9.1/LICENSE"
-  },
   "md5@2.3.0": {
     "licenses": "BSD-3-Clause",
     "repository": "https://github.com/pvorb/node-md5#readme",
@@ -1440,80 +1299,6 @@
     "licenses": "BSD-3-Clause",
     "repository": "https://github.com/mozilla/source-map",
     "licenseFile": "npm/source-map@0.5.7/LICENSE"
-  },
-  "@ungap/structured-clone@1.3.3": {
-    "licenses": "ISC",
-    "repository": "https://github.com/ungap/structured-clone#readme",
-    "licenseFile": "npm/@ungap/structured-clone@1.3.3/LICENSE"
-  },
-  "cli-color@2.0.4": {
-    "licenses": "ISC",
-    "repository": "https://github.com/medikoo/cli-color#readme",
-    "licenseFile": "npm/cli-color@2.0.4/LICENSE"
-  },
-  "d@1.0.2": {
-    "licenses": "ISC",
-    "repository": "https://github.com/medikoo/d#readme",
-    "licenseFile": "npm/d@1.0.2/LICENSE"
-  },
-  "es5-ext@0.10.64": {
-    "licenses": "ISC",
-    "repository": "https://github.com/medikoo/es5-ext#readme",
-    "licenseFile": "npm/es5-ext@0.10.64/LICENSE"
-  },
-  "es6-symbol@3.1.4": {
-    "licenses": "ISC",
-    "repository": "https://github.com/medikoo/es6-symbol#readme",
-    "licenseFile": "npm/es6-symbol@3.1.4/LICENSE"
-  },
-  "es6-weak-map@2.0.3": {
-    "licenses": "ISC",
-    "repository": "https://github.com/medikoo/es6-weak-map#readme",
-    "licenseFile": "npm/es6-weak-map@2.0.3/LICENSE"
-  },
-  "esniff@2.0.1": {
-    "licenses": "ISC",
-    "repository": "https://github.com/medikoo/esniff#readme",
-    "licenseFile": "npm/esniff@2.0.1/LICENSE"
-  },
-  "ext@1.7.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/medikoo/es5-ext/tree/ext#readme",
-    "licenseFile": "npm/ext@1.7.0/LICENSE"
-  },
-  "inherits@2.0.4": {
-    "licenses": "ISC",
-    "repository": "https://github.com/isaacs/inherits#readme",
-    "licenseFile": "npm/inherits@2.0.4/LICENSE"
-  },
-  "memoizee@0.4.17": {
-    "licenses": "ISC",
-    "repository": "https://github.com/medikoo/memoizee#readme",
-    "licenseFile": "npm/memoizee@0.4.17/LICENSE"
-  },
-  "next-tick@1.1.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/medikoo/next-tick#readme",
-    "licenseFile": "npm/next-tick@1.1.0/LICENSE"
-  },
-  "picocolors@1.1.1": {
-    "licenses": "ISC",
-    "repository": "https://github.com/alexeyraspopov/picocolors#readme",
-    "licenseFile": "npm/picocolors@1.1.1/LICENSE"
-  },
-  "timers-ext@0.1.8": {
-    "licenses": "ISC",
-    "repository": "https://github.com/medikoo/timers-ext#readme",
-    "licenseFile": "npm/timers-ext@0.1.8/LICENSE"
-  },
-  "type@2.7.3": {
-    "licenses": "ISC",
-    "repository": "https://github.com/medikoo/type#readme",
-    "licenseFile": "npm/type@2.7.3/LICENSE"
-  },
-  "yaml@1.10.3": {
-    "licenses": "ISC",
-    "licenseFile": "npm/yaml@1.10.3/LICENSE"
   },
   "css-mediaquery@0.1.2": {
     "licenses": "BSD",
@@ -1530,22 +1315,10 @@
     "repository": "https://github.com/kauegimenes/jsonexport",
     "licenseFile": "npm/jsonexport@3.2.0/LICENSE"
   },
-  "rxjs@6.6.7": {
-    "licenses": "Apache-2.0",
-    "licenseFile": "npm/rxjs@6.6.7/LICENSE"
-  },
-  "rxjs@7.8.2": {
-    "licenses": "Apache-2.0",
-    "licenseFile": "npm/rxjs@7.8.2/LICENSE"
-  },
   "node-polyglot@2.6.0": {
     "licenses": "BSD-2-Clause",
     "repository": "https://github.com/airbnb/polyglot.js#readme",
     "licenseFile": "npm/node-polyglot@2.6.0/LICENSE"
-  },
-  "tslib@1.14.1": {
-    "licenses": "0BSD",
-    "licenseFile": "npm/tslib@1.14.1/LICENSE"
   },
   "tslib@2.7.0": {
     "licenses": "0BSD",
