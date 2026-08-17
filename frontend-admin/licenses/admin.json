@@ -1222,9 +1222,9 @@
     "repository": "https://github.com/vfile/vfile-message#readme",
     "licenseFile": "npm/vfile-message@4.0.3/LICENSE"
   },
-  "viem@2.55.13": {
+  "viem@2.55.16": {
     "licenses": "MIT",
-    "licenseFile": "npm/viem@2.55.13/LICENSE"
+    "licenseFile": "npm/viem@2.55.16/LICENSE"
   },
   "wagmi@3.7.6": {
     "licenses": "MIT",

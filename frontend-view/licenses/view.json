@@ -713,9 +713,9 @@
     "repository": "https://github.com/browserify/node-util",
     "licenseFile": "npm/util@0.12.5/LICENSE"
   },
-  "viem@2.55.13": {
+  "viem@2.55.16": {
     "licenses": "MIT",
-    "licenseFile": "npm/viem@2.55.13/LICENSE"
+    "licenseFile": "npm/viem@2.55.16/LICENSE"
   },
   "wagmi@3.7.6": {
     "licenses": "MIT",
