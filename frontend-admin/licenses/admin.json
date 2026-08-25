@@ -721,10 +721,10 @@
     "repository": "https://github.com/wevm/isows#readme",
     "licenseFile": "npm/isows@1.0.7/LICENSE"
   },
-  "jotai@2.20.2": {
+  "jotai@2.20.3": {
     "licenses": "MIT",
     "repository": "https://github.com/pmndrs/jotai",
-    "licenseFile": "npm/jotai@2.20.2/LICENSE"
+    "licenseFile": "npm/jotai@2.20.3/LICENSE"
   },
   "js-tokens@4.0.0": {
     "licenses": "MIT",
@@ -944,9 +944,9 @@
     "repository": "https://github.com/es-shims/Object.entries#readme",
     "licenseFile": "npm/object.entries@1.1.9/LICENSE"
   },
-  "ox@0.14.33": {
+  "ox@0.14.34": {
     "licenses": "MIT",
-    "licenseFile": "npm/ox@0.14.33/LICENSE"
+    "licenseFile": "npm/ox@0.14.34/LICENSE"
   },
   "parent-module@1.0.1": {
     "licenses": "MIT",
@@ -1043,10 +1043,10 @@
     "licenses": "MIT",
     "licenseFile": "npm/react-hotkeys-hook@5.3.3/LICENSE"
   },
-  "react-i18next@17.0.11": {
+  "react-i18next@17.0.12": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/react-i18next",
-    "licenseFile": "npm/react-i18next@17.0.11/LICENSE"
+    "licenseFile": "npm/react-i18next@17.0.12/LICENSE"
   },
   "react-is@16.13.1": {
     "licenses": "MIT",
@@ -1222,9 +1222,9 @@
     "repository": "https://github.com/vfile/vfile-message#readme",
     "licenseFile": "npm/vfile-message@4.0.3/LICENSE"
   },
-  "viem@2.55.16": {
+  "viem@2.55.19": {
     "licenses": "MIT",
-    "licenseFile": "npm/viem@2.55.16/LICENSE"
+    "licenseFile": "npm/viem@2.55.19/LICENSE"
   },
   "wagmi@3.7.6": {
     "licenses": "MIT",
@@ -1310,10 +1310,10 @@
     "repository": "https://github.com/ericf/css-mediaquery",
     "licenseFile": "npm/css-mediaquery@0.1.2/LICENSE"
   },
-  "dompurify@3.4.13": {
+  "dompurify@3.4.14": {
     "licenses": "(MPL-2.0 OR Apache-2.0)",
     "repository": "https://github.com/cure53/DOMPurify",
-    "licenseFile": "npm/dompurify@3.4.13/LICENSE"
+    "licenseFile": "npm/dompurify@3.4.14/LICENSE"
   },
   "jsonexport@3.2.0": {
     "licenses": "Apache-2.0",
