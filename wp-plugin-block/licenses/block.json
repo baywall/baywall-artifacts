@@ -1,0 +1,389 @@
+{
+  "@babel/runtime@7.29.7": {
+    "licenses": "MIT",
+    "licenseFile": "npm/@babel/runtime@7.29.7/LICENSE"
+  },
+  "@tanstack/query-core@5.102.8": {
+    "licenses": "MIT",
+    "licenseFile": "npm/@tanstack/query-core@5.102.8/LICENSE"
+  },
+  "@tanstack/react-query@5.102.8": {
+    "licenses": "MIT",
+    "licenseFile": "npm/@tanstack/react-query@5.102.8/LICENSE"
+  },
+  "assert@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/browserify/commonjs-assert",
+    "licenseFile": "npm/assert@2.1.0/LICENSE"
+  },
+  "async-lock@1.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rogierschouten/async-lock",
+    "licenseFile": "npm/async-lock@1.4.1/LICENSE"
+  },
+  "available-typed-arrays@1.0.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/available-typed-arrays#readme",
+    "licenseFile": "npm/available-typed-arrays@1.0.7/LICENSE"
+  },
+  "call-bind@1.0.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/call-bind#readme",
+    "licenseFile": "npm/call-bind@1.0.9/LICENSE"
+  },
+  "call-bind-apply-helpers@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/call-bind-apply-helpers#readme",
+    "licenseFile": "npm/call-bind-apply-helpers@1.0.2/LICENSE"
+  },
+  "call-bound@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/call-bound#readme",
+    "licenseFile": "npm/call-bound@1.0.4/LICENSE"
+  },
+  "camel-case@4.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/change-case/tree/master/packages/camel-case#readme",
+    "licenseFile": "npm/camel-case@4.1.2/LICENSE"
+  },
+  "capital-case@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/change-case/tree/master/packages/capital-case#readme",
+    "licenseFile": "npm/capital-case@1.0.4/LICENSE"
+  },
+  "change-case@4.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/change-case/tree/master/packages/camel-case#readme",
+    "licenseFile": "npm/change-case@4.1.2/LICENSE"
+  },
+  "clsx@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lukeed/clsx#readme",
+    "licenseFile": "npm/clsx@2.1.1/LICENSE"
+  },
+  "constant-case@3.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/change-case/tree/master/packages/constant-case#readme",
+    "licenseFile": "npm/constant-case@3.0.4/LICENSE"
+  },
+  "currency-codes@2.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/freeall/currency-codes#readme",
+    "licenseFile": "npm/currency-codes@2.2.0/LICENSE"
+  },
+  "define-data-property@1.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/define-data-property#readme",
+    "licenseFile": "npm/define-data-property@1.1.4/LICENSE"
+  },
+  "define-properties@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/define-properties#readme",
+    "licenseFile": "npm/define-properties@1.2.1/LICENSE"
+  },
+  "dot-case@3.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/change-case/tree/master/packages/dot-case#readme",
+    "licenseFile": "npm/dot-case@3.0.4/LICENSE"
+  },
+  "dunder-proto@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/dunder-proto#readme",
+    "licenseFile": "npm/dunder-proto@1.0.1/LICENSE"
+  },
+  "es-define-property@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/es-define-property#readme",
+    "licenseFile": "npm/es-define-property@1.0.1/LICENSE"
+  },
+  "es-errors@1.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/es-errors#readme",
+    "licenseFile": "npm/es-errors@1.3.0/LICENSE"
+  },
+  "es-object-atoms@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/es-object-atoms#readme",
+    "licenseFile": "npm/es-object-atoms@1.1.2/LICENSE"
+  },
+  "fast-deep-equal@3.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/fast-deep-equal#readme",
+    "licenseFile": "npm/fast-deep-equal@3.1.3/LICENSE"
+  },
+  "first-match@0.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/hughsk/first-match#readme",
+    "licenseFile": "npm/first-match@0.0.1/LICENSE"
+  },
+  "for-each@0.3.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Raynos/for-each",
+    "licenseFile": "npm/for-each@0.3.5/LICENSE"
+  },
+  "function-bind@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Raynos/function-bind",
+    "licenseFile": "npm/function-bind@1.1.2/LICENSE"
+  },
+  "generator-function@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/TimothyGu/generator-function#readme",
+    "licenseFile": "npm/generator-function@2.0.1/LICENSE"
+  },
+  "get-intrinsic@1.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/get-intrinsic#readme",
+    "licenseFile": "npm/get-intrinsic@1.3.0/LICENSE"
+  },
+  "get-proto@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/get-proto#readme",
+    "licenseFile": "npm/get-proto@1.0.1/LICENSE"
+  },
+  "gopd@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/gopd#readme",
+    "licenseFile": "npm/gopd@1.2.0/LICENSE"
+  },
+  "has-property-descriptors@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/has-property-descriptors#readme",
+    "licenseFile": "npm/has-property-descriptors@1.0.2/LICENSE"
+  },
+  "has-symbols@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/has-symbols#readme",
+    "licenseFile": "npm/has-symbols@1.1.0/LICENSE"
+  },
+  "has-tostringtag@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/has-tostringtag#readme",
+    "licenseFile": "npm/has-tostringtag@1.0.2/LICENSE"
+  },
+  "hasown@2.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/hasOwn#readme",
+    "licenseFile": "npm/hasown@2.0.4/LICENSE"
+  },
+  "header-case@2.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/change-case/tree/master/packages/header-case#readme",
+    "licenseFile": "npm/header-case@2.0.4/LICENSE"
+  },
+  "html-parse-stringify@4.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/i18next/html-parse-stringify",
+    "licenseFile": "npm/html-parse-stringify@4.0.1/LICENSE"
+  },
+  "i18next@26.4.2": {
+    "licenses": "MIT",
+    "licenseFile": "npm/i18next@26.4.2/LICENSE"
+  },
+  "i18next-browser-languagedetector@8.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/i18next/i18next-browser-languageDetector",
+    "licenseFile": "npm/i18next-browser-languagedetector@8.2.1/LICENSE"
+  },
+  "is-arguments@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-arguments",
+    "licenseFile": "npm/is-arguments@1.2.0/LICENSE"
+  },
+  "is-callable@1.2.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-callable#readme",
+    "licenseFile": "npm/is-callable@1.2.7/LICENSE"
+  },
+  "is-generator-function@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-generator-function#readme",
+    "licenseFile": "npm/is-generator-function@1.1.2/LICENSE"
+  },
+  "is-nan@1.3.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/is-nan",
+    "licenseFile": "npm/is-nan@1.3.2/LICENSE"
+  },
+  "is-plain-object@5.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/is-plain-object",
+    "licenseFile": "npm/is-plain-object@5.1.0/LICENSE"
+  },
+  "is-regex@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-regex",
+    "licenseFile": "npm/is-regex@1.2.1/LICENSE"
+  },
+  "is-typed-array@1.1.15": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-typed-array#readme",
+    "licenseFile": "npm/is-typed-array@1.1.15/LICENSE"
+  },
+  "jotai@2.20.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pmndrs/jotai",
+    "licenseFile": "npm/jotai@2.20.3/LICENSE"
+  },
+  "js-tokens@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lydell/js-tokens#readme",
+    "licenseFile": "npm/js-tokens@4.0.0/LICENSE"
+  },
+  "loose-envify@1.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zertosh/loose-envify",
+    "licenseFile": "npm/loose-envify@1.4.0/LICENSE"
+  },
+  "lower-case@2.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/change-case/tree/master/packages/lower-case#readme",
+    "licenseFile": "npm/lower-case@2.0.2/LICENSE"
+  },
+  "math-intrinsics@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/math-intrinsics#readme",
+    "licenseFile": "npm/math-intrinsics@1.1.0/LICENSE"
+  },
+  "no-case@3.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/change-case/tree/master/packages/no-case#readme",
+    "licenseFile": "npm/no-case@3.0.4/LICENSE"
+  },
+  "object-is@1.1.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/object-is",
+    "licenseFile": "npm/object-is@1.1.6/LICENSE"
+  },
+  "object-keys@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/object-keys#readme",
+    "licenseFile": "npm/object-keys@1.1.1/LICENSE"
+  },
+  "object.assign@4.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/object.assign#readme",
+    "licenseFile": "npm/object.assign@4.1.7/LICENSE"
+  },
+  "param-case@3.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/change-case/tree/master/packages/param-case#readme",
+    "licenseFile": "npm/param-case@3.0.4/LICENSE"
+  },
+  "pascal-case@3.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/change-case/tree/master/packages/pascal-case#readme",
+    "licenseFile": "npm/pascal-case@3.1.2/LICENSE"
+  },
+  "path-case@3.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/change-case/tree/master/packages/path-case#readme",
+    "licenseFile": "npm/path-case@3.0.4/LICENSE"
+  },
+  "possible-typed-array-names@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/possible-typed-array-names#readme",
+    "licenseFile": "npm/possible-typed-array-names@1.1.0/LICENSE"
+  },
+  "react@18.3.1": {
+    "licenses": "MIT",
+    "licenseFile": "npm/react@18.3.1/LICENSE"
+  },
+  "react-dom@18.3.1": {
+    "licenses": "MIT",
+    "licenseFile": "npm/react-dom@18.3.1/LICENSE"
+  },
+  "react-i18next@17.0.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/i18next/react-i18next",
+    "licenseFile": "npm/react-i18next@17.0.13/LICENSE"
+  },
+  "safe-regex-test@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/safe-regex-test#readme",
+    "licenseFile": "npm/safe-regex-test@1.1.0/LICENSE"
+  },
+  "scheduler@0.23.2": {
+    "licenses": "MIT",
+    "licenseFile": "npm/scheduler@0.23.2/LICENSE"
+  },
+  "sentence-case@3.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/change-case/tree/master/packages/sentence-case#readme",
+    "licenseFile": "npm/sentence-case@3.0.4/LICENSE"
+  },
+  "set-function-length@1.2.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/set-function-length#readme",
+    "licenseFile": "npm/set-function-length@1.2.2/LICENSE"
+  },
+  "snake-case@3.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/change-case/tree/master/packages/snake-case#readme",
+    "licenseFile": "npm/snake-case@3.0.4/LICENSE"
+  },
+  "upper-case@2.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/change-case/tree/master/packages/upper-case#readme",
+    "licenseFile": "npm/upper-case@2.0.2/LICENSE"
+  },
+  "upper-case-first@2.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/change-case/tree/master/packages/upper-case-first#readme",
+    "licenseFile": "npm/upper-case-first@2.0.2/LICENSE"
+  },
+  "use-sync-external-store@1.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react#readme",
+    "licenseFile": "npm/use-sync-external-store@1.6.0/LICENSE"
+  },
+  "util@0.12.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/browserify/node-util",
+    "licenseFile": "npm/util@0.12.5/LICENSE"
+  },
+  "which-typed-array@1.1.22": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/which-typed-array#readme",
+    "licenseFile": "npm/which-typed-array@1.1.22/LICENSE"
+  },
+  "@wordpress/deprecated@4.54.0": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/deprecated/README.md",
+    "licenseFile": "npm/@wordpress/deprecated@4.54.0/LICENSE"
+  },
+  "@wordpress/element@8.6.0": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/element/README.md",
+    "licenseFile": "npm/@wordpress/element@8.6.0/LICENSE"
+  },
+  "@wordpress/escape-html@3.54.0": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/escape-html/README.md",
+    "licenseFile": "npm/@wordpress/escape-html@3.54.0/LICENSE"
+  },
+  "@wordpress/hooks@4.54.0": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/hooks/README.md",
+    "licenseFile": "npm/@wordpress/hooks@4.54.0/LICENSE"
+  },
+  "@wordpress/icons@15.5.0": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/icons/README.md",
+    "licenseFile": "npm/@wordpress/icons@15.5.0/LICENSE"
+  },
+  "@wordpress/primitives@4.54.0": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/primitives/README.md",
+    "licenseFile": "npm/@wordpress/primitives@4.54.0/LICENSE"
+  },
+  "inherits@2.0.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/inherits#readme",
+    "licenseFile": "npm/inherits@2.0.4/LICENSE"
+  },
+  "tslib@2.8.1": {
+    "licenses": "0BSD",
+    "licenseFile": "npm/tslib@2.8.1/LICENSE"
+  }
+}
