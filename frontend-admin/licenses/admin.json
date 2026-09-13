@@ -428,6 +428,11 @@
     "repository": "https://github.com/debug-js/debug#readme",
     "licenseFile": "npm/debug@4.4.3/LICENSE"
   },
+  "decimal.js@10.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/MikeMcl/decimal.js#readme",
+    "licenseFile": "npm/decimal.js@10.6.0/LICENSE"
+  },
   "decode-named-character-reference@1.3.0": {
     "licenses": "MIT",
     "repository": "https://github.com/wooorm/decode-named-character-reference#readme",
