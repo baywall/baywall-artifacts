@@ -215,13 +215,13 @@
     "licenses": "MIT",
     "licenseFile": "npm/@scure/bip39@1.6.0/LICENSE"
   },
-  "@tanstack/query-core@5.102.8": {
+  "@tanstack/query-core@5.103.1": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/query-core@5.102.8/LICENSE"
+    "licenseFile": "npm/@tanstack/query-core@5.103.1/LICENSE"
   },
-  "@tanstack/react-query@5.102.8": {
+  "@tanstack/react-query@5.103.1": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/react-query@5.102.8/LICENSE"
+    "licenseFile": "npm/@tanstack/react-query@5.103.1/LICENSE"
   },
   "@types/debug@4.1.13": {
     "licenses": "MIT",
@@ -268,10 +268,10 @@
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/prop-types",
     "licenseFile": "npm/@types/prop-types@15.7.15/LICENSE"
   },
-  "@types/react@19.2.18": {
+  "@types/react@19.3.0": {
     "licenses": "MIT",
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react",
-    "licenseFile": "npm/@types/react@19.2.18/LICENSE"
+    "licenseFile": "npm/@types/react@19.3.0/LICENSE"
   },
   "@types/react-transition-group@4.4.12": {
     "licenses": "MIT",
@@ -721,10 +721,10 @@
     "repository": "https://github.com/wevm/isows#readme",
     "licenseFile": "npm/isows@1.0.7/LICENSE"
   },
-  "jotai@2.20.3": {
+  "jotai@3.0.0": {
     "licenses": "MIT",
     "repository": "https://github.com/pmndrs/jotai",
-    "licenseFile": "npm/jotai@2.20.3/LICENSE"
+    "licenseFile": "npm/jotai@3.0.0/LICENSE"
   },
   "js-tokens@4.0.0": {
     "licenses": "MIT",
@@ -944,9 +944,9 @@
     "repository": "https://github.com/es-shims/Object.entries#readme",
     "licenseFile": "npm/object.entries@1.1.9/LICENSE"
   },
-  "ox@0.14.44": {
+  "ox@0.14.45": {
     "licenses": "MIT",
-    "licenseFile": "npm/ox@0.14.44/LICENSE"
+    "licenseFile": "npm/ox@0.14.45/LICENSE"
   },
   "parent-module@1.0.1": {
     "licenses": "MIT",
@@ -1012,18 +1012,18 @@
     "repository": "https://github.com/marmelab/react-admin#readme",
     "licenseFile": "npm/ra-ui-materialui@5.15.3/LICENSE"
   },
-  "react@19.2.8": {
+  "react@19.3.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/react@19.2.8/LICENSE"
+    "licenseFile": "npm/react@19.3.0/LICENSE"
   },
   "react-admin@5.15.3": {
     "licenses": "MIT",
     "repository": "https://github.com/marmelab/react-admin#readme",
     "licenseFile": "npm/react-admin@5.15.3/LICENSE"
   },
-  "react-dom@19.2.8": {
+  "react-dom@19.3.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/react-dom@19.2.8/LICENSE"
+    "licenseFile": "npm/react-dom@19.3.0/LICENSE"
   },
   "react-dropzone@14.4.1": {
     "licenses": "MIT",
@@ -1035,18 +1035,18 @@
     "repository": "https://github.com/bvaughn/react-error-boundary#readme",
     "licenseFile": "npm/react-error-boundary@4.1.2/LICENSE"
   },
-  "react-hook-form@7.87.0": {
+  "react-hook-form@7.88.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/react-hook-form@7.87.0/LICENSE"
+    "licenseFile": "npm/react-hook-form@7.88.0/LICENSE"
   },
   "react-hotkeys-hook@5.3.3": {
     "licenses": "MIT",
     "licenseFile": "npm/react-hotkeys-hook@5.3.3/LICENSE"
   },
-  "react-i18next@17.0.13": {
+  "react-i18next@17.0.14": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/react-i18next",
-    "licenseFile": "npm/react-i18next@17.0.13/LICENSE"
+    "licenseFile": "npm/react-i18next@17.0.14/LICENSE"
   },
   "react-is@16.13.1": {
     "licenses": "MIT",
@@ -1061,15 +1061,15 @@
     "repository": "https://github.com/remarkjs/react-markdown#readme",
     "licenseFile": "npm/react-markdown@10.1.0/LICENSE"
   },
-  "react-router@7.18.3": {
+  "react-router@7.18.4": {
     "licenses": "MIT",
     "repository": "https://github.com/remix-run/react-router#readme",
-    "licenseFile": "npm/react-router@7.18.3/LICENSE"
+    "licenseFile": "npm/react-router@7.18.4/LICENSE"
   },
-  "react-router-dom@7.18.3": {
+  "react-router-dom@7.18.4": {
     "licenses": "MIT",
     "repository": "https://github.com/remix-run/react-router#readme",
-    "licenseFile": "npm/react-router-dom@7.18.3/LICENSE"
+    "licenseFile": "npm/react-router-dom@7.18.4/LICENSE"
   },
   "remark-parse@11.0.0": {
     "licenses": "MIT",
@@ -1100,9 +1100,9 @@
     "repository": "https://github.com/ljharb/safe-regex-test#readme",
     "licenseFile": "npm/safe-regex-test@1.1.0/LICENSE"
   },
-  "scheduler@0.27.0": {
+  "scheduler@0.28.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/scheduler@0.27.0/LICENSE"
+    "licenseFile": "npm/scheduler@0.28.0/LICENSE"
   },
   "set-cookie-parser@2.7.2": {
     "licenses": "MIT",
@@ -1222,9 +1222,9 @@
     "repository": "https://github.com/vfile/vfile-message#readme",
     "licenseFile": "npm/vfile-message@4.0.3/LICENSE"
   },
-  "viem@2.56.3": {
+  "viem@2.56.8": {
     "licenses": "MIT",
-    "licenseFile": "npm/viem@2.56.3/LICENSE"
+    "licenseFile": "npm/viem@2.56.8/LICENSE"
   },
   "wagmi@3.7.7": {
     "licenses": "MIT",
@@ -1310,10 +1310,10 @@
     "repository": "https://github.com/ericf/css-mediaquery",
     "licenseFile": "npm/css-mediaquery@0.1.2/LICENSE"
   },
-  "dompurify@3.4.14": {
+  "dompurify@3.4.15": {
     "licenses": "(MPL-2.0 OR Apache-2.0)",
     "repository": "https://github.com/cure53/DOMPurify",
-    "licenseFile": "npm/dompurify@3.4.14/LICENSE"
+    "licenseFile": "npm/dompurify@3.4.15/LICENSE"
   },
   "jsonexport@3.2.0": {
     "licenses": "Apache-2.0",
