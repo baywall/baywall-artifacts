@@ -3,13 +3,13 @@
     "licenses": "MIT",
     "licenseFile": "npm/@babel/runtime@7.29.7/LICENSE"
   },
-  "@tanstack/query-core@5.103.1": {
+  "@tanstack/query-core@5.104.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/query-core@5.103.1/LICENSE"
+    "licenseFile": "npm/@tanstack/query-core@5.104.0/LICENSE"
   },
-  "@tanstack/react-query@5.103.1": {
+  "@tanstack/react-query@5.104.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/react-query@5.103.1/LICENSE"
+    "licenseFile": "npm/@tanstack/react-query@5.104.0/LICENSE"
   },
   "assert@2.1.0": {
     "licenses": "MIT",
@@ -293,10 +293,10 @@
     "licenses": "MIT",
     "licenseFile": "npm/react-dom@18.3.1/LICENSE"
   },
-  "react-i18next@17.0.14": {
+  "react-i18next@17.0.15": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/react-i18next",
-    "licenseFile": "npm/react-i18next@17.0.14/LICENSE"
+    "licenseFile": "npm/react-i18next@17.0.15/LICENSE"
   },
   "safe-regex-test@1.1.0": {
     "licenses": "MIT",
@@ -347,25 +347,25 @@
     "repository": "https://github.com/inspect-js/which-typed-array#readme",
     "licenseFile": "npm/which-typed-array@1.1.22/LICENSE"
   },
-  "@wordpress/element@8.7.0": {
+  "@wordpress/element@8.8.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/element/README.md",
-    "licenseFile": "npm/@wordpress/element@8.7.0/LICENSE"
+    "licenseFile": "npm/@wordpress/element@8.8.0/LICENSE"
   },
-  "@wordpress/escape-html@3.55.0": {
+  "@wordpress/escape-html@3.56.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/escape-html/README.md",
-    "licenseFile": "npm/@wordpress/escape-html@3.55.0/LICENSE"
+    "licenseFile": "npm/@wordpress/escape-html@3.56.0/LICENSE"
   },
-  "@wordpress/icons@16.0.0": {
+  "@wordpress/icons@17.0.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/icons/README.md",
-    "licenseFile": "npm/@wordpress/icons@16.0.0/LICENSE"
+    "licenseFile": "npm/@wordpress/icons@17.0.0/LICENSE"
   },
-  "@wordpress/primitives@4.55.0": {
+  "@wordpress/primitives@4.56.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/primitives/README.md",
-    "licenseFile": "npm/@wordpress/primitives@4.55.0/LICENSE"
+    "licenseFile": "npm/@wordpress/primitives@4.56.0/LICENSE"
   },
   "inherits@2.0.4": {
     "licenses": "ISC",

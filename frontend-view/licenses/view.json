@@ -82,13 +82,13 @@
     "licenses": "MIT",
     "licenseFile": "npm/@scure/bip39@1.6.0/LICENSE"
   },
-  "@tanstack/query-core@5.103.1": {
+  "@tanstack/query-core@5.104.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/query-core@5.103.1/LICENSE"
+    "licenseFile": "npm/@tanstack/query-core@5.104.0/LICENSE"
   },
-  "@tanstack/react-query@5.103.1": {
+  "@tanstack/react-query@5.104.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/react-query@5.103.1/LICENSE"
+    "licenseFile": "npm/@tanstack/react-query@5.104.0/LICENSE"
   },
   "@tanstack/react-virtual@3.14.10": {
     "licenses": "MIT",
@@ -391,10 +391,10 @@
     "licenses": "MIT",
     "licenseFile": "npm/react-dom@19.3.0/LICENSE"
   },
-  "react-i18next@17.0.14": {
+  "react-i18next@17.0.15": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/react-i18next",
-    "licenseFile": "npm/react-i18next@17.0.14/LICENSE"
+    "licenseFile": "npm/react-i18next@17.0.15/LICENSE"
   },
   "react-is@16.13.1": {
     "licenses": "MIT",
@@ -443,9 +443,9 @@
     "repository": "https://github.com/browserify/node-util",
     "licenseFile": "npm/util@0.12.5/LICENSE"
   },
-  "viem@2.56.8": {
+  "viem@2.56.9": {
     "licenses": "MIT",
-    "licenseFile": "npm/viem@2.56.8/LICENSE"
+    "licenseFile": "npm/viem@2.56.9/LICENSE"
   },
   "wagmi@3.7.7": {
     "licenses": "MIT",
@@ -524,10 +524,10 @@
     "repository": "https://github.com/adobe/react-spectrum#readme",
     "licenseFile": "npm/react-stately@3.50.0/LICENSE"
   },
-  "dompurify@3.4.15": {
+  "dompurify@3.4.16": {
     "licenses": "(MPL-2.0 OR Apache-2.0)",
     "repository": "https://github.com/cure53/DOMPurify",
-    "licenseFile": "npm/dompurify@3.4.15/LICENSE"
+    "licenseFile": "npm/dompurify@3.4.16/LICENSE"
   },
   "inherits@2.0.4": {
     "licenses": "ISC",
