@@ -3,13 +3,18 @@
     "licenses": "MIT",
     "licenseFile": "npm/@babel/runtime@7.29.7/LICENSE"
   },
-  "@tanstack/query-core@5.104.0": {
+  "@graphql-typed-document-node/core@3.2.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/query-core@5.104.0/LICENSE"
+    "repository": "https://github.com/dotansimha/graphql-typed-document-node#readme",
+    "licenseFile": "npm/@graphql-typed-document-node/core@3.2.0/LICENSE"
   },
-  "@tanstack/react-query@5.104.0": {
+  "@tanstack/query-core@5.104.1": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/react-query@5.104.0/LICENSE"
+    "licenseFile": "npm/@tanstack/query-core@5.104.1/LICENSE"
+  },
+  "@tanstack/react-query@5.104.1": {
+    "licenses": "MIT",
+    "licenseFile": "npm/@tanstack/react-query@5.104.1/LICENSE"
   },
   "assert@2.1.0": {
     "licenses": "MIT",
@@ -146,6 +151,11 @@
     "repository": "https://github.com/ljharb/gopd#readme",
     "licenseFile": "npm/gopd@1.2.0/LICENSE"
   },
+  "graphql@16.14.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/graphql/graphql-js",
+    "licenseFile": "npm/graphql@16.14.2/LICENSE"
+  },
   "has-property-descriptors@1.0.2": {
     "licenses": "MIT",
     "repository": "https://github.com/inspect-js/has-property-descriptors#readme",
@@ -220,10 +230,10 @@
     "repository": "https://github.com/inspect-js/is-typed-array#readme",
     "licenseFile": "npm/is-typed-array@1.1.15/LICENSE"
   },
-  "jotai@3.0.0": {
+  "jotai@3.0.1": {
     "licenses": "MIT",
     "repository": "https://github.com/pmndrs/jotai",
-    "licenseFile": "npm/jotai@3.0.0/LICENSE"
+    "licenseFile": "npm/jotai@3.0.1/LICENSE"
   },
   "js-tokens@4.0.0": {
     "licenses": "MIT",
@@ -332,20 +342,20 @@
     "repository": "https://github.com/blakeembrey/change-case/tree/master/packages/upper-case-first#readme",
     "licenseFile": "npm/upper-case-first@2.0.2/LICENSE"
   },
-  "use-sync-external-store@1.6.0": {
+  "use-sync-external-store@1.7.0": {
     "licenses": "MIT",
-    "repository": "https://github.com/facebook/react#readme",
-    "licenseFile": "npm/use-sync-external-store@1.6.0/LICENSE"
+    "repository": "https://github.com/react/react#readme",
+    "licenseFile": "npm/use-sync-external-store@1.7.0/LICENSE"
   },
   "util@0.12.5": {
     "licenses": "MIT",
     "repository": "https://github.com/browserify/node-util",
     "licenseFile": "npm/util@0.12.5/LICENSE"
   },
-  "which-typed-array@1.1.22": {
+  "which-typed-array@1.1.24": {
     "licenses": "MIT",
     "repository": "https://github.com/inspect-js/which-typed-array#readme",
-    "licenseFile": "npm/which-typed-array@1.1.22/LICENSE"
+    "licenseFile": "npm/which-typed-array@1.1.24/LICENSE"
   },
   "@wordpress/element@8.8.0": {
     "licenses": "GPL-2.0-or-later",
