@@ -224,36 +224,6 @@
     "licenses": "MIT",
     "licenseFile": "npm/@tanstack/react-query@5.104.1/LICENSE"
   },
-  "@types/debug@4.1.13": {
-    "licenses": "MIT",
-    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/debug",
-    "licenseFile": "npm/@types/debug@4.1.13/LICENSE"
-  },
-  "@types/estree@1.0.9": {
-    "licenses": "MIT",
-    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/estree",
-    "licenseFile": "npm/@types/estree@1.0.9/LICENSE"
-  },
-  "@types/estree-jsx@1.0.5": {
-    "licenses": "MIT",
-    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/estree-jsx",
-    "licenseFile": "npm/@types/estree-jsx@1.0.5/LICENSE"
-  },
-  "@types/hast@3.0.5": {
-    "licenses": "MIT",
-    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/hast",
-    "licenseFile": "npm/@types/hast@3.0.5/LICENSE"
-  },
-  "@types/mdast@4.0.4": {
-    "licenses": "MIT",
-    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/mdast",
-    "licenseFile": "npm/@types/mdast@4.0.4/LICENSE"
-  },
-  "@types/ms@2.1.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/ms",
-    "licenseFile": "npm/@types/ms@2.1.0/LICENSE"
-  },
   "@types/node@22.7.5": {
     "licenses": "MIT",
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node",
@@ -278,16 +248,6 @@
     "licenses": "MIT",
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react-transition-group",
     "licenseFile": "npm/@types/react-transition-group@4.4.12/LICENSE"
-  },
-  "@types/unist@2.0.11": {
-    "licenses": "MIT",
-    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/unist",
-    "licenseFile": "npm/@types/unist@2.0.11/LICENSE"
-  },
-  "@types/unist@3.0.3": {
-    "licenses": "MIT",
-    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/unist",
-    "licenseFile": "npm/@types/unist@3.0.3/LICENSE"
   },
   "@wagmi/connectors@8.2.0": {
     "licenses": "MIT",
@@ -334,11 +294,6 @@
     "repository": "https://github.com/kentcdodds/babel-plugin-macros#readme",
     "licenseFile": "npm/babel-plugin-macros@3.1.0/LICENSE"
   },
-  "bail@2.0.2": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/bail#readme",
-    "licenseFile": "npm/bail@2.0.2/LICENSE"
-  },
   "call-bind@1.0.9": {
     "licenses": "MIT",
     "repository": "https://github.com/ljharb/call-bind#readme",
@@ -359,40 +314,10 @@
     "repository": "https://github.com/sindresorhus/callsites#readme",
     "licenseFile": "npm/callsites@3.1.0/LICENSE"
   },
-  "ccount@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/ccount#readme",
-    "licenseFile": "npm/ccount@2.0.1/LICENSE"
-  },
-  "character-entities@2.0.2": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/character-entities#readme",
-    "licenseFile": "npm/character-entities@2.0.2/LICENSE"
-  },
-  "character-entities-html4@2.1.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/character-entities-html4#readme",
-    "licenseFile": "npm/character-entities-html4@2.1.0/LICENSE"
-  },
-  "character-entities-legacy@3.0.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/character-entities-legacy#readme",
-    "licenseFile": "npm/character-entities-legacy@3.0.0/LICENSE"
-  },
-  "character-reference-invalid@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/character-reference-invalid#readme",
-    "licenseFile": "npm/character-reference-invalid@2.0.1/LICENSE"
-  },
   "clsx@2.1.1": {
     "licenses": "MIT",
     "repository": "https://github.com/lukeed/clsx#readme",
     "licenseFile": "npm/clsx@2.1.1/LICENSE"
-  },
-  "comma-separated-tokens@2.0.3": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/comma-separated-tokens#readme",
-    "licenseFile": "npm/comma-separated-tokens@2.0.3/LICENSE"
   },
   "convert-source-map@1.9.0": {
     "licenses": "MIT",
@@ -429,11 +354,6 @@
     "repository": "https://github.com/MikeMcl/decimal.js#readme",
     "licenseFile": "npm/decimal.js@10.6.0/LICENSE"
   },
-  "decode-named-character-reference@1.3.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/decode-named-character-reference#readme",
-    "licenseFile": "npm/decode-named-character-reference@1.3.0/LICENSE"
-  },
   "decode-uri-component@0.2.2": {
     "licenses": "MIT",
     "repository": "https://github.com/SamVerschueren/decode-uri-component#readme",
@@ -448,16 +368,6 @@
     "licenses": "MIT",
     "repository": "https://github.com/ljharb/define-properties#readme",
     "licenseFile": "npm/define-properties@1.2.1/LICENSE"
-  },
-  "dequal@2.0.3": {
-    "licenses": "MIT",
-    "repository": "https://github.com/lukeed/dequal#readme",
-    "licenseFile": "npm/dequal@2.0.3/LICENSE"
-  },
-  "devlop@1.1.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/devlop#readme",
-    "licenseFile": "npm/devlop@1.1.0/LICENSE"
   },
   "diacritic@0.0.2": {
     "licenses": "MIT",
@@ -499,11 +409,6 @@
     "repository": "https://github.com/sindresorhus/escape-string-regexp#readme",
     "licenseFile": "npm/escape-string-regexp@4.0.0/LICENSE"
   },
-  "estree-util-is-identifier-name@3.0.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/syntax-tree/estree-util-is-identifier-name#readme",
-    "licenseFile": "npm/estree-util-is-identifier-name@3.0.0/LICENSE"
-  },
   "ethers@6.17.0": {
     "licenses": "MIT",
     "licenseFile": "npm/ethers@6.17.0/LICENSE"
@@ -517,11 +422,6 @@
     "licenses": "MIT",
     "repository": "https://github.com/primus/eventemitter3#readme",
     "licenseFile": "npm/eventemitter3@5.0.4/LICENSE"
-  },
-  "extend@3.0.2": {
-    "licenses": "MIT",
-    "repository": "https://github.com/justmoon/node-extend#readme",
-    "licenseFile": "npm/extend@3.0.2/LICENSE"
   },
   "file-selector@2.1.2": {
     "licenses": "MIT",
@@ -593,25 +493,10 @@
     "repository": "https://github.com/inspect-js/hasOwn#readme",
     "licenseFile": "npm/hasown@2.0.4/LICENSE"
   },
-  "hast-util-to-jsx-runtime@2.3.6": {
-    "licenses": "MIT",
-    "repository": "https://github.com/syntax-tree/hast-util-to-jsx-runtime#readme",
-    "licenseFile": "npm/hast-util-to-jsx-runtime@2.3.6/LICENSE"
-  },
-  "hast-util-whitespace@3.0.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/syntax-tree/hast-util-whitespace#readme",
-    "licenseFile": "npm/hast-util-whitespace@3.0.0/LICENSE"
-  },
   "html-parse-stringify@4.0.1": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/html-parse-stringify",
     "licenseFile": "npm/html-parse-stringify@4.0.1/LICENSE"
-  },
-  "html-url-attributes@3.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/rehypejs/rehype-minify/tree/main#readme",
-    "licenseFile": "npm/html-url-attributes@3.0.1/LICENSE"
   },
   "i18next@26.4.2": {
     "licenses": "MIT",
@@ -642,21 +527,6 @@
     "repository": "https://github.com/dreamerslab/node.inflection#readme",
     "licenseFile": "npm/inflection@3.0.2/LICENSE"
   },
-  "inline-style-parser@0.2.7": {
-    "licenses": "MIT",
-    "repository": "https://github.com/remarkablemark/inline-style-parser#readme",
-    "licenseFile": "npm/inline-style-parser@0.2.7/LICENSE"
-  },
-  "is-alphabetical@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/is-alphabetical#readme",
-    "licenseFile": "npm/is-alphabetical@2.0.1/LICENSE"
-  },
-  "is-alphanumerical@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/is-alphanumerical#readme",
-    "licenseFile": "npm/is-alphanumerical@2.0.1/LICENSE"
-  },
   "is-arguments@1.2.0": {
     "licenses": "MIT",
     "repository": "https://github.com/inspect-js/is-arguments",
@@ -682,30 +552,15 @@
     "repository": "https://github.com/inspect-js/is-core-module",
     "licenseFile": "npm/is-core-module@2.17.0/LICENSE"
   },
-  "is-decimal@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/is-decimal#readme",
-    "licenseFile": "npm/is-decimal@2.0.1/LICENSE"
-  },
   "is-generator-function@1.1.2": {
     "licenses": "MIT",
     "repository": "https://github.com/inspect-js/is-generator-function#readme",
     "licenseFile": "npm/is-generator-function@1.1.2/LICENSE"
   },
-  "is-hexadecimal@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/is-hexadecimal#readme",
-    "licenseFile": "npm/is-hexadecimal@2.0.1/LICENSE"
-  },
   "is-nan@1.3.2": {
     "licenses": "MIT",
     "repository": "https://github.com/es-shims/is-nan",
     "licenseFile": "npm/is-nan@1.3.2/LICENSE"
-  },
-  "is-plain-obj@4.1.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/sindresorhus/is-plain-obj#readme",
-    "licenseFile": "npm/is-plain-obj@4.1.0/LICENSE"
   },
   "is-regex@1.2.1": {
     "licenses": "MIT",
@@ -750,11 +605,6 @@
     "licenses": "MIT",
     "licenseFile": "npm/lodash@4.18.1/LICENSE"
   },
-  "longest-streak@3.1.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/longest-streak#readme",
-    "licenseFile": "npm/longest-streak@3.1.0/LICENSE"
-  },
   "loose-envify@1.4.0": {
     "licenses": "MIT",
     "repository": "https://github.com/zertosh/loose-envify",
@@ -764,161 +614,6 @@
     "licenses": "MIT",
     "repository": "https://github.com/es-shims/math-intrinsics#readme",
     "licenseFile": "npm/math-intrinsics@1.1.0/LICENSE"
-  },
-  "mdast-util-from-markdown@2.1.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/syntax-tree/mdast-util-from-markdown#readme",
-    "licenseFile": "npm/mdast-util-from-markdown@2.1.0/LICENSE"
-  },
-  "mdast-util-mdx-expression@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/syntax-tree/mdast-util-mdx-expression#readme",
-    "licenseFile": "npm/mdast-util-mdx-expression@2.0.1/LICENSE"
-  },
-  "mdast-util-mdx-jsx@3.2.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/syntax-tree/mdast-util-mdx-jsx#readme",
-    "licenseFile": "npm/mdast-util-mdx-jsx@3.2.0/LICENSE"
-  },
-  "mdast-util-mdxjs-esm@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/syntax-tree/mdast-util-mdxjs-esm#readme",
-    "licenseFile": "npm/mdast-util-mdxjs-esm@2.0.1/LICENSE"
-  },
-  "mdast-util-phrasing@4.1.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/syntax-tree/mdast-util-phrasing#readme",
-    "licenseFile": "npm/mdast-util-phrasing@4.1.0/LICENSE"
-  },
-  "mdast-util-to-hast@13.2.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/syntax-tree/mdast-util-to-hast#readme",
-    "licenseFile": "npm/mdast-util-to-hast@13.2.1/LICENSE"
-  },
-  "mdast-util-to-markdown@2.2.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/syntax-tree/mdast-util-to-markdown#readme",
-    "licenseFile": "npm/mdast-util-to-markdown@2.2.0/LICENSE"
-  },
-  "mdast-util-to-string@4.0.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/syntax-tree/mdast-util-to-string#readme",
-    "licenseFile": "npm/mdast-util-to-string@4.0.0/LICENSE"
-  },
-  "micromark@4.0.3": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark@4.0.3/LICENSE"
-  },
-  "micromark-core-commonmark@2.0.4": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-core-commonmark@2.0.4/LICENSE"
-  },
-  "micromark-factory-destination@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-factory-destination@2.0.1/LICENSE"
-  },
-  "micromark-factory-label@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-factory-label@2.0.1/LICENSE"
-  },
-  "micromark-factory-space@2.1.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-factory-space@2.1.0/LICENSE"
-  },
-  "micromark-factory-title@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-factory-title@2.0.1/LICENSE"
-  },
-  "micromark-factory-whitespace@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-factory-whitespace@2.0.1/LICENSE"
-  },
-  "micromark-util-character@2.1.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-util-character@2.1.1/LICENSE"
-  },
-  "micromark-util-chunked@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-util-chunked@2.0.1/LICENSE"
-  },
-  "micromark-util-classify-character@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-util-classify-character@2.0.1/LICENSE"
-  },
-  "micromark-util-combine-extensions@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-util-combine-extensions@2.0.1/LICENSE"
-  },
-  "micromark-util-decode-numeric-character-reference@2.0.2": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-util-decode-numeric-character-reference@2.0.2/LICENSE"
-  },
-  "micromark-util-decode-string@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-util-decode-string@2.0.1/LICENSE"
-  },
-  "micromark-util-edit-map@1.0.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-util-edit-map@1.0.0/LICENSE"
-  },
-  "micromark-util-encode@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-util-encode@2.0.1/LICENSE"
-  },
-  "micromark-util-html-tag-name@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-util-html-tag-name@2.0.1/LICENSE"
-  },
-  "micromark-util-normalize-identifier@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-util-normalize-identifier@2.0.1/LICENSE"
-  },
-  "micromark-util-resolve-all@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-util-resolve-all@2.0.1/LICENSE"
-  },
-  "micromark-util-sanitize-uri@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-util-sanitize-uri@2.0.1/LICENSE"
-  },
-  "micromark-util-subtokenize@2.1.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-util-subtokenize@2.1.0/LICENSE"
-  },
-  "micromark-util-symbol@2.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-util-symbol@2.0.1/LICENSE"
-  },
-  "micromark-util-types@2.0.2": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-util-types@2.0.2/LICENSE"
-  },
-  "micromark-util-types@2.0.3": {
-    "licenses": "MIT",
-    "repository": "https://github.com/micromark/micromark/tree/main#readme",
-    "licenseFile": "npm/micromark-util-types@2.0.3/LICENSE"
   },
   "mipd@0.0.7": {
     "licenses": "MIT",
@@ -964,11 +659,6 @@
     "repository": "https://github.com/sindresorhus/parent-module#readme",
     "licenseFile": "npm/parent-module@1.0.1/LICENSE"
   },
-  "parse-entities@4.0.2": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/parse-entities#readme",
-    "licenseFile": "npm/parse-entities@4.0.2/LICENSE"
-  },
   "parse-json@5.2.0": {
     "licenses": "MIT",
     "repository": "https://github.com/sindresorhus/parse-json#readme",
@@ -992,11 +682,6 @@
   "prop-types@15.8.1": {
     "licenses": "MIT",
     "licenseFile": "npm/prop-types@15.8.1/LICENSE"
-  },
-  "property-information@7.2.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/property-information#readme",
-    "licenseFile": "npm/property-information@7.2.0/LICENSE"
   },
   "query-string@7.1.3": {
     "licenses": "MIT",
@@ -1067,11 +752,6 @@
     "licenses": "MIT",
     "licenseFile": "npm/react-is@19.3.0/LICENSE"
   },
-  "react-markdown@10.1.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/remarkjs/react-markdown#readme",
-    "licenseFile": "npm/react-markdown@10.1.0/LICENSE"
-  },
   "react-router@7.18.4": {
     "licenses": "MIT",
     "repository": "https://github.com/remix-run/react-router#readme",
@@ -1081,15 +761,6 @@
     "licenses": "MIT",
     "repository": "https://github.com/remix-run/react-router#readme",
     "licenseFile": "npm/react-router-dom@7.18.4/LICENSE"
-  },
-  "remark-parse@11.0.0": {
-    "licenses": "MIT",
-    "licenseFile": "npm/remark-parse@11.0.0/LICENSE"
-  },
-  "remark-rehype@11.1.2": {
-    "licenses": "MIT",
-    "repository": "https://github.com/remarkjs/remark-rehype#readme",
-    "licenseFile": "npm/remark-rehype@11.1.2/LICENSE"
   },
   "remove-accents@0.4.4": {
     "licenses": "MIT",
@@ -1125,11 +796,6 @@
     "repository": "https://github.com/ljharb/set-function-length#readme",
     "licenseFile": "npm/set-function-length@1.2.2/LICENSE"
   },
-  "space-separated-tokens@2.0.2": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/space-separated-tokens#readme",
-    "licenseFile": "npm/space-separated-tokens@2.0.2/LICENSE"
-  },
   "split-on-first@1.1.0": {
     "licenses": "MIT",
     "repository": "https://github.com/sindresorhus/split-on-first#readme",
@@ -1139,21 +805,6 @@
     "licenses": "MIT",
     "repository": "https://github.com/kevva/strict-uri-encode#readme",
     "licenseFile": "npm/strict-uri-encode@2.0.0/LICENSE"
-  },
-  "stringify-entities@4.0.4": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/stringify-entities#readme",
-    "licenseFile": "npm/stringify-entities@4.0.4/LICENSE"
-  },
-  "style-to-js@1.1.21": {
-    "licenses": "MIT",
-    "repository": "https://github.com/remarkablemark/style-to-js#readme",
-    "licenseFile": "npm/style-to-js@1.1.21/LICENSE"
-  },
-  "style-to-object@1.0.14": {
-    "licenses": "MIT",
-    "repository": "https://github.com/remarkablemark/style-to-object#readme",
-    "licenseFile": "npm/style-to-object@1.0.14/LICENSE"
   },
   "stylis@4.2.0": {
     "licenses": "MIT",
@@ -1165,48 +816,9 @@
     "repository": "https://github.com/inspect-js/node-supports-preserve-symlinks-flag#readme",
     "licenseFile": "npm/supports-preserve-symlinks-flag@1.0.0/LICENSE"
   },
-  "trim-lines@3.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/trim-lines#readme",
-    "licenseFile": "npm/trim-lines@3.0.1/LICENSE"
-  },
-  "trough@2.2.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/trough#readme",
-    "licenseFile": "npm/trough@2.2.0/LICENSE"
-  },
   "undici-types@6.19.8": {
     "licenses": "MIT",
     "licenseFile": "npm/undici-types@6.19.8/LICENSE"
-  },
-  "unified@11.0.5": {
-    "licenses": "MIT",
-    "licenseFile": "npm/unified@11.0.5/LICENSE"
-  },
-  "unist-util-is@6.0.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/syntax-tree/unist-util-is#readme",
-    "licenseFile": "npm/unist-util-is@6.0.1/LICENSE"
-  },
-  "unist-util-position@5.0.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/syntax-tree/unist-util-position#readme",
-    "licenseFile": "npm/unist-util-position@5.0.0/LICENSE"
-  },
-  "unist-util-stringify-position@4.0.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/syntax-tree/unist-util-stringify-position#readme",
-    "licenseFile": "npm/unist-util-stringify-position@4.0.0/LICENSE"
-  },
-  "unist-util-visit@5.1.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/syntax-tree/unist-util-visit#readme",
-    "licenseFile": "npm/unist-util-visit@5.1.0/LICENSE"
-  },
-  "unist-util-visit-parents@6.0.2": {
-    "licenses": "MIT",
-    "repository": "https://github.com/syntax-tree/unist-util-visit-parents#readme",
-    "licenseFile": "npm/unist-util-visit-parents@6.0.2/LICENSE"
   },
   "use-sync-external-store@1.4.0": {
     "licenses": "MIT",
@@ -1222,16 +834,6 @@
     "licenses": "MIT",
     "repository": "https://github.com/browserify/node-util",
     "licenseFile": "npm/util@0.12.5/LICENSE"
-  },
-  "vfile@6.0.3": {
-    "licenses": "MIT",
-    "repository": "https://github.com/vfile/vfile#readme",
-    "licenseFile": "npm/vfile@6.0.3/LICENSE"
-  },
-  "vfile-message@4.0.3": {
-    "licenses": "MIT",
-    "repository": "https://github.com/vfile/vfile-message#readme",
-    "licenseFile": "npm/vfile-message@4.0.3/LICENSE"
   },
   "viem@2.57.2": {
     "licenses": "MIT",
@@ -1261,30 +863,6 @@
     "licenses": "MIT",
     "repository": "https://github.com/pmndrs/zustand",
     "licenseFile": "npm/zustand@5.0.0/LICENSE"
-  },
-  "zwitch@2.0.4": {
-    "licenses": "MIT",
-    "repository": "https://github.com/wooorm/zwitch#readme",
-    "licenseFile": "npm/zwitch@2.0.4/LICENSE"
-  },
-  "@ungap/structured-clone@1.4.0": {
-    "licenses": "ISC",
-    "repository": "https://github.com/ungap/structured-clone#readme",
-    "licenseFile": "npm/@ungap/structured-clone@1.4.0/LICENSE"
-  },
-  "inherits@2.0.4": {
-    "licenses": "ISC",
-    "repository": "https://github.com/isaacs/inherits#readme",
-    "licenseFile": "npm/inherits@2.0.4/LICENSE"
-  },
-  "picocolors@1.1.1": {
-    "licenses": "ISC",
-    "repository": "https://github.com/alexeyraspopov/picocolors#readme",
-    "licenseFile": "npm/picocolors@1.1.1/LICENSE"
-  },
-  "yaml@1.10.3": {
-    "licenses": "ISC",
-    "licenseFile": "npm/yaml@1.10.3/LICENSE"
   },
   "charenc@0.0.2": {
     "licenses": "BSD-3-Clause",
@@ -1325,6 +903,20 @@
     "licenses": "(MPL-2.0 OR Apache-2.0)",
     "repository": "https://github.com/cure53/DOMPurify",
     "licenseFile": "npm/dompurify@3.4.16/LICENSE"
+  },
+  "inherits@2.0.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/inherits#readme",
+    "licenseFile": "npm/inherits@2.0.4/LICENSE"
+  },
+  "picocolors@1.1.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/alexeyraspopov/picocolors#readme",
+    "licenseFile": "npm/picocolors@1.1.1/LICENSE"
+  },
+  "yaml@1.10.3": {
+    "licenses": "ISC",
+    "licenseFile": "npm/yaml@1.10.3/LICENSE"
   },
   "jsonexport@3.2.0": {
     "licenses": "Apache-2.0",
