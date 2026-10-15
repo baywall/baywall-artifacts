@@ -34,21 +34,21 @@
     "licenses": "MIT",
     "licenseFile": "npm/@babel/parser@7.29.9/LICENSE"
   },
-  "@babel/runtime@7.29.7": {
+  "@babel/runtime@7.29.10": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/runtime@7.29.7/LICENSE"
+    "licenseFile": "npm/@babel/runtime@7.29.10/LICENSE"
   },
-  "@babel/runtime@8.0.5": {
+  "@babel/runtime@8.0.7": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/runtime@8.0.5/LICENSE"
+    "licenseFile": "npm/@babel/runtime@8.0.7/LICENSE"
   },
   "@babel/template@7.29.7": {
     "licenses": "MIT",
     "licenseFile": "npm/@babel/template@7.29.7/LICENSE"
   },
-  "@babel/traverse@7.29.8": {
+  "@babel/traverse@7.29.10": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/traverse@7.29.8/LICENSE"
+    "licenseFile": "npm/@babel/traverse@7.29.10/LICENSE"
   },
   "@babel/types@7.29.8": {
     "licenses": "MIT",
@@ -195,10 +195,6 @@
     "licenses": "MIT",
     "licenseFile": "npm/@noble/curves@1.9.1/LICENSE"
   },
-  "@noble/curves@1.9.7": {
-    "licenses": "MIT",
-    "licenseFile": "npm/@noble/curves@1.9.7/LICENSE"
-  },
   "@noble/hashes@1.3.2": {
     "licenses": "MIT",
     "licenseFile": "npm/@noble/hashes@1.3.2/LICENSE"
@@ -224,13 +220,13 @@
     "licenses": "MIT",
     "licenseFile": "npm/@scure/bip39@1.6.0/LICENSE"
   },
-  "@tanstack/query-core@5.104.1": {
+  "@tanstack/query-core@5.104.2": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/query-core@5.104.1/LICENSE"
+    "licenseFile": "npm/@tanstack/query-core@5.104.2/LICENSE"
   },
-  "@tanstack/react-query@5.104.1": {
+  "@tanstack/react-query@5.104.2": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/react-query@5.104.1/LICENSE"
+    "licenseFile": "npm/@tanstack/react-query@5.104.2/LICENSE"
   },
   "@types/node@22.7.5": {
     "licenses": "MIT",
@@ -506,9 +502,9 @@
     "repository": "https://github.com/i18next/html-parse-stringify",
     "licenseFile": "npm/html-parse-stringify@4.0.1/LICENSE"
   },
-  "i18next@26.4.3": {
+  "i18next@26.4.4": {
     "licenses": "MIT",
-    "licenseFile": "npm/i18next@26.4.3/LICENSE"
+    "licenseFile": "npm/i18next@26.4.4/LICENSE"
   },
   "i18next-browser-languagedetector@8.2.1": {
     "licenses": "MIT",
@@ -658,9 +654,13 @@
     "repository": "https://github.com/es-shims/Object.entries#readme",
     "licenseFile": "npm/object.entries@1.1.9/LICENSE"
   },
-  "ox@0.14.54": {
+  "ox@0.14.56": {
     "licenses": "MIT",
-    "licenseFile": "npm/ox@0.14.54/LICENSE"
+    "licenseFile": "npm/ox@0.14.56/LICENSE"
+  },
+  "papaparse@5.7.0": {
+    "licenses": "MIT",
+    "licenseFile": "npm/papaparse@5.7.0/LICENSE"
   },
   "parent-module@1.0.1": {
     "licenses": "MIT",
@@ -739,9 +739,9 @@
     "repository": "https://github.com/bvaughn/react-error-boundary#readme",
     "licenseFile": "npm/react-error-boundary@4.1.2/LICENSE"
   },
-  "react-hook-form@7.89.0": {
+  "react-hook-form@7.90.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/react-hook-form@7.89.0/LICENSE"
+    "licenseFile": "npm/react-hook-form@7.90.0/LICENSE"
   },
   "react-hotkeys-hook@5.3.3": {
     "licenses": "MIT",
@@ -775,10 +775,10 @@
     "repository": "https://github.com/tyxla/remove-accents",
     "licenseFile": "npm/remove-accents@0.4.4/LICENSE"
   },
-  "resolve@1.22.12": {
+  "resolve@1.22.13": {
     "licenses": "MIT",
     "repository": "https://github.com/browserify/resolve#readme",
-    "licenseFile": "npm/resolve@1.22.12/LICENSE"
+    "licenseFile": "npm/resolve@1.22.13/LICENSE"
   },
   "resolve-from@4.0.0": {
     "licenses": "MIT",
@@ -843,9 +843,9 @@
     "repository": "https://github.com/browserify/node-util",
     "licenseFile": "npm/util@0.12.5/LICENSE"
   },
-  "viem@2.57.4": {
+  "viem@2.57.5": {
     "licenses": "MIT",
-    "licenseFile": "npm/viem@2.57.4/LICENSE"
+    "licenseFile": "npm/viem@2.57.5/LICENSE"
   },
   "wagmi@3.7.7": {
     "licenses": "MIT",
@@ -907,10 +907,10 @@
     "repository": "https://github.com/ericf/css-mediaquery",
     "licenseFile": "npm/css-mediaquery@0.1.2/LICENSE"
   },
-  "dompurify@3.4.16": {
+  "dompurify@3.4.17": {
     "licenses": "(MPL-2.0 OR Apache-2.0)",
     "repository": "https://github.com/cure53/DOMPurify",
-    "licenseFile": "npm/dompurify@3.4.16/LICENSE"
+    "licenseFile": "npm/dompurify@3.4.17/LICENSE"
   },
   "inherits@2.0.4": {
     "licenses": "ISC",
