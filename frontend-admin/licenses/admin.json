@@ -8,9 +8,9 @@
     "licenses": "MIT",
     "licenseFile": "npm/@babel/code-frame@7.29.7/LICENSE"
   },
-  "@babel/generator@7.29.8": {
+  "@babel/generator@7.29.12": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/generator@7.29.8/LICENSE"
+    "licenseFile": "npm/@babel/generator@7.29.12/LICENSE"
   },
   "@babel/helper-globals@7.29.7": {
     "licenses": "MIT",
@@ -21,38 +21,38 @@
     "licenses": "MIT",
     "licenseFile": "npm/@babel/helper-module-imports@7.29.7/LICENSE"
   },
-  "@babel/helper-string-parser@7.29.7": {
+  "@babel/helper-string-parser@7.29.11": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/helper-string-parser@7.29.7/LICENSE"
+    "licenseFile": "npm/@babel/helper-string-parser@7.29.11/LICENSE"
   },
   "@babel/helper-validator-identifier@7.29.7": {
     "licenses": "MIT",
     "repository": "https://github.com/babel/babel#readme",
     "licenseFile": "npm/@babel/helper-validator-identifier@7.29.7/LICENSE"
   },
-  "@babel/parser@7.29.9": {
+  "@babel/parser@7.29.12": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/parser@7.29.9/LICENSE"
+    "licenseFile": "npm/@babel/parser@7.29.12/LICENSE"
   },
   "@babel/runtime@7.29.10": {
     "licenses": "MIT",
     "licenseFile": "npm/@babel/runtime@7.29.10/LICENSE"
   },
-  "@babel/runtime@8.0.7": {
+  "@babel/runtime@8.1.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/runtime@8.0.7/LICENSE"
+    "licenseFile": "npm/@babel/runtime@8.1.0/LICENSE"
   },
   "@babel/template@7.29.7": {
     "licenses": "MIT",
     "licenseFile": "npm/@babel/template@7.29.7/LICENSE"
   },
-  "@babel/traverse@7.29.10": {
+  "@babel/traverse@7.29.12": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/traverse@7.29.10/LICENSE"
+    "licenseFile": "npm/@babel/traverse@7.29.12/LICENSE"
   },
-  "@babel/types@7.29.8": {
+  "@babel/types@7.29.11": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/types@7.29.8/LICENSE"
+    "licenseFile": "npm/@babel/types@7.29.11/LICENSE"
   },
   "@bicstone/ra-language-japanese@5.15.0": {
     "licenses": "MIT",
@@ -220,13 +220,13 @@
     "licenses": "MIT",
     "licenseFile": "npm/@scure/bip39@1.6.0/LICENSE"
   },
-  "@tanstack/query-core@5.104.5": {
+  "@tanstack/query-core@5.105.2": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/query-core@5.104.5/LICENSE"
+    "licenseFile": "npm/@tanstack/query-core@5.105.2/LICENSE"
   },
-  "@tanstack/react-query@5.104.5": {
+  "@tanstack/react-query@5.105.2": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/react-query@5.104.5/LICENSE"
+    "licenseFile": "npm/@tanstack/react-query@5.105.2/LICENSE"
   },
   "@types/node@22.7.5": {
     "licenses": "MIT",
@@ -502,24 +502,24 @@
     "repository": "https://github.com/i18next/html-parse-stringify",
     "licenseFile": "npm/html-parse-stringify@4.0.1/LICENSE"
   },
-  "i18next@26.5.6": {
+  "i18next@26.7.1": {
     "licenses": "MIT",
-    "licenseFile": "npm/i18next@26.5.6/LICENSE"
+    "licenseFile": "npm/i18next@26.7.1/LICENSE"
   },
-  "i18next-browser-languagedetector@8.2.1": {
+  "i18next-browser-languagedetector@8.3.0": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/i18next-browser-languageDetector",
-    "licenseFile": "npm/i18next-browser-languagedetector@8.2.1/LICENSE"
+    "licenseFile": "npm/i18next-browser-languagedetector@8.3.0/LICENSE"
   },
-  "i18next-chained-backend@5.0.6": {
+  "i18next-chained-backend@5.0.8": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/i18next-chained-backend",
-    "licenseFile": "npm/i18next-chained-backend@5.0.6/LICENSE"
+    "licenseFile": "npm/i18next-chained-backend@5.0.8/LICENSE"
   },
-  "i18next-resources-to-backend@1.2.3": {
+  "i18next-resources-to-backend@1.2.4": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/i18next-resources-to-backend",
-    "licenseFile": "npm/i18next-resources-to-backend@1.2.3/LICENSE"
+    "licenseFile": "npm/i18next-resources-to-backend@1.2.4/LICENSE"
   },
   "import-fresh@3.3.1": {
     "licenses": "MIT",
@@ -654,9 +654,9 @@
     "repository": "https://github.com/es-shims/Object.entries#readme",
     "licenseFile": "npm/object.entries@1.1.9/LICENSE"
   },
-  "ox@0.14.57": {
+  "ox@0.14.59": {
     "licenses": "MIT",
-    "licenseFile": "npm/ox@0.14.57/LICENSE"
+    "licenseFile": "npm/ox@0.14.59/LICENSE"
   },
   "papaparse@5.7.0": {
     "licenses": "MIT",
@@ -739,18 +739,18 @@
     "repository": "https://github.com/bvaughn/react-error-boundary#readme",
     "licenseFile": "npm/react-error-boundary@4.1.2/LICENSE"
   },
-  "react-hook-form@7.90.0": {
+  "react-hook-form@7.91.0": {
     "licenses": "MIT",
-    "licenseFile": "npm/react-hook-form@7.90.0/LICENSE"
+    "licenseFile": "npm/react-hook-form@7.91.0/LICENSE"
   },
   "react-hotkeys-hook@5.3.3": {
     "licenses": "MIT",
     "licenseFile": "npm/react-hotkeys-hook@5.3.3/LICENSE"
   },
-  "react-i18next@17.1.3": {
+  "react-i18next@17.1.11": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/react-i18next",
-    "licenseFile": "npm/react-i18next@17.1.3/LICENSE"
+    "licenseFile": "npm/react-i18next@17.1.11/LICENSE"
   },
   "react-is@16.13.1": {
     "licenses": "MIT",
@@ -760,15 +760,15 @@
     "licenses": "MIT",
     "licenseFile": "npm/react-is@19.3.1/LICENSE"
   },
-  "react-router@7.18.4": {
+  "react-router@7.18.5": {
     "licenses": "MIT",
     "repository": "https://github.com/remix-run/react-router#readme",
-    "licenseFile": "npm/react-router@7.18.4/LICENSE"
+    "licenseFile": "npm/react-router@7.18.5/LICENSE"
   },
-  "react-router-dom@7.18.4": {
+  "react-router-dom@7.18.5": {
     "licenses": "MIT",
     "repository": "https://github.com/remix-run/react-router#readme",
-    "licenseFile": "npm/react-router-dom@7.18.4/LICENSE"
+    "licenseFile": "npm/react-router-dom@7.18.5/LICENSE"
   },
   "remove-accents@0.4.4": {
     "licenses": "MIT",
@@ -794,10 +794,10 @@
     "licenses": "MIT",
     "licenseFile": "npm/scheduler@0.28.0/LICENSE"
   },
-  "set-cookie-parser@2.7.2": {
+  "set-cookie-parser@2.7.3": {
     "licenses": "MIT",
     "repository": "https://github.com/nfriedly/set-cookie-parser",
-    "licenseFile": "npm/set-cookie-parser@2.7.2/LICENSE"
+    "licenseFile": "npm/set-cookie-parser@2.7.3/LICENSE"
   },
   "set-function-length@1.2.2": {
     "licenses": "MIT",
@@ -843,9 +843,9 @@
     "repository": "https://github.com/browserify/node-util",
     "licenseFile": "npm/util@0.12.5/LICENSE"
   },
-  "viem@2.57.10": {
+  "viem@2.57.14": {
     "licenses": "MIT",
-    "licenseFile": "npm/viem@2.57.10/LICENSE"
+    "licenseFile": "npm/viem@2.57.14/LICENSE"
   },
   "wagmi@3.7.9": {
     "licenses": "MIT",
@@ -940,8 +940,8 @@
     "licenses": "0BSD",
     "licenseFile": "npm/tslib@2.7.0/LICENSE"
   },
-  "tslib@2.8.1": {
+  "tslib@2.9.1": {
     "licenses": "0BSD",
-    "licenseFile": "npm/tslib@2.8.1/LICENSE"
+    "licenseFile": "npm/tslib@2.9.1/LICENSE"
   }
 }
