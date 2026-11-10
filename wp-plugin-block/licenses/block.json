@@ -1,20 +1,20 @@
 {
-  "@babel/runtime@7.29.10": {
+  "@babel/runtime@7.29.13": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/runtime@7.29.10/LICENSE"
+    "licenseFile": "npm/@babel/runtime@7.29.13/LICENSE"
   },
   "@graphql-typed-document-node/core@3.2.0": {
     "licenses": "MIT",
     "repository": "https://github.com/dotansimha/graphql-typed-document-node#readme",
     "licenseFile": "npm/@graphql-typed-document-node/core@3.2.0/LICENSE"
   },
-  "@tanstack/query-core@5.105.2": {
+  "@tanstack/query-core@5.107.1": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/query-core@5.105.2/LICENSE"
+    "licenseFile": "npm/@tanstack/query-core@5.107.1/LICENSE"
   },
-  "@tanstack/react-query@5.105.2": {
+  "@tanstack/react-query@5.107.1": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/react-query@5.105.2/LICENSE"
+    "licenseFile": "npm/@tanstack/react-query@5.107.1/LICENSE"
   },
   "assert@2.1.0": {
     "licenses": "MIT",
@@ -141,10 +141,10 @@
     "repository": "https://github.com/ljharb/gopd#readme",
     "licenseFile": "npm/gopd@1.2.0/LICENSE"
   },
-  "graphql@16.14.2": {
+  "graphql@16.15.0": {
     "licenses": "MIT",
     "repository": "https://github.com/graphql/graphql-js",
-    "licenseFile": "npm/graphql@16.14.2/LICENSE"
+    "licenseFile": "npm/graphql@16.15.0/LICENSE"
   },
   "has-property-descriptors@1.0.2": {
     "licenses": "MIT",
@@ -176,9 +176,9 @@
     "repository": "https://github.com/i18next/html-parse-stringify",
     "licenseFile": "npm/html-parse-stringify@4.0.1/LICENSE"
   },
-  "i18next@26.7.1": {
+  "i18next@27.0.1": {
     "licenses": "MIT",
-    "licenseFile": "npm/i18next@26.7.1/LICENSE"
+    "licenseFile": "npm/i18next@27.0.1/LICENSE"
   },
   "i18next-browser-languagedetector@8.3.0": {
     "licenses": "MIT",
@@ -293,10 +293,10 @@
     "licenses": "MIT",
     "licenseFile": "npm/react-dom@18.3.1/LICENSE"
   },
-  "react-i18next@17.1.11": {
+  "react-i18next@18.0.0": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/react-i18next",
-    "licenseFile": "npm/react-i18next@17.1.11/LICENSE"
+    "licenseFile": "npm/react-i18next@18.0.0/LICENSE"
   },
   "safe-regex-test@1.1.0": {
     "licenses": "MIT",
@@ -332,11 +332,6 @@
     "repository": "https://github.com/blakeembrey/change-case/tree/master/packages/upper-case-first#readme",
     "licenseFile": "npm/upper-case-first@2.0.2/LICENSE"
   },
-  "use-sync-external-store@1.7.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/react/react#readme",
-    "licenseFile": "npm/use-sync-external-store@1.7.0/LICENSE"
-  },
   "util@0.12.5": {
     "licenses": "MIT",
     "repository": "https://github.com/browserify/node-util",
@@ -347,25 +342,25 @@
     "repository": "https://github.com/inspect-js/which-typed-array#readme",
     "licenseFile": "npm/which-typed-array@1.1.24/LICENSE"
   },
-  "@wordpress/element@10.0.0": {
+  "@wordpress/element@10.1.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/element/README.md",
-    "licenseFile": "npm/@wordpress/element@10.0.0/LICENSE"
+    "licenseFile": "npm/@wordpress/element@10.1.0/LICENSE"
   },
-  "@wordpress/escape-html@4.0.0": {
+  "@wordpress/escape-html@4.1.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/escape-html/README.md",
-    "licenseFile": "npm/@wordpress/escape-html@4.0.0/LICENSE"
+    "licenseFile": "npm/@wordpress/escape-html@4.1.0/LICENSE"
   },
-  "@wordpress/icons@19.0.0": {
+  "@wordpress/icons@20.0.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/icons/README.md",
-    "licenseFile": "npm/@wordpress/icons@19.0.0/LICENSE"
+    "licenseFile": "npm/@wordpress/icons@20.0.0/LICENSE"
   },
-  "@wordpress/primitives@5.0.0": {
+  "@wordpress/primitives@5.1.0": {
     "licenses": "GPL-2.0-or-later",
     "repository": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/primitives/README.md",
-    "licenseFile": "npm/@wordpress/primitives@5.0.0/LICENSE"
+    "licenseFile": "npm/@wordpress/primitives@5.1.0/LICENSE"
   },
   "inherits@2.0.4": {
     "licenses": "ISC",

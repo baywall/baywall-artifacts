@@ -4,9 +4,9 @@
     "repository": "https://github.com/adraffy/ens-normalize.js#readme",
     "licenseFile": "npm/@adraffy/ens-normalize@1.11.1/LICENSE"
   },
-  "@babel/runtime@7.29.10": {
+  "@babel/runtime@7.29.13": {
     "licenses": "MIT",
-    "licenseFile": "npm/@babel/runtime@7.29.10/LICENSE"
+    "licenseFile": "npm/@babel/runtime@7.29.13/LICENSE"
   },
   "@fortawesome/fontawesome-common-types@7.3.1": {
     "licenses": "MIT",
@@ -58,28 +58,28 @@
     "licenses": "MIT",
     "licenseFile": "npm/@scure/bip39@1.6.0/LICENSE"
   },
-  "@tanstack/query-core@5.105.2": {
+  "@tanstack/query-core@5.107.1": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/query-core@5.105.2/LICENSE"
+    "licenseFile": "npm/@tanstack/query-core@5.107.1/LICENSE"
   },
-  "@tanstack/react-query@5.105.2": {
+  "@tanstack/react-query@5.107.1": {
     "licenses": "MIT",
-    "licenseFile": "npm/@tanstack/react-query@5.105.2/LICENSE"
+    "licenseFile": "npm/@tanstack/react-query@5.107.1/LICENSE"
   },
   "@types/node@22.7.5": {
     "licenses": "MIT",
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node",
     "licenseFile": "npm/@types/node@22.7.5/LICENSE"
   },
-  "@wagmi/connectors@8.2.2": {
+  "@wagmi/connectors@8.2.4": {
     "licenses": "MIT",
     "repository": "https://github.com/wevm/wagmi#readme",
-    "licenseFile": "npm/@wagmi/connectors@8.2.2/LICENSE"
+    "licenseFile": "npm/@wagmi/connectors@8.2.4/LICENSE"
   },
-  "@wagmi/core@3.6.7": {
+  "@wagmi/core@3.6.9": {
     "licenses": "MIT",
     "repository": "https://github.com/wevm/wagmi#readme",
-    "licenseFile": "npm/@wagmi/core@3.6.7/LICENSE"
+    "licenseFile": "npm/@wagmi/core@3.6.9/LICENSE"
   },
   "abitype@1.2.3": {
     "licenses": "MIT",
@@ -195,10 +195,10 @@
     "repository": "https://github.com/ljharb/gopd#readme",
     "licenseFile": "npm/gopd@1.2.0/LICENSE"
   },
-  "graphql@16.14.2": {
+  "graphql@16.15.0": {
     "licenses": "MIT",
     "repository": "https://github.com/graphql/graphql-js",
-    "licenseFile": "npm/graphql@16.14.2/LICENSE"
+    "licenseFile": "npm/graphql@16.15.0/LICENSE"
   },
   "has-property-descriptors@1.0.2": {
     "licenses": "MIT",
@@ -225,9 +225,9 @@
     "repository": "https://github.com/i18next/html-parse-stringify",
     "licenseFile": "npm/html-parse-stringify@4.0.1/LICENSE"
   },
-  "i18next@26.7.1": {
+  "i18next@27.0.1": {
     "licenses": "MIT",
-    "licenseFile": "npm/i18next@26.7.1/LICENSE"
+    "licenseFile": "npm/i18next@27.0.1/LICENSE"
   },
   "i18next-browser-languagedetector@8.3.0": {
     "licenses": "MIT",
@@ -349,10 +349,10 @@
     "licenses": "MIT",
     "licenseFile": "npm/react-dom@19.3.1/LICENSE"
   },
-  "react-i18next@17.1.11": {
+  "react-i18next@18.0.0": {
     "licenses": "MIT",
     "repository": "https://github.com/i18next/react-i18next",
-    "licenseFile": "npm/react-i18next@17.1.11/LICENSE"
+    "licenseFile": "npm/react-i18next@18.0.0/LICENSE"
   },
   "react-is@16.13.1": {
     "licenses": "MIT",
@@ -383,27 +383,22 @@
   },
   "use-sync-external-store@1.4.0": {
     "licenses": "MIT",
-    "repository": "https://github.com/react/react#readme",
+    "repository": "https://github.com/facebook/react#readme",
     "licenseFile": "npm/use-sync-external-store@1.4.0/LICENSE"
-  },
-  "use-sync-external-store@1.7.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/react/react#readme",
-    "licenseFile": "npm/use-sync-external-store@1.7.0/LICENSE"
   },
   "util@0.12.5": {
     "licenses": "MIT",
     "repository": "https://github.com/browserify/node-util",
     "licenseFile": "npm/util@0.12.5/LICENSE"
   },
-  "viem@2.57.14": {
+  "viem@2.57.16": {
     "licenses": "MIT",
-    "licenseFile": "npm/viem@2.57.14/LICENSE"
+    "licenseFile": "npm/viem@2.57.16/LICENSE"
   },
-  "wagmi@3.7.9": {
+  "wagmi@3.7.11": {
     "licenses": "MIT",
     "repository": "https://github.com/wevm/wagmi#readme",
-    "licenseFile": "npm/wagmi@3.7.9/LICENSE"
+    "licenseFile": "npm/wagmi@3.7.11/LICENSE"
   },
   "which-typed-array@1.1.24": {
     "licenses": "MIT",
