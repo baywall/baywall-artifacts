@@ -4,5 +4,5 @@
 		'react-jsx-runtime',
 		'wp-primitives'
 	),
-	'version' => '7f7f1224a6abdda53fa2'
+	'version' => '689ef373c86d32a84929'
 );
